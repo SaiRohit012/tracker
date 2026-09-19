@@ -1,0 +1,68 @@
+name: Job Tracker
+on:
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'preview, baseline (suppress existing), or send'
+        type: choice
+        default: preview
+        options: [preview, baseline, send]
+permissions:
+  contents: write
+concurrency:
+  group: job-tracker-state
+  cancel-in-progress: false
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    env:
+      GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+      SENDER_EMAIL: ${{ vars.SENDER_EMAIL || 'n8nworkflow2026@gmail.com' }}
+      RECIPIENT_EMAIL: ${{ vars.RECIPIENT_EMAIL || 'shaiksairohit@gmail.com' }}
+      MIN_ANNUAL_INR: ${{ vars.MIN_ANNUAL_INR || '1650000' }}
+      EXCLUDE_SENIOR: ${{ vars.EXCLUDE_SENIOR || 'true' }}
+      INCLUDE_INTERNSHIPS: ${{ vars.INCLUDE_INTERNSHIPS || 'false' }}
+      INCLUDE_OVERSEAS: ${{ vars.INCLUDE_OVERSEAS || 'false' }}
+      INCLUDE_UNKNOWN_LOCATION: ${{ vars.INCLUDE_UNKNOWN_LOCATION || 'false' }}
+      BROWSER_COMPANIES_PER_RUN: '36'
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: python -m pip install -r requirements.txt
+      - run: python -m playwright install --with-deps chromium
+      - run: python -m unittest discover -s tests -v
+      - name: Collect and report
+        env:
+          MODE: ${{ github.event.inputs.mode || 'send' }}
+        run: |
+          case "$MODE" in
+            preview) python main.py ;;
+            baseline) python main.py --baseline ;;
+            send) python main.py --send ;;
+            *) exit 2 ;;
+          esac
+      - name: Persist pending and delivered state even after email failure
+        if: always()
+        run: |
+          if [ -f data/tracker_state.json ]; then
+            git config user.name 'github-actions[bot]'
+            git config user.email 'github-actions[bot]@users.noreply.github.com'
+            git add data/tracker_state.json
+            if ! git diff --staged --quiet; then
+              git commit -m 'chore: checkpoint tracker state [skip ci]'
+              git pull --rebase
+              git push
+            fi
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: tracker-reports
+          path: reports/
+          retention-days: 14
