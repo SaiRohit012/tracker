@@ -19,11 +19,17 @@ def send(subject, body):
     message.add_alternative(body, subtype="html")
     try:
         with smtplib.SMTP_SSL("smtp.gmail.com", 465, timeout=30) as server:
-            server.login(sender, password.replace(" ", ""))
+            server.login(sender, "".join(password.split()))
             refused = server.send_message(message)
         return not refused
+    except smtplib.SMTPAuthenticationError as exc:
+        detail = exc.smtp_error.decode(errors="replace") if isinstance(exc.smtp_error, bytes) else str(exc.smtp_error)
+        cleaned = "".join(password.split())
+        logging.error("Email auth failed: sender=%r, password_length=%d (App Passwords are 16), code=%s, reason=%s",
+                      sender, len(cleaned), exc.smtp_code, " ".join(detail.split()))
+        return False
     except Exception as exc:
-        logging.error("Email failed: %s; message retained for retry", type(exc).__name__)
+        logging.error("Email failed: %s: %s; message retained for retry", type(exc).__name__, exc)
         return False
 
 def digest(jobs):
