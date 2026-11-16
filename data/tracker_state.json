@@ -13,18 +13,18 @@
       "source_id": "7985187",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-16T09:42:42.434125+00:00",
+      "fetched_at": "2026-11-16T20:29:23.300656+00:00",
       "legacy_ids": [
         "gh_coinbase_7985187"
       ],
       "experience_hint": "2+ years of professional experience",
       "seniority": "unspecified",
       "first_seen": "2026-09-20T00:09:38.150785+00:00",
-      "last_seen": "2026-11-16T09:42:42.662549+00:00",
+      "last_seen": "2026-11-16T20:29:23.796668+00:00",
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-16T09:44:12.883155+00:00"
+      "link_checked_at": "2026-11-16T20:32:03.711480+00:00"
     },
     "56228747c13d232288b6c5e01db71c92": {
       "id": "56228747c13d232288b6c5e01db71c92",
@@ -38,14 +38,14 @@
       "source_id": "8165441",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-16T09:42:42.606264+00:00",
+      "fetched_at": "2026-11-16T20:29:23.648265+00:00",
       "legacy_ids": [
         "gh_coinbase_8165441"
       ],
       "experience_hint": "3+ years of experience",
       "seniority": "unspecified",
       "first_seen": "2026-09-20T00:09:38.150803+00:00",
-      "last_seen": "2026-11-16T09:42:42.662561+00:00",
+      "last_seen": "2026-11-16T20:29:23.796679+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -421,18 +421,18 @@
       "source_id": "7956918",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-16T09:42:45.282635+00:00",
+      "fetched_at": "2026-11-16T20:29:25.997000+00:00",
       "legacy_ids": [
         "gh_rubrik_7956918"
       ],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-09-20T00:09:44.131711+00:00",
-      "last_seen": "2026-11-16T09:42:45.359914+00:00",
+      "last_seen": "2026-11-16T20:29:26.035827+00:00",
       "active": true,
       "delivered_at": null,
       "link_status": "unverified",
-      "link_checked_at": "2026-11-16T09:44:12.919273+00:00"
+      "link_checked_at": "2026-11-16T20:32:03.782757+00:00"
     },
     "d8fdd8db0c47ebb67f218cd80d0abc09": {
       "id": "d8fdd8db0c47ebb67f218cd80d0abc09",
@@ -446,18 +446,18 @@
       "source_id": "fffdcfb1-fd6e-4401-b059-500838a6db0e",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-16T09:42:48.037303+00:00",
+      "fetched_at": "2026-11-16T20:29:29.193942+00:00",
       "legacy_ids": [
         "lv_paytm_fffdcfb1-fd6e-4401-b059-500838a6db0e"
       ],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-09-20T00:09:46.804591+00:00",
-      "last_seen": "2026-11-16T09:42:48.281379+00:00",
+      "last_seen": "2026-11-16T20:29:29.411384+00:00",
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-16T09:44:13.084010+00:00"
+      "link_checked_at": "2026-11-16T20:32:03.843212+00:00"
     },
     "05c8373bb5167e4c8561e47fa9889031": {
       "id": "05c8373bb5167e4c8561e47fa9889031",
@@ -647,7 +647,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "unverified",
-      "link_checked_at": "2026-11-16T09:44:13.206974+00:00"
+      "link_checked_at": "2026-11-16T20:32:03.894164+00:00"
     },
     "6d87f6af31798ddefbc076799b164978": {
       "id": "6d87f6af31798ddefbc076799b164978",
@@ -844,7 +844,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "unverified",
-      "link_checked_at": "2026-11-16T09:44:13.235947+00:00"
+      "link_checked_at": "2026-11-16T20:32:04.059074+00:00"
     },
     "7eb55c67be030aea3bc02959f0fbea02": {
       "id": "7eb55c67be030aea3bc02959f0fbea02",
@@ -888,7 +888,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "unverified",
-      "link_checked_at": "2026-11-16T09:44:13.396899+00:00"
+      "link_checked_at": "2026-11-16T20:32:04.308328+00:00"
     },
     "51182ef0c854b73f88af02c93c516695": {
       "id": "51182ef0c854b73f88af02c93c516695",
@@ -992,14 +992,14 @@
       "source_id": "489fe662-5d28-4305-953e-91ee21e8538c",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-16T09:42:48.767774+00:00",
+      "fetched_at": "2026-11-16T20:29:29.239942+00:00",
       "legacy_ids": [
         "lv_meesho_489fe662-5d28-4305-953e-91ee21e8538c"
       ],
       "experience_hint": "4-7 years of experience",
       "seniority": "unspecified",
       "first_seen": "2026-09-20T00:09:52.746603+00:00",
-      "last_seen": "2026-11-16T09:42:48.808847+00:00",
+      "last_seen": "2026-11-16T20:29:29.280577+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -1110,14 +1110,14 @@
       "source_id": "8073988",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-16T09:42:49.535752+00:00",
+      "fetched_at": "2026-11-16T20:29:29.708413+00:00",
       "legacy_ids": [
         "gh_inmobi_8073988"
       ],
       "experience_hint": "3–5 years of software development experience",
       "seniority": "unspecified",
       "first_seen": "2026-09-20T00:09:53.280555+00:00",
-      "last_seen": "2026-11-16T09:42:49.925678+00:00",
+      "last_seen": "2026-11-16T20:29:29.779810+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -1133,14 +1133,14 @@
       "source_id": "7393433",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-16T09:42:49.539262+00:00",
+      "fetched_at": "2026-11-16T20:29:29.711210+00:00",
       "legacy_ids": [
         "gh_inmobi_7393433"
       ],
       "experience_hint": "7-11 years of experience",
       "seniority": "unspecified",
       "first_seen": "2026-09-20T00:09:53.280577+00:00",
-      "last_seen": "2026-11-16T09:42:49.925685+00:00",
+      "last_seen": "2026-11-16T20:29:29.779814+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -1512,18 +1512,18 @@
       "source_id": "8741978002",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-16T09:42:50.119365+00:00",
+      "fetched_at": "2026-11-16T20:29:31.048368+00:00",
       "legacy_ids": [
         "gh_sigmoid_8741978002"
       ],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-09-20T00:09:54.089216+00:00",
-      "last_seen": "2026-11-16T09:42:50.524486+00:00",
+      "last_seen": "2026-11-16T20:29:31.645285+00:00",
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-16T09:44:13.960968+00:00"
+      "link_checked_at": "2026-11-16T20:32:05.391444+00:00"
     },
     "b74c87d485a6e20be5f1323a79ba9d86": {
       "id": "b74c87d485a6e20be5f1323a79ba9d86",
@@ -1537,18 +1537,18 @@
       "source_id": "4808098002",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-16T09:42:50.138695+00:00",
+      "fetched_at": "2026-11-16T20:29:31.106466+00:00",
       "legacy_ids": [
         "gh_sigmoid_4808098002"
       ],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-09-20T00:09:54.089225+00:00",
-      "last_seen": "2026-11-16T09:42:50.524494+00:00",
+      "last_seen": "2026-11-16T20:29:31.645295+00:00",
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-16T09:44:14.151148+00:00"
+      "link_checked_at": "2026-11-16T20:32:05.535015+00:00"
     },
     "3cbbc91c8fd50cc1568b441aea5d22bb": {
       "id": "3cbbc91c8fd50cc1568b441aea5d22bb",
@@ -1583,18 +1583,18 @@
       "source_id": "8456543002",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-16T09:42:52.418358+00:00",
+      "fetched_at": "2026-11-16T20:29:32.852916+00:00",
       "legacy_ids": [
         "gh_gravitonresearchcapital_8456543002"
       ],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-09-20T00:09:57.130161+00:00",
-      "last_seen": "2026-11-16T09:42:52.441369+00:00",
+      "last_seen": "2026-11-16T20:29:32.872319+00:00",
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-16T09:44:14.313117+00:00"
+      "link_checked_at": "2026-11-16T20:32:05.557468+00:00"
     },
     "1a6fff0ff2f0afef214508f15795e1fe": {
       "id": "1a6fff0ff2f0afef214508f15795e1fe",
@@ -1608,18 +1608,18 @@
       "source_id": "4004918002",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-16T09:42:52.429781+00:00",
+      "fetched_at": "2026-11-16T20:29:32.861323+00:00",
       "legacy_ids": [
         "gh_gravitonresearchcapital_4004918002"
       ],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-09-20T00:09:57.130177+00:00",
-      "last_seen": "2026-11-16T09:42:52.441379+00:00",
+      "last_seen": "2026-11-16T20:29:32.872326+00:00",
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-16T09:44:14.422479+00:00"
+      "link_checked_at": "2026-11-16T20:32:05.639571+00:00"
     },
     "755bf80071dca2e57ba8bd7a9d681bb0": {
       "id": "755bf80071dca2e57ba8bd7a9d681bb0",
@@ -1658,14 +1658,14 @@
       "source_id": "5099344002",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-16T09:42:52.432870+00:00",
+      "fetched_at": "2026-11-16T20:29:32.869896+00:00",
       "legacy_ids": [
         "gh_gravitonresearchcapital_5099344002"
       ],
       "experience_hint": "3 to 4 years of relevant experience",
       "seniority": "unspecified",
       "first_seen": "2026-09-20T00:09:57.130195+00:00",
-      "last_seen": "2026-11-16T09:42:52.441383+00:00",
+      "last_seen": "2026-11-16T20:29:32.872332+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -1706,18 +1706,18 @@
       "source_id": "4004920002",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-16T09:42:52.433327+00:00",
+      "fetched_at": "2026-11-16T20:29:32.870397+00:00",
       "legacy_ids": [
         "gh_gravitonresearchcapital_4004920002"
       ],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-09-20T00:09:57.130213+00:00",
-      "last_seen": "2026-11-16T09:42:52.441389+00:00",
+      "last_seen": "2026-11-16T20:29:32.872338+00:00",
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-16T09:44:14.536787+00:00"
+      "link_checked_at": "2026-11-16T20:32:05.674994+00:00"
     },
     "1d575b3789a51895a5f69727f7e7d155": {
       "id": "1d575b3789a51895a5f69727f7e7d155",
@@ -1731,18 +1731,18 @@
       "source_id": "8147013002",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-16T09:42:52.433838+00:00",
+      "fetched_at": "2026-11-16T20:29:32.870911+00:00",
       "legacy_ids": [
         "gh_gravitonresearchcapital_8147013002"
       ],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-09-20T00:09:57.130221+00:00",
-      "last_seen": "2026-11-16T09:42:52.441395+00:00",
+      "last_seen": "2026-11-16T20:29:32.872345+00:00",
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-16T09:44:14.664191+00:00"
+      "link_checked_at": "2026-11-16T20:32:05.733083+00:00"
     },
     "93a9b9bc5032ace4fe5583552b2fd67f": {
       "id": "93a9b9bc5032ace4fe5583552b2fd67f",
@@ -1848,14 +1848,14 @@
       "source_id": "4006731005",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-16T09:42:52.783838+00:00",
+      "fetched_at": "2026-11-16T20:29:33.171933+00:00",
       "legacy_ids": [
         "gh_gleanwork_4006731005"
       ],
       "experience_hint": "6+ years of experience",
       "seniority": "unspecified",
       "first_seen": "2026-09-20T00:09:57.545693+00:00",
-      "last_seen": "2026-11-16T09:42:52.835198+00:00",
+      "last_seen": "2026-11-16T20:29:33.223410+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -1894,14 +1894,14 @@
       "source_id": "4012745005",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-16T09:42:52.796251+00:00",
+      "fetched_at": "2026-11-16T20:29:33.184264+00:00",
       "legacy_ids": [
         "gh_gleanwork_4012745005"
       ],
       "experience_hint": "6+ years of experience",
       "seniority": "unspecified",
       "first_seen": "2026-09-20T00:09:57.545711+00:00",
-      "last_seen": "2026-11-16T09:42:52.835205+00:00",
+      "last_seen": "2026-11-16T20:29:33.223416+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -2165,7 +2165,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "unverified",
-      "link_checked_at": "2026-11-16T09:44:14.740598+00:00"
+      "link_checked_at": "2026-11-16T20:32:05.785717+00:00"
     },
     "945cc7099817c53ed0220383ef0b8127": {
       "id": "945cc7099817c53ed0220383ef0b8127",
@@ -2209,7 +2209,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "unverified",
-      "link_checked_at": "2026-11-16T09:44:14.751822+00:00"
+      "link_checked_at": "2026-11-16T20:32:05.795859+00:00"
     },
     "b21abae1a6772186ced2bd545f089708": {
       "id": "b21abae1a6772186ced2bd545f089708",
@@ -2232,7 +2232,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "unverified",
-      "link_checked_at": "2026-11-16T09:44:14.787917+00:00"
+      "link_checked_at": "2026-11-16T20:32:05.836487+00:00"
     },
     "4a1293b7fe980ba2b84e9392e7d2f529": {
       "id": "4a1293b7fe980ba2b84e9392e7d2f529",
@@ -2255,7 +2255,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "unverified",
-      "link_checked_at": "2026-11-16T09:44:14.915773+00:00"
+      "link_checked_at": "2026-11-16T20:32:07.288408+00:00"
     },
     "fddfbf52f8baedc50a421c55552cbefc": {
       "id": "fddfbf52f8baedc50a421c55552cbefc",
@@ -2343,7 +2343,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-16T09:44:11.384290+00:00"
+      "link_checked_at": "2026-11-16T20:32:02.320412+00:00"
     },
     "beb5c20a36adf7fc55d66d1b251fa357": {
       "id": "beb5c20a36adf7fc55d66d1b251fa357",
@@ -2366,7 +2366,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-16T09:44:11.178205+00:00"
+      "link_checked_at": "2026-11-16T20:32:01.869756+00:00"
     },
     "32e9b4233ad23d29b2782da167d9e74c": {
       "id": "32e9b4233ad23d29b2782da167d9e74c",
@@ -2433,7 +2433,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-16T09:44:12.329428+00:00"
+      "link_checked_at": "2026-11-16T20:32:02.838073+00:00"
     },
     "31acf6c3173a3d18477876929059b962": {
       "id": "31acf6c3173a3d18477876929059b962",
@@ -2456,7 +2456,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-16T09:44:12.555956+00:00"
+      "link_checked_at": "2026-11-16T20:32:03.024893+00:00"
     },
     "492b91f25309c81a395db79b9d90dea6": {
       "id": "492b91f25309c81a395db79b9d90dea6",
@@ -2479,7 +2479,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-16T09:44:12.827559+00:00"
+      "link_checked_at": "2026-11-16T20:32:03.657722+00:00"
     },
     "38edc0ed5a6590ca48ca540288c57fd8": {
       "id": "38edc0ed5a6590ca48ca540288c57fd8",
@@ -2548,7 +2548,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-16T09:44:11.199257+00:00"
+      "link_checked_at": "2026-11-16T20:32:02.163894+00:00"
     },
     "6bb34b0028d330942f87c3c768730705": {
       "id": "6bb34b0028d330942f87c3c768730705",
@@ -2571,7 +2571,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-16T09:44:11.787455+00:00"
+      "link_checked_at": "2026-11-16T20:32:02.776696+00:00"
     },
     "4c9cead035dc7580803120fac6bb072c": {
       "id": "4c9cead035dc7580803120fac6bb072c",
@@ -2606,16 +2606,16 @@
       "source_id": "R-86716",
       "compensation": {},
       "published_at": "2026-08-04T10:42:02.221684+00:00",
-      "fetched_at": "2026-11-15T01:57:16.927363+00:00",
+      "fetched_at": "2026-11-16T20:31:00.803363+00:00",
       "legacy_ids": [],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-09-20T20:51:47.986322+00:00",
-      "last_seen": "2026-11-15T01:57:21.762003+00:00",
+      "last_seen": "2026-11-16T20:31:08.468726+00:00",
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-16T09:44:11.558612+00:00"
+      "link_checked_at": "2026-11-16T20:32:02.607850+00:00"
     },
     "9cb37b87202fd6ea72463160f6d05034": {
       "id": "9cb37b87202fd6ea72463160f6d05034",
@@ -2968,18 +2968,18 @@
       "source_id": "8213730",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-16T09:42:46.795115+00:00",
+      "fetched_at": "2026-11-16T20:29:27.688354+00:00",
       "legacy_ids": [
         "gh_twilio_8213730"
       ],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-09-23T16:58:14.410494+00:00",
-      "last_seen": "2026-11-16T09:42:47.074892+00:00",
+      "last_seen": "2026-11-16T20:29:27.871968+00:00",
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-16T09:44:16.280715+00:00"
+      "link_checked_at": "2026-11-16T20:32:07.295645+00:00"
     },
     "555ad328a951c358262946edade909a7": {
       "id": "555ad328a951c358262946edade909a7",
@@ -3298,18 +3298,18 @@
       "source_id": "8775507002",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-16T09:42:45.652644+00:00",
+      "fetched_at": "2026-11-16T20:29:26.218880+00:00",
       "legacy_ids": [
         "gh_gitlab_8775507002"
       ],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-09-26T01:34:13.964908+00:00",
-      "last_seen": "2026-11-16T09:42:45.998569+00:00",
+      "last_seen": "2026-11-16T20:29:26.513590+00:00",
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-16T09:44:16.313167+00:00"
+      "link_checked_at": "2026-11-16T20:32:07.316080+00:00"
     },
     "3aa3e2c7bbd4c20cecf3cb518ed8ab82": {
       "id": "3aa3e2c7bbd4c20cecf3cb518ed8ab82",
@@ -3470,7 +3470,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "unverified",
-      "link_checked_at": "2026-11-16T09:44:16.362330+00:00"
+      "link_checked_at": "2026-11-16T20:32:07.394003+00:00"
     },
     "638e4419bf4305a440eba4a4b5928b78": {
       "id": "638e4419bf4305a440eba4a4b5928b78",
@@ -3641,7 +3641,7 @@
       "seniority": "unspecified",
       "first_seen": "2026-09-30T06:43:36.024177+00:00",
       "last_seen": "2026-11-16T09:42:47.818200+00:00",
-      "active": true,
+      "active": false,
       "delivered_at": null,
       "link_status": "reachable",
       "link_checked_at": "2026-11-16T09:44:16.424253+00:00"
@@ -3860,7 +3860,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-16T09:44:10.995669+00:00"
+      "link_checked_at": "2026-11-16T20:32:01.702256+00:00"
     },
     "8900591843dfca52a34fea76a0498a7d": {
       "id": "8900591843dfca52a34fea76a0498a7d",
@@ -4276,7 +4276,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "unverified",
-      "link_checked_at": "2026-11-16T09:44:16.436130+00:00"
+      "link_checked_at": "2026-11-16T20:32:07.427324+00:00"
     },
     "aa80876f5bdb10cd534b66de57abc576": {
       "id": "aa80876f5bdb10cd534b66de57abc576",
@@ -4413,18 +4413,18 @@
       "source_id": "8247206",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-16T09:42:47.893440+00:00",
+      "fetched_at": "2026-11-16T20:29:26.609770+00:00",
       "legacy_ids": [
         "gh_elastic_8247206"
       ],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-10-06T07:34:46.261931+00:00",
-      "last_seen": "2026-11-16T09:42:48.973958+00:00",
+      "last_seen": "2026-11-16T20:29:27.400512+00:00",
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-16T09:44:16.440895+00:00"
+      "link_checked_at": "2026-11-16T20:32:08.770836+00:00"
     },
     "fc5334f5e7838958fabe12e5936c8efc": {
       "id": "fc5334f5e7838958fabe12e5936c8efc",
@@ -4579,7 +4579,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "unverified",
-      "link_checked_at": "2026-11-16T09:44:16.642801+00:00"
+      "link_checked_at": "2026-11-16T20:32:08.930854+00:00"
     },
     "d15bc49185bf820f5083ff6c70d486bc": {
       "id": "d15bc49185bf820f5083ff6c70d486bc",
@@ -4602,7 +4602,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "unverified",
-      "link_checked_at": "2026-11-16T09:44:16.677117+00:00"
+      "link_checked_at": "2026-11-16T20:32:08.948043+00:00"
     },
     "28f9e7b9a466d132dbdd2502229b997f": {
       "id": "28f9e7b9a466d132dbdd2502229b997f",
@@ -4625,7 +4625,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "unverified",
-      "link_checked_at": "2026-11-16T09:44:17.944037+00:00"
+      "link_checked_at": "2026-11-16T20:32:09.213443+00:00"
     },
     "519b7d42687c6d79b869c4a2c0fdb0b1": {
       "id": "519b7d42687c6d79b869c4a2c0fdb0b1",
@@ -4668,8 +4668,8 @@
       "last_seen": "2026-11-16T02:06:37.286139+00:00",
       "active": true,
       "delivered_at": null,
-      "link_status": "unverified",
-      "link_checked_at": "2026-11-16T09:44:17.971655+00:00"
+      "link_status": "reachable",
+      "link_checked_at": "2026-11-16T20:32:11.253407+00:00"
     },
     "d625b65f0b3d5b35a2e43ef7287acddb": {
       "id": "d625b65f0b3d5b35a2e43ef7287acddb",
@@ -4971,7 +4971,9 @@
       "first_seen": "2026-10-08T15:37:21.788617+00:00",
       "last_seen": "2026-11-16T02:06:37.286123+00:00",
       "active": true,
-      "delivered_at": null
+      "delivered_at": null,
+      "link_status": "reachable",
+      "link_checked_at": "2026-11-16T20:32:11.315379+00:00"
     },
     "0dc983c352bfdd32b65310723da6aa50": {
       "id": "0dc983c352bfdd32b65310723da6aa50",
@@ -5148,14 +5150,14 @@
       "source_id": "8264291",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-16T09:42:44.898726+00:00",
+      "fetched_at": "2026-11-16T20:29:25.552036+00:00",
       "legacy_ids": [
         "gh_netskope_8264291"
       ],
       "experience_hint": "3+ years of relevant experience",
       "seniority": "unspecified",
       "first_seen": "2026-10-09T09:04:06.311748+00:00",
-      "last_seen": "2026-11-16T09:42:44.966675+00:00",
+      "last_seen": "2026-11-16T20:29:25.668981+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -5318,14 +5320,14 @@
       "source_id": "9c642a77-5b07-40a2-a7f0-0c396b2b97c5",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-16T09:42:48.774130+00:00",
+      "fetched_at": "2026-11-16T20:29:29.240683+00:00",
       "legacy_ids": [
         "lv_meesho_9c642a77-5b07-40a2-a7f0-0c396b2b97c5"
       ],
       "experience_hint": "5–8 years of experience",
       "seniority": "unspecified",
       "first_seen": "2026-10-13T11:47:55.762333+00:00",
-      "last_seen": "2026-11-16T09:42:48.808855+00:00",
+      "last_seen": "2026-11-16T20:29:29.280587+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -5383,14 +5385,14 @@
       "source_id": "4739203005",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-16T09:42:52.607026+00:00",
+      "fetched_at": "2026-11-16T20:29:32.990710+00:00",
       "legacy_ids": [
         "gh_gleanwork_4739203005"
       ],
       "experience_hint": "3–5 years of experience",
       "seniority": "unspecified",
       "first_seen": "2026-10-13T11:48:01.983481+00:00",
-      "last_seen": "2026-11-16T09:42:52.835180+00:00",
+      "last_seen": "2026-11-16T20:29:33.223397+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -5415,7 +5417,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-16T09:44:11.196294+00:00"
+      "link_checked_at": "2026-11-16T20:32:01.980551+00:00"
     },
     "ab3c00064e064010a1606c1a766d5920": {
       "id": "ab3c00064e064010a1606c1a766d5920",
@@ -5429,14 +5431,14 @@
       "source_id": "8265123",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-16T09:42:48.110252+00:00",
+      "fetched_at": "2026-11-16T20:29:26.749145+00:00",
       "legacy_ids": [
         "gh_elastic_8265123"
       ],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-10-14T04:53:27.170121+00:00",
-      "last_seen": "2026-11-16T09:42:48.973968+00:00",
+      "last_seen": "2026-11-16T20:29:27.400525+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -5588,14 +5590,14 @@
       "source_id": "8867756002",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-16T09:42:45.871934+00:00",
+      "fetched_at": "2026-11-16T20:29:26.425092+00:00",
       "legacy_ids": [
         "gh_gitlab_8867756002"
       ],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-10-15T07:26:35.917557+00:00",
-      "last_seen": "2026-11-16T09:42:45.998589+00:00",
+      "last_seen": "2026-11-16T20:29:26.513603+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -5946,14 +5948,14 @@
       "source_id": "8012782003",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-16T09:42:50.123288+00:00",
+      "fetched_at": "2026-11-16T20:29:30.904267+00:00",
       "legacy_ids": [
         "gh_contentstack_8012782003"
       ],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-10-20T15:06:11.749532+00:00",
-      "last_seen": "2026-11-16T09:42:50.553373+00:00",
+      "last_seen": "2026-11-16T20:29:31.457492+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -6055,14 +6057,14 @@
       "source_id": "8278293",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-16T09:42:50.519272+00:00",
+      "fetched_at": "2026-11-16T20:29:31.769064+00:00",
       "legacy_ids": [
         "gh_samsara_8278293"
       ],
       "experience_hint": "5 years of experience",
       "seniority": "unspecified",
       "first_seen": "2026-10-22T07:34:55.073849+00:00",
-      "last_seen": "2026-11-16T09:42:50.795570+00:00",
+      "last_seen": "2026-11-16T20:29:32.099879+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -6483,14 +6485,14 @@
       "source_id": "8916232002",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-16T09:42:45.877644+00:00",
+      "fetched_at": "2026-11-16T20:29:26.430626+00:00",
       "legacy_ids": [
         "gh_gitlab_8916232002"
       ],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-10-28T08:30:37.517608+00:00",
-      "last_seen": "2026-11-16T09:42:45.998596+00:00",
+      "last_seen": "2026-11-16T20:29:26.513609+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -6665,7 +6667,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-16T09:44:10.996463+00:00"
+      "link_checked_at": "2026-11-16T20:32:01.702844+00:00"
     },
     "cebfcb511dda75144957f5c14c09615c": {
       "id": "cebfcb511dda75144957f5c14c09615c",
@@ -6679,14 +6681,14 @@
       "source_id": "8032547003",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-16T09:42:50.158595+00:00",
+      "fetched_at": "2026-11-16T20:29:30.952831+00:00",
       "legacy_ids": [
         "gh_contentstack_8032547003"
       ],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-10-29T14:18:42.466659+00:00",
-      "last_seen": "2026-11-16T09:42:50.553385+00:00",
+      "last_seen": "2026-11-16T20:29:31.457500+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -6929,7 +6931,7 @@
       "seniority": "unspecified",
       "first_seen": "2026-11-02T11:04:34.082636+00:00",
       "last_seen": "2026-11-16T09:42:45.998582+00:00",
-      "active": true,
+      "active": false,
       "delivered_at": null
     },
     "30cd1a25b19509ed3fc420e85190d48f": {
@@ -6944,14 +6946,14 @@
       "source_id": "8878946002",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-16T09:42:46.860357+00:00",
+      "fetched_at": "2026-11-16T20:29:28.304397+00:00",
       "legacy_ids": [
         "gh_databricks_8878946002"
       ],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-11-02T11:04:35.141029+00:00",
-      "last_seen": "2026-11-16T09:42:47.818189+00:00",
+      "last_seen": "2026-11-16T20:29:29.357161+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -6990,14 +6992,14 @@
       "source_id": "6898755",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-16T09:42:49.503277+00:00",
+      "fetched_at": "2026-11-16T20:29:29.686880+00:00",
       "legacy_ids": [
         "gh_inmobi_6898755"
       ],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-11-02T20:47:23.233059+00:00",
-      "last_seen": "2026-11-16T09:42:49.925667+00:00",
+      "last_seen": "2026-11-16T20:29:29.779803+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -7013,14 +7015,14 @@
       "source_id": "5457986008",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-16T09:42:49.397677+00:00",
+      "fetched_at": "2026-11-16T20:29:30.125660+00:00",
       "legacy_ids": [
         "gh_observeai_5457986008"
       ],
       "experience_hint": "6 - 10 years of experience",
       "seniority": "unspecified",
       "first_seen": "2026-11-02T20:47:25.030909+00:00",
-      "last_seen": "2026-11-16T09:42:49.468826+00:00",
+      "last_seen": "2026-11-16T20:29:30.515186+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -7065,7 +7067,7 @@
       "seniority": "unspecified",
       "first_seen": "2026-11-03T10:51:57.657033+00:00",
       "last_seen": "2026-11-16T09:42:45.998560+00:00",
-      "active": true,
+      "active": false,
       "delivered_at": null
     },
     "ab4ed78c98ec9b11570992688931b7bb": {
@@ -7159,14 +7161,14 @@
       "source_id": "4746981005",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-16T09:42:52.751852+00:00",
+      "fetched_at": "2026-11-16T20:29:33.135189+00:00",
       "legacy_ids": [
         "gh_gleanwork_4746981005"
       ],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-11-04T15:26:24.615765+00:00",
-      "last_seen": "2026-11-16T09:42:52.835191+00:00",
+      "last_seen": "2026-11-16T20:29:33.223405+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -7182,14 +7184,14 @@
       "source_id": "8890971002",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-16T09:42:45.655675+00:00",
+      "fetched_at": "2026-11-16T20:29:26.221861+00:00",
       "legacy_ids": [
         "gh_gitlab_8890971002"
       ],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-11-04T21:53:10.221827+00:00",
-      "last_seen": "2026-11-16T09:42:45.998576+00:00",
+      "last_seen": "2026-11-16T20:29:26.513597+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -7226,14 +7228,14 @@
       "source_id": "8028473",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-16T09:42:47.063065+00:00",
+      "fetched_at": "2026-11-16T20:29:27.864289+00:00",
       "legacy_ids": [
         "gh_twilio_8028473"
       ],
       "experience_hint": "3+ years of experience",
       "seniority": "unspecified",
       "first_seen": "2026-11-05T18:55:59.307213+00:00",
-      "last_seen": "2026-11-16T09:42:47.074965+00:00",
+      "last_seen": "2026-11-16T20:29:27.871976+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -7265,7 +7267,7 @@
       "url": "https://jobs.ashbyhq.com/openai/87989505-81e5-4513-bba0-5f00bb064216",
       "location": "Bangalore - Remote; Mumbai, India; Delhi, India",
       "eligibility": "india",
-      "description": "About the team The Applied AI Engineering team ensures the safe and effective deployment of Generative AI applications for developers and enterprises. We serve as trusted technical advisors, helping customers and partners move from early experimentation to production-scale AI systems. As a Partner Applied AI Engineer focused on AWS, you will operate at the center of one of our most strategic partnerships, driving joint customer success and enabling AWS and partner ecosystems to scale adoption of OpenAI-powered solutions. About the role We are looking for a highly experienced technical leader to serve as the primary technical counterpart to AWS field leadership (Solutions Architects, Specialists, and Partner teams). This role goes beyond individual deal support—you will shape strategy, define engagement models, and build repeatable systems that scale across AWS globally. You will work across pre- and post-sales, guiding complex enterprise customers from ideation to production while enabling AWS and partners to independently drive deployments. You will combine deep technical expertise, strong judgment, and ecosystem leadership to maximize impact across a portfolio of high-priority opportunities. This role can be based in either Bangalore, Mumbai or Delhi. In this role, you will: STRATEGIC AWS ENGAGEMENT & INFLUENCE - Serve as the senior technical counterpart to AWS field leadership, building trust and credibility across regions and teams. - Influence joint account strategy and technical direction for high-priority opportunities. - Shape how OpenAI engages with AWS by defining engagement models, prioritization frameworks, and best practices. - Proactively identify and drive net-new opportunities and high-impact use cases across the AWS ecosystem. COMPLEX DEAL LEADERSHIP & EXECUTION - Lead technical strategy for large, ambiguous, and high-stakes enterprise engagements. - Guide customers from early ideation through architecture design, prototyping, and production deployment. - Act as a technical decision-maker and escalation point, de-risking complex implementations. - Apply strong judgment to prioritize opportunities and allocate limited technical resources for maximum impact. SOLUTION ARCHITECTURE & HANDS-ON BUILDING - Design and communicate end-to-end AI architectures leveraging OpenAI and AWS services. - Build and guide development of prototypes, POCs, and reference implementations to accelerate adoption. - Establish best practices for scalable, secure, and production-ready GenAI systems. - Ensure solutions are designed for repeatability, extensibility, and partner-led delivery. ECOSYSTEM ENABLEMENT & SCALE - Enable AWS and partners through scalable technical motions (workshops, playbooks, reference architectures, demos). - Develop reusable solution patterns and assets that can be deployed independently by AWS teams and SIs. - Mentor and uplift partner technical teams, accelerating their path to self-sufficiency. - Scale impact by working through GSIs, RSIs, and ISVs, rather than relying solely on direct engagement. CROSS-FUNCTIONAL LEADERSHIP & FEEDBACK - Partner closely with Alliances, Product, Engineering, GTM, and Enablement to align on strategy and execution. - Act as a bridge between field and product, delivering high-signal insights to inform roadmap and prioritization. - Contribute to internal knowledge systems and help define standards, patterns, and playbooks for the ADE function. You’ll thrive in this role if you: - Have 8+ years of technical consulting (or equivalent) experience, managing C-level technical and business relationships with complex global organizations. - Operate as a technical leader and systems thinker, not just an individual contributor. - Balance hands-on building with strategic influence and scale. - Know when to go deep technically vs. enable others to execute. - Build trust quickly with engineers, architects, and executives alike. - Default to creating repeatable patterns, not one-off solutions. - Are comfortable owning ambiguous, high-visibility problem spaces. - Take a long-term, ecosystem-oriented view of impact. - Are motivated by driving customer and partner success at scale. About OpenAI OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. We are an equal opportunity employer, and we do not discriminate on the basis of race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability, genetic information, or other applicable legally protected characteristic. For additional information, please see OpenAI’s Affirmative Action and Equal Employment Opportunity Policy Statement https://cdn.openai.com/policies/eeo-policy-statement.pdf. Background checks for applicants will be administered in accordance with applicable law, and qualified applicants with arrest or conviction records will be considered for employment consistent with those laws, including the San Francisco Fair Chance Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act, for US-based candidates. For unincorporated Los Angeles County workers: we reasonably believe that criminal history may have a direct, adverse and negative relationship with the following job duties, potentially resulting in the withdrawal of a conditional offer of employment: protect computer hardware entrusted to you from theft, loss or damage; return all computer hardware in your possession (including the data contained therein) upon termination of employment or end of assignment; and maintain the confidentiality of proprietary, confidential, and non-public information. In addition, job duties require access to secure and protected information technology systems and related data security obligations. To notify OpenAI that you believe this job posting is non-compliant, please submit a report through this form https://form.asana.com/?d=57018692298241&k=5MqR40fZd7jlxVUh5J-UeA. No response will be provided to inquiries unrelated to job posting compliance. We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link https://form.asana.com/?k=bQ7w9h3iexRlicUdWRiwvg&d=57018692298241. OpenAI Global Applicant Privacy Policy https://cdn.openai.com/policies/global-employee-and-contractor-privacy-policy.pdf At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.",
+      "description": "About the team The Applied AI Engineering (AIE) team ensures the safe and effective deployment of Generative AI applications for developers and enterprises. We serve as trusted technical advisors, helping customers and partners move from early experimentation to production-scale AI systems. As a Partner Applied AI Engineer focused on AWS, you will operate at the center of one of our most strategic partnerships, driving joint customer success and enabling AWS and partner ecosystems to scale adoption of OpenAI-powered solutions. About the role We are looking for a highly experienced technical leader to serve as the primary technical counterpart to AWS field leadership (Solutions Architects, Specialists, and Partner teams). This role goes beyond individual deal support—you will shape strategy, define engagement models, and build repeatable systems that scale across AWS globally. You will work across pre- and post-sales, guiding complex enterprise customers from ideation to production while enabling AWS and partners to independently drive deployments. You will combine deep technical expertise, strong judgment, and ecosystem leadership to maximize impact across a portfolio of high-priority opportunities. This role can be based in either Bangalore, Mumbai or Delhi. In this role, you will: STRATEGIC AWS ENGAGEMENT & INFLUENCE - Serve as the senior technical counterpart to AWS field leadership, building trust and credibility across regions and teams. - Influence joint account strategy and technical direction for high-priority opportunities. - Shape how OpenAI engages with AWS by defining engagement models, prioritization frameworks, and best practices. - Proactively identify and drive net-new opportunities and high-impact use cases across the AWS ecosystem. COMPLEX DEAL LEADERSHIP & EXECUTION - Lead technical strategy for large, ambiguous, and high-stakes enterprise engagements. - Guide customers from early ideation through architecture design, prototyping, and production deployment. - Act as a technical decision-maker and escalation point, de-risking complex implementations. - Apply strong judgment to prioritize opportunities and allocate limited technical resources for maximum impact. SOLUTION ARCHITECTURE & HANDS-ON BUILDING - Design and communicate end-to-end AI architectures leveraging OpenAI and AWS services. - Build and guide development of prototypes, POCs, and reference implementations to accelerate adoption. - Establish best practices for scalable, secure, and production-ready GenAI systems. - Ensure solutions are designed for repeatability, extensibility, and partner-led delivery. ECOSYSTEM ENABLEMENT & SCALE - Enable AWS and partners through scalable technical motions (workshops, playbooks, reference architectures, demos). - Develop reusable solution patterns and assets that can be deployed independently by AWS teams and SIs. - Mentor and uplift partner technical teams, accelerating their path to self-sufficiency. - Scale impact by working through GSIs, RSIs, and ISVs, rather than relying solely on direct engagement. CROSS-FUNCTIONAL LEADERSHIP & FEEDBACK - Partner closely with Alliances, Product, Engineering, GTM, and Enablement to align on strategy and execution. - Act as a bridge between field and product, delivering high-signal insights to inform roadmap and prioritization. - Contribute to internal knowledge systems and help define standards, patterns, and playbooks for the ADE function. You’ll thrive in this role if you: - Have 8+ years of technical consulting (or equivalent) experience, managing C-level technical and business relationships with complex global organizations. - Operate as a technical leader and systems thinker, not just an individual contributor. - Balance hands-on building with strategic influence and scale. - Know when to go deep technically vs. enable others to execute. - Build trust quickly with engineers, architects, and executives alike. - Default to creating repeatable patterns, not one-off solutions. - Are comfortable owning ambiguous, high-visibility problem spaces. - Take a long-term, ecosystem-oriented view of impact. - Are motivated by driving customer and partner success at scale. About OpenAI OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. We are an equal opportunity employer, and we do not discriminate on the basis of race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability, genetic information, or other applicable legally protected characteristic. For additional information, please see OpenAI’s Affirmative Action and Equal Employment Opportunity Policy Statement https://cdn.openai.com/policies/eeo-policy-statement.pdf. Background checks for applicants will be administered in accordance with applicable law, and qualified applicants with arrest or conviction records will be considered for employment consistent with those laws, including the San Francisco Fair Chance Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act, for US-based candidates. For unincorporated Los Angeles County workers: we reasonably believe that criminal history may have a direct, adverse and negative relationship with the following job duties, potentially resulting in the withdrawal of a conditional offer of employment: protect computer hardware entrusted to you from theft, loss or damage; return all computer hardware in your possession (including the data contained therein) upon termination of employment or end of assignment; and maintain the confidentiality of proprietary, confidential, and non-public information. In addition, job duties require access to secure and protected information technology systems and related data security obligations. To notify OpenAI that you believe this job posting is non-compliant, please submit a report through this form https://form.asana.com/?d=57018692298241&k=5MqR40fZd7jlxVUh5J-UeA. No response will be provided to inquiries unrelated to job posting compliance. We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link https://form.asana.com/?k=bQ7w9h3iexRlicUdWRiwvg&d=57018692298241. OpenAI Global Applicant Privacy Policy https://cdn.openai.com/policies/global-employee-and-contractor-privacy-policy.pdf At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.",
       "source": "ashby",
       "source_id": "87989505-81e5-4513-bba0-5f00bb064216",
       "compensation": {
@@ -7283,18 +7285,18 @@
         }
       },
       "published_at": "2026-06-01T08:53:34.275+00:00",
-      "fetched_at": "2026-11-16T09:42:53.152565+00:00",
+      "fetched_at": "2026-11-16T20:29:34.522100+00:00",
       "legacy_ids": [
         "ab_openai_87989505-81e5-4513-bba0-5f00bb064216"
       ],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-11-06T06:55:09.727949+00:00",
-      "last_seen": "2026-11-16T09:42:53.443316+00:00",
+      "last_seen": "2026-11-16T20:29:34.803587+00:00",
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-16T09:44:12.231883+00:00"
+      "link_checked_at": "2026-11-16T20:32:02.788408+00:00"
     },
     "f5e0d8f2c9cce008a5e1cad7bd93e955": {
       "id": "f5e0d8f2c9cce008a5e1cad7bd93e955",
@@ -7425,10 +7427,10 @@
       "seniority": "unspecified",
       "first_seen": "2026-11-12T03:00:13.370091+00:00",
       "last_seen": "2026-11-12T03:00:13.370107+00:00",
-      "active": true,
+      "active": false,
       "delivered_at": null,
-      "link_status": "reachable",
-      "link_checked_at": "2026-11-16T09:44:10.994949+00:00"
+      "link_status": "unavailable",
+      "link_checked_at": "2026-11-16T20:32:01.701578+00:00"
     },
     "ef8daa1ad28e531a224ea3f829baa8b8": {
       "id": "ef8daa1ad28e531a224ea3f829baa8b8",
@@ -7465,14 +7467,14 @@
       "source_id": "8327940",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-16T09:42:45.278973+00:00",
+      "fetched_at": "2026-11-16T20:29:25.993205+00:00",
       "legacy_ids": [
         "gh_rubrik_8327940"
       ],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-11-12T11:06:50.059022+00:00",
-      "last_seen": "2026-11-16T09:42:45.359903+00:00",
+      "last_seen": "2026-11-16T20:29:26.035818+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -7530,14 +7532,14 @@
       "source_id": "46c10c59-437c-4a31-ae4c-c4e41f31d9f7",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-16T09:42:48.037541+00:00",
+      "fetched_at": "2026-11-16T20:29:29.194193+00:00",
       "legacy_ids": [
         "lv_paytm_46c10c59-437c-4a31-ae4c-c4e41f31d9f7"
       ],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-11-12T11:07:07.844258+00:00",
-      "last_seen": "2026-11-16T09:42:48.281388+00:00",
+      "last_seen": "2026-11-16T20:29:29.411392+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -7553,14 +7555,14 @@
       "source_id": "8377184",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-16T09:42:45.288325+00:00",
+      "fetched_at": "2026-11-16T20:29:26.002428+00:00",
       "legacy_ids": [
         "gh_rubrik_8377184"
       ],
       "experience_hint": "5-8 years of experience",
       "seniority": "unspecified",
       "first_seen": "2026-11-12T18:55:33.311707+00:00",
-      "last_seen": "2026-11-16T09:42:45.359920+00:00",
+      "last_seen": "2026-11-16T20:29:26.035835+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -7633,7 +7635,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-16T09:44:10.994059+00:00"
+      "link_checked_at": "2026-11-16T20:32:01.700758+00:00"
     },
     "d83a83f2d7965b56d6f8bb9905d1c440": {
       "id": "d83a83f2d7965b56d6f8bb9905d1c440",
@@ -7655,7 +7657,7 @@
       "seniority": "unspecified",
       "first_seen": "2026-11-16T09:42:47.074958+00:00",
       "last_seen": "2026-11-16T09:42:47.074960+00:00",
-      "active": true,
+      "active": false,
       "delivered_at": null
     }
   },
@@ -7667,10 +7669,10 @@
       "pages": 0,
       "detail": "No verified URL",
       "source_url": "",
-      "checked_at": "2026-11-16T09:42:41.627199+00:00",
+      "checked_at": "2026-11-16T20:29:22.274240+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -7681,10 +7683,10 @@
       "pages": 0,
       "detail": "No verified URL",
       "source_url": "",
-      "checked_at": "2026-11-16T09:42:41.652247+00:00",
+      "checked_at": "2026-11-16T20:29:22.299336+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -7695,10 +7697,10 @@
       "pages": 0,
       "detail": "No verified URL",
       "source_url": "",
-      "checked_at": "2026-11-16T09:42:41.675572+00:00",
+      "checked_at": "2026-11-16T20:29:22.321736+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -7709,10 +7711,10 @@
       "pages": 0,
       "detail": "No verified URL",
       "source_url": "",
-      "checked_at": "2026-11-16T09:42:41.697816+00:00",
+      "checked_at": "2026-11-16T20:29:22.343058+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -7723,10 +7725,10 @@
       "pages": 0,
       "detail": "No verified URL",
       "source_url": "",
-      "checked_at": "2026-11-16T09:42:41.719826+00:00",
+      "checked_at": "2026-11-16T20:29:22.364718+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -7737,10 +7739,10 @@
       "pages": 0,
       "detail": "No verified URL",
       "source_url": "",
-      "checked_at": "2026-11-16T09:42:41.742154+00:00",
+      "checked_at": "2026-11-16T20:29:22.386791+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -7751,10 +7753,10 @@
       "pages": 0,
       "detail": "No verified URL",
       "source_url": "",
-      "checked_at": "2026-11-16T09:42:41.764693+00:00",
+      "checked_at": "2026-11-16T20:29:22.408245+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -7765,10 +7767,10 @@
       "pages": 0,
       "detail": "No verified URL",
       "source_url": "",
-      "checked_at": "2026-11-16T09:42:41.787373+00:00",
+      "checked_at": "2026-11-16T20:29:22.430124+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -7779,10 +7781,10 @@
       "pages": 0,
       "detail": "No verified URL",
       "source_url": "",
-      "checked_at": "2026-11-16T09:42:41.810254+00:00",
+      "checked_at": "2026-11-16T20:29:22.451793+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -7793,10 +7795,10 @@
       "pages": 0,
       "detail": "No verified URL",
       "source_url": "",
-      "checked_at": "2026-11-16T09:42:41.832130+00:00",
+      "checked_at": "2026-11-16T20:29:22.473470+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -7807,10 +7809,10 @@
       "pages": 0,
       "detail": "No verified URL",
       "source_url": "",
-      "checked_at": "2026-11-16T09:42:41.855069+00:00",
+      "checked_at": "2026-11-16T20:29:22.496691+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -7821,10 +7823,10 @@
       "pages": 0,
       "detail": "No verified URL",
       "source_url": "",
-      "checked_at": "2026-11-16T09:42:41.877041+00:00",
+      "checked_at": "2026-11-16T20:29:22.518322+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -7835,24 +7837,24 @@
       "pages": 0,
       "detail": "No verified URL",
       "source_url": "",
-      "checked_at": "2026-11-16T09:42:41.899482+00:00",
+      "checked_at": "2026-11-16T20:29:22.540075+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
     "Akamai India": {
       "company": "Akamai India",
-      "status": "blocked",
+      "status": "failed",
       "total": 0,
       "pages": 0,
-      "detail": "HTTP 429",
+      "detail": "HTTP 422",
       "source_url": "https://akamai.wd1.myworkdayjobs.com/wday/cxs/akamai/External/jobs",
-      "checked_at": "2026-11-16T09:42:41.926911+00:00",
+      "checked_at": "2026-11-16T20:29:22.566804+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -7863,10 +7865,10 @@
       "pages": 0,
       "detail": "HTTP 429",
       "source_url": "https://qualcomm.wd5.myworkdayjobs.com/wday/cxs/qualcomm/External/jobs",
-      "checked_at": "2026-11-16T09:42:41.924277+00:00",
+      "checked_at": "2026-11-16T20:29:22.563236+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -7877,10 +7879,10 @@
       "pages": 0,
       "detail": "HTTP 429",
       "source_url": "https://walmart.wd5.myworkdayjobs.com/wday/cxs/walmart/WalmartExternal/jobs",
-      "checked_at": "2026-11-16T09:42:41.925738+00:00",
+      "checked_at": "2026-11-16T20:29:22.564934+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -7891,10 +7893,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/wayfair/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:42.008213+00:00",
+      "checked_at": "2026-11-16T20:29:22.628904+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -7905,25 +7907,25 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/arcesium/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:42.009586+00:00",
+      "checked_at": "2026-11-16T20:29:22.630542+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
     "Airbnb India": {
       "company": "Airbnb India",
       "status": "ok",
-      "total": 211,
+      "total": 206,
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/airbnb/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:41.979727+00:00",
+      "checked_at": "2026-11-16T20:29:22.599270+00:00",
       "scope": "whole board",
       "matched": 0,
       "consecutive_errors": 0,
-      "last_success": "2026-11-16T09:42:41.979727+00:00",
+      "last_success": "2026-11-16T20:29:22.599270+00:00",
       "alerted": false
     },
     "BlackRock India": {
@@ -7933,10 +7935,10 @@
       "pages": 0,
       "detail": "HTTP 429",
       "source_url": "https://blackrock.wd1.myworkdayjobs.com/wday/cxs/blackrock/BlackRock_Experienced_Professionals/jobs",
-      "checked_at": "2026-11-16T09:42:42.011738+00:00",
+      "checked_at": "2026-11-16T20:29:22.647664+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -7947,10 +7949,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/zeta/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:42.098968+00:00",
+      "checked_at": "2026-11-16T20:29:22.690473+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -7961,52 +7963,52 @@
       "pages": 0,
       "detail": "HTTP 429",
       "source_url": "https://citi.wd5.myworkdayjobs.com/wday/cxs/citi/ICG/jobs",
-      "checked_at": "2026-11-16T09:42:42.121612+00:00",
+      "checked_at": "2026-11-16T20:29:22.720597+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
     "Coupang India": {
       "company": "Coupang India",
       "status": "ok",
-      "total": 685,
+      "total": 686,
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/coupang/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:41.981376+00:00",
+      "checked_at": "2026-11-16T20:29:22.627545+00:00",
       "scope": "whole board",
       "matched": 0,
       "consecutive_errors": 0,
-      "last_success": "2026-11-16T09:42:41.981376+00:00",
+      "last_success": "2026-11-16T20:29:22.627545+00:00",
       "alerted": false
     },
     "Coinbase India": {
       "company": "Coinbase India",
       "status": "ok",
-      "total": 265,
+      "total": 260,
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/coinbase/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:42.151505+00:00",
+      "checked_at": "2026-11-16T20:29:22.748504+00:00",
       "scope": "whole board",
       "matched": 2,
       "consecutive_errors": 0,
-      "last_success": "2026-11-16T09:42:42.151505+00:00",
+      "last_success": "2026-11-16T20:29:22.748504+00:00",
       "alerted": false
     },
     "Visa India": {
       "company": "Visa India",
-      "status": "partial",
-      "total": 60,
-      "pages": 3,
-      "detail": "Workday pagination: HTTPError",
+      "status": "blocked",
+      "total": 0,
+      "pages": 0,
+      "detail": "HTTP 429",
       "source_url": "https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs",
-      "checked_at": "2026-11-16T09:42:42.048783+00:00",
-      "scope": "India country facet",
+      "checked_at": "2026-11-16T20:29:22.683630+00:00",
+      "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 1,
+      "consecutive_errors": 2,
       "last_success": "2026-11-16T02:06:17.332148+00:00",
       "alerted": false
     },
@@ -8017,11 +8019,11 @@
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/razorpaysoftwareprivatelimited/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:42.526074+00:00",
+      "checked_at": "2026-11-16T20:29:22.814373+00:00",
       "scope": "whole board",
       "matched": 0,
       "consecutive_errors": 0,
-      "last_success": "2026-11-16T09:42:42.526074+00:00",
+      "last_success": "2026-11-16T20:29:22.814373+00:00",
       "alerted": false
     },
     "Intuit India": {
@@ -8031,10 +8033,10 @@
       "pages": 0,
       "detail": "HTTP 429",
       "source_url": "https://intuit.wd1.myworkdayjobs.com/wday/cxs/intuit/Intuit_Careers/jobs",
-      "checked_at": "2026-11-16T09:42:42.661941+00:00",
+      "checked_at": "2026-11-16T20:29:22.997147+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -8045,10 +8047,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/rippling/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:42.735010+00:00",
+      "checked_at": "2026-11-16T20:29:23.195321+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -8059,10 +8061,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://api.lever.co/v0/postings/phonepe?mode=json",
-      "checked_at": "2026-11-16T09:42:42.766402+00:00",
+      "checked_at": "2026-11-16T20:29:23.290902+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -8073,11 +8075,11 @@
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/groww/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:42.768158+00:00",
+      "checked_at": "2026-11-16T20:29:23.439539+00:00",
       "scope": "whole board",
       "matched": 0,
       "consecutive_errors": 0,
-      "last_success": "2026-11-16T09:42:42.768158+00:00",
+      "last_success": "2026-11-16T20:29:23.439539+00:00",
       "alerted": false
     },
     "CoinSwitch": {
@@ -8087,10 +8089,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://api.lever.co/v0/postings/coinswitch?mode=json",
-      "checked_at": "2026-11-16T09:42:42.827909+00:00",
+      "checked_at": "2026-11-16T20:29:23.662669+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -8101,10 +8103,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://api.lever.co/v0/postings/yubi?mode=json",
-      "checked_at": "2026-11-16T09:42:42.897416+00:00",
+      "checked_at": "2026-11-16T20:29:23.719988+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -8115,10 +8117,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://api.lever.co/v0/postings/sliceit?mode=json",
-      "checked_at": "2026-11-16T09:42:42.947528+00:00",
+      "checked_at": "2026-11-16T20:29:23.767198+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -8129,10 +8131,10 @@
       "pages": 0,
       "detail": "HTTP 429",
       "source_url": "https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs",
-      "checked_at": "2026-11-16T09:42:41.922144+00:00",
+      "checked_at": "2026-11-16T20:29:22.562251+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 1,
+      "consecutive_errors": 2,
       "last_success": "2026-11-16T02:06:16.471846+00:00",
       "alerted": false
     },
@@ -8143,10 +8145,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/smallcase/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:43.247530+00:00",
+      "checked_at": "2026-11-16T20:29:23.938796+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -8157,10 +8159,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/jeeveshq/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:43.302281+00:00",
+      "checked_at": "2026-11-16T20:29:24.020293+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -8171,10 +8173,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/khatabook/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:43.330514+00:00",
+      "checked_at": "2026-11-16T20:29:24.044437+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -8185,10 +8187,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/progcap/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:43.405079+00:00",
+      "checked_at": "2026-11-16T20:29:24.050652+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -8199,10 +8201,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/simpl/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:43.489857+00:00",
+      "checked_at": "2026-11-16T20:29:24.103639+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -8213,10 +8215,10 @@
       "pages": 0,
       "detail": "HTTP 429",
       "source_url": "https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/External/jobs",
-      "checked_at": "2026-11-16T09:42:43.566534+00:00",
+      "checked_at": "2026-11-16T20:29:24.171160+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -8227,39 +8229,39 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://api.lever.co/v0/postings/blackhawknetwork?mode=json",
-      "checked_at": "2026-11-16T09:42:43.684121+00:00",
+      "checked_at": "2026-11-16T20:29:24.208420+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
     "Rubrik India": {
       "company": "Rubrik India",
       "status": "ok",
-      "total": 182,
+      "total": 186,
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/rubrik/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:43.874909+00:00",
+      "checked_at": "2026-11-16T20:29:24.258778+00:00",
       "scope": "whole board",
       "matched": 3,
       "consecutive_errors": 0,
-      "last_success": "2026-11-16T09:42:43.874909+00:00",
+      "last_success": "2026-11-16T20:29:24.258778+00:00",
       "alerted": false
     },
     "Netskope India": {
       "company": "Netskope India",
       "status": "ok",
-      "total": 122,
+      "total": 123,
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/netskope/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:43.913918+00:00",
+      "checked_at": "2026-11-16T20:29:24.271023+00:00",
       "scope": "whole board",
       "matched": 1,
       "consecutive_errors": 0,
-      "last_success": "2026-11-16T09:42:43.913918+00:00",
+      "last_success": "2026-11-16T20:29:24.271023+00:00",
       "alerted": false
     },
     "Confluent India": {
@@ -8269,39 +8271,39 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/confluent/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:44.722008+00:00",
+      "checked_at": "2026-11-16T20:29:24.361711+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
     "Paytm": {
       "company": "Paytm",
       "status": "ok",
-      "total": 203,
+      "total": 206,
       "pages": 3,
       "detail": "",
       "source_url": "https://api.lever.co/v0/postings/paytm?mode=json",
-      "checked_at": "2026-11-16T09:42:43.661621+00:00",
+      "checked_at": "2026-11-16T20:29:24.172821+00:00",
       "scope": "whole board",
       "matched": 2,
       "consecutive_errors": 0,
-      "last_success": "2026-11-16T09:42:43.661621+00:00",
+      "last_success": "2026-11-16T20:29:24.172821+00:00",
       "alerted": false
     },
     "Databricks India": {
       "company": "Databricks India",
       "status": "ok",
-      "total": 895,
+      "total": 890,
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:44.801687+00:00",
+      "checked_at": "2026-11-16T20:29:24.541486+00:00",
       "scope": "whole board",
-      "matched": 2,
+      "matched": 1,
       "consecutive_errors": 0,
-      "last_success": "2026-11-16T09:42:44.801687+00:00",
+      "last_success": "2026-11-16T20:29:24.541486+00:00",
       "alerted": false
     },
     "Snowflake India": {
@@ -8311,10 +8313,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/snowflake/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:44.966155+00:00",
+      "checked_at": "2026-11-16T20:29:24.886804+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -8325,10 +8327,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/uptycs/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:45.097419+00:00",
+      "checked_at": "2026-11-16T20:29:25.443587+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -8339,10 +8341,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/fortanix/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:45.228458+00:00",
+      "checked_at": "2026-11-16T20:29:25.517448+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -8353,25 +8355,25 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/safesecurity/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:45.240480+00:00",
+      "checked_at": "2026-11-16T20:29:25.626905+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
     "GitLab India": {
       "company": "GitLab India",
       "status": "ok",
-      "total": 257,
+      "total": 249,
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/gitlab/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:44.968511+00:00",
+      "checked_at": "2026-11-16T20:29:25.017371+00:00",
       "scope": "whole board",
-      "matched": 6,
+      "matched": 4,
       "consecutive_errors": 0,
-      "last_success": "2026-11-16T09:42:44.968511+00:00",
+      "last_success": "2026-11-16T20:29:25.017371+00:00",
       "alerted": false
     },
     "Teradata India": {
@@ -8381,10 +8383,10 @@
       "pages": 0,
       "detail": "HTTP 429",
       "source_url": "https://teradata.wd1.myworkdayjobs.com/wday/cxs/teradata/Teradata_Careers/jobs",
-      "checked_at": "2026-11-16T09:42:45.333976+00:00",
+      "checked_at": "2026-11-16T20:29:25.642401+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -8395,10 +8397,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/docusign/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:45.379436+00:00",
+      "checked_at": "2026-11-16T20:29:25.696997+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -8409,38 +8411,38 @@
       "pages": 0,
       "detail": "HTTP 429",
       "source_url": "https://experian.wd3.myworkdayjobs.com/wday/cxs/experian/Experian_Careers/jobs",
-      "checked_at": "2026-11-16T09:42:45.359081+00:00",
+      "checked_at": "2026-11-16T20:29:25.689632+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
     "Elastic India": {
       "company": "Elastic India",
       "status": "ok",
-      "total": 401,
+      "total": 405,
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/elastic/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:45.443981+00:00",
+      "checked_at": "2026-11-16T20:29:25.785622+00:00",
       "scope": "whole board",
       "matched": 2,
       "consecutive_errors": 0,
-      "last_success": "2026-11-16T09:42:45.443981+00:00",
+      "last_success": "2026-11-16T20:29:25.785622+00:00",
       "alerted": false
     },
     "PayPal India": {
       "company": "PayPal India",
-      "status": "blocked",
-      "total": 0,
-      "pages": 0,
-      "detail": "HTTP 429",
+      "status": "partial",
+      "total": 20,
+      "pages": 1,
+      "detail": "Workday pagination: HTTPError",
       "source_url": "https://paypal.wd1.myworkdayjobs.com/wday/cxs/paypal/jobs/jobs",
-      "checked_at": "2026-11-16T09:42:42.243567+00:00",
+      "checked_at": "2026-11-16T20:29:22.781856+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 1,
+      "consecutive_errors": 2,
       "last_success": "2026-11-16T02:06:18.709097+00:00",
       "alerted": false
     },
@@ -8451,25 +8453,25 @@
       "pages": 0,
       "detail": "HTTP 429",
       "source_url": "https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs",
-      "checked_at": "2026-11-16T09:42:41.922847+00:00",
+      "checked_at": "2026-11-16T20:29:22.562770+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 1,
+      "consecutive_errors": 2,
       "last_success": "2026-11-16T02:06:16.472309+00:00",
       "alerted": false
     },
     "MongoDB India": {
       "company": "MongoDB India",
       "status": "ok",
-      "total": 392,
+      "total": 398,
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/mongodb/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:45.473386+00:00",
+      "checked_at": "2026-11-16T20:29:26.035176+00:00",
       "scope": "whole board",
       "matched": 0,
       "consecutive_errors": 0,
-      "last_success": "2026-11-16T09:42:45.473386+00:00",
+      "last_success": "2026-11-16T20:29:26.035176+00:00",
       "alerted": false
     },
     "Swiggy": {
@@ -8479,25 +8481,25 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://api.lever.co/v0/postings/swiggy?mode=json",
-      "checked_at": "2026-11-16T09:42:47.074258+00:00",
+      "checked_at": "2026-11-16T20:29:27.871686+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
     "Cloudflare India": {
       "company": "Cloudflare India",
       "status": "ok",
-      "total": 473,
+      "total": 471,
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/cloudflare/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:45.967206+00:00",
+      "checked_at": "2026-11-16T20:29:26.062555+00:00",
       "scope": "whole board",
       "matched": 0,
       "consecutive_errors": 0,
-      "last_success": "2026-11-16T09:42:45.967206+00:00",
+      "last_success": "2026-11-16T20:29:26.062555+00:00",
       "alerted": false
     },
     "Freshworks": {
@@ -8507,10 +8509,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/freshworks/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:47.817377+00:00",
+      "checked_at": "2026-11-16T20:29:28.067485+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -8521,25 +8523,25 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/atlassian/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:47.933948+00:00",
+      "checked_at": "2026-11-16T20:29:28.211371+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
     "Twilio India": {
       "company": "Twilio India",
       "status": "ok",
-      "total": 113,
+      "total": 108,
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/twilio/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:45.971034+00:00",
+      "checked_at": "2026-11-16T20:29:26.513382+00:00",
       "scope": "whole board",
-      "matched": 3,
+      "matched": 2,
       "consecutive_errors": 0,
-      "last_success": "2026-11-16T09:42:45.971034+00:00",
+      "last_success": "2026-11-16T20:29:26.513382+00:00",
       "alerted": false
     },
     "CRED": {
@@ -8549,10 +8551,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://api.lever.co/v0/postings/dreamplug?mode=json",
-      "checked_at": "2026-11-16T09:42:48.132916+00:00",
+      "checked_at": "2026-11-16T20:29:28.333306+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -8563,10 +8565,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/curefit/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:48.385130+00:00",
+      "checked_at": "2026-11-16T20:29:29.279915+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -8577,10 +8579,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://api.lever.co/v0/postings/zepto?mode=json",
-      "checked_at": "2026-11-16T09:42:48.247153+00:00",
+      "checked_at": "2026-11-16T20:29:28.705655+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -8591,25 +8593,25 @@
       "pages": 1,
       "detail": "",
       "source_url": "https://api.lever.co/v0/postings/meesho?mode=json",
-      "checked_at": "2026-11-16T09:42:48.033089+00:00",
+      "checked_at": "2026-11-16T20:29:28.239593+00:00",
       "scope": "whole board",
       "matched": 2,
       "consecutive_errors": 0,
-      "last_success": "2026-11-16T09:42:48.033089+00:00",
+      "last_success": "2026-11-16T20:29:28.239593+00:00",
       "alerted": false
     },
     "Samsara India": {
       "company": "Samsara India",
       "status": "ok",
-      "total": 317,
+      "total": 315,
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/samsara/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:46.551971+00:00",
+      "checked_at": "2026-11-16T20:29:27.399627+00:00",
       "scope": "whole board",
       "matched": 1,
       "consecutive_errors": 0,
-      "last_success": "2026-11-16T09:42:46.551971+00:00",
+      "last_success": "2026-11-16T20:29:27.399627+00:00",
       "alerted": false
     },
     "Notion India": {
@@ -8619,11 +8621,11 @@
       "pages": 1,
       "detail": "",
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/notion?includeCompensation=true",
-      "checked_at": "2026-11-16T09:42:48.500654+00:00",
+      "checked_at": "2026-11-16T20:29:29.284968+00:00",
       "scope": "whole board",
       "matched": 0,
       "consecutive_errors": 0,
-      "last_success": "2026-11-16T09:42:48.500654+00:00",
+      "last_success": "2026-11-16T20:29:29.284968+00:00",
       "alerted": false
     },
     "ShareChat": {
@@ -8633,10 +8635,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/sharechat/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:49.000755+00:00",
+      "checked_at": "2026-11-16T20:29:29.382492+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -8647,10 +8649,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/juspay/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:49.107660+00:00",
+      "checked_at": "2026-11-16T20:29:29.431198+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -8661,25 +8663,25 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/urbancompany/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:49.002530+00:00",
+      "checked_at": "2026-11-16T20:29:29.384381+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
     "InMobi": {
       "company": "InMobi",
       "status": "ok",
-      "total": 76,
+      "total": 78,
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/inmobi/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:48.973104+00:00",
+      "checked_at": "2026-11-16T20:29:29.348664+00:00",
       "scope": "whole board",
       "matched": 3,
       "consecutive_errors": 0,
-      "last_success": "2026-11-16T09:42:48.973104+00:00",
+      "last_success": "2026-11-16T20:29:29.348664+00:00",
       "alerted": false
     },
     "Atlan": {
@@ -8689,11 +8691,11 @@
       "pages": 1,
       "detail": "",
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/atlan?includeCompensation=true",
-      "checked_at": "2026-11-16T09:42:49.120003+00:00",
+      "checked_at": "2026-11-16T20:29:29.458517+00:00",
       "scope": "whole board",
       "matched": 0,
       "consecutive_errors": 0,
-      "last_success": "2026-11-16T09:42:49.120003+00:00",
+      "last_success": "2026-11-16T20:29:29.458517+00:00",
       "alerted": false
     },
     "Instabase": {
@@ -8703,10 +8705,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/instabase/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:49.188826+00:00",
+      "checked_at": "2026-11-16T20:29:29.508017+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -8717,11 +8719,11 @@
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/observeai/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:49.277067+00:00",
+      "checked_at": "2026-11-16T20:29:29.779647+00:00",
       "scope": "whole board",
       "matched": 1,
       "consecutive_errors": 0,
-      "last_success": "2026-11-16T09:42:49.277067+00:00",
+      "last_success": "2026-11-16T20:29:29.779647+00:00",
       "alerted": false
     },
     "Yellow.ai": {
@@ -8731,10 +8733,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://api.lever.co/v0/postings/yellowmessenger?mode=json",
-      "checked_at": "2026-11-16T09:42:49.224752+00:00",
+      "checked_at": "2026-11-16T20:29:29.543208+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -8745,10 +8747,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/harness/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:49.284021+00:00",
+      "checked_at": "2026-11-16T20:29:29.858370+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -8759,11 +8761,11 @@
       "pages": 1,
       "detail": "",
       "source_url": "https://api.lever.co/v0/postings/hevo?mode=json",
-      "checked_at": "2026-11-16T09:42:49.256539+00:00",
+      "checked_at": "2026-11-16T20:29:29.569296+00:00",
       "scope": "whole board",
       "matched": 0,
       "consecutive_errors": 0,
-      "last_success": "2026-11-16T09:42:49.256539+00:00",
+      "last_success": "2026-11-16T20:29:29.569296+00:00",
       "alerted": false
     },
     "Plivo": {
@@ -8773,10 +8775,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/plivo/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:49.312465+00:00",
+      "checked_at": "2026-11-16T20:29:29.908805+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -8787,11 +8789,11 @@
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/simpplr/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:49.426066+00:00",
+      "checked_at": "2026-11-16T20:29:30.085957+00:00",
       "scope": "whole board",
       "matched": 0,
       "consecutive_errors": 0,
-      "last_success": "2026-11-16T09:42:49.426066+00:00",
+      "last_success": "2026-11-16T20:29:30.085957+00:00",
       "alerted": false
     },
     "Multiplier": {
@@ -8801,10 +8803,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/multiplier/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:49.397762+00:00",
+      "checked_at": "2026-11-16T20:29:30.046561+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -8815,10 +8817,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/pixis/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:49.449209+00:00",
+      "checked_at": "2026-11-16T20:29:30.125734+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -8829,10 +8831,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://api.lever.co/v0/postings/lambdatest?mode=json",
-      "checked_at": "2026-11-16T09:42:49.363119+00:00",
+      "checked_at": "2026-11-16T20:29:29.945167+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -8843,10 +8845,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/moveworks/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:49.562670+00:00",
+      "checked_at": "2026-11-16T20:29:30.190038+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -8857,10 +8859,10 @@
       "pages": 0,
       "detail": "HTTP 429",
       "source_url": "https://db.wd3.myworkdayjobs.com/wday/cxs/db/DBWebsite/jobs",
-      "checked_at": "2026-11-16T09:42:42.215090+00:00",
+      "checked_at": "2026-11-16T20:29:22.751781+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 1,
+      "consecutive_errors": 2,
       "last_success": "2026-11-16T02:06:18.631069+00:00",
       "alerted": false
     },
@@ -8871,10 +8873,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/dataweave/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:49.651706+00:00",
+      "checked_at": "2026-11-16T20:29:30.380450+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -8885,11 +8887,11 @@
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/sigmoid/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:49.582507+00:00",
+      "checked_at": "2026-11-16T20:29:30.298058+00:00",
       "scope": "whole board",
       "matched": 2,
       "consecutive_errors": 0,
-      "last_success": "2026-11-16T09:42:49.582507+00:00",
+      "last_success": "2026-11-16T20:29:30.298058+00:00",
       "alerted": false
     },
     "Contentstack": {
@@ -8899,11 +8901,11 @@
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/contentstack/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:49.705046+00:00",
+      "checked_at": "2026-11-16T20:29:30.542624+00:00",
       "scope": "whole board",
       "matched": 2,
       "consecutive_errors": 0,
-      "last_success": "2026-11-16T09:42:49.705046+00:00",
+      "last_success": "2026-11-16T20:29:30.542624+00:00",
       "alerted": false
     },
     "Builder.ai": {
@@ -8913,10 +8915,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/builderai/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:49.774485+00:00",
+      "checked_at": "2026-11-16T20:29:30.973278+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -8927,10 +8929,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/saaslabs/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:49.924938+00:00",
+      "checked_at": "2026-11-16T20:29:31.112012+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -8941,25 +8943,25 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/catchpoint/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:50.056993+00:00",
+      "checked_at": "2026-11-16T20:29:31.182992+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
     "Tenstorrent": {
       "company": "Tenstorrent",
       "status": "ok",
-      "total": 133,
+      "total": 134,
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/tenstorrent/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:49.604558+00:00",
+      "checked_at": "2026-11-16T20:29:30.323337+00:00",
       "scope": "whole board",
       "matched": 0,
       "consecutive_errors": 0,
-      "last_success": "2026-11-16T09:42:49.604558+00:00",
+      "last_success": "2026-11-16T20:29:30.323337+00:00",
       "alerted": false
     },
     "Postman": {
@@ -8969,10 +8971,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/postman/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:50.162499+00:00",
+      "checked_at": "2026-11-16T20:29:31.291087+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -8983,10 +8985,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/chargebee/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:50.291112+00:00",
+      "checked_at": "2026-11-16T20:29:31.528210+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -8997,10 +8999,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/darwinbox/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:50.304336+00:00",
+      "checked_at": "2026-11-16T20:29:31.668454+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -9011,10 +9013,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/whatfix/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:50.422787+00:00",
+      "checked_at": "2026-11-16T20:29:31.773041+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -9025,10 +9027,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/alphonso/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:50.522995+00:00",
+      "checked_at": "2026-11-16T20:29:31.851791+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -9039,10 +9041,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/sprinklr/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:50.526682+00:00",
+      "checked_at": "2026-11-16T20:29:31.906281+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -9053,10 +9055,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/moengage/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:50.579371+00:00",
+      "checked_at": "2026-11-16T20:29:31.908657+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -9067,10 +9069,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/clevertap/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:50.623785+00:00",
+      "checked_at": "2026-11-16T20:29:31.934458+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -9081,25 +9083,25 @@
       "pages": 0,
       "detail": "HTTP 429",
       "source_url": "https://cognizant.wd1.myworkdayjobs.com/wday/cxs/cognizant/Cognizant_Careers/jobs",
-      "checked_at": "2026-11-16T09:42:50.687298+00:00",
+      "checked_at": "2026-11-16T20:29:31.995359+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
     "DRW": {
       "company": "DRW",
       "status": "ok",
-      "total": 159,
+      "total": 160,
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/drweng/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:50.693202+00:00",
+      "checked_at": "2026-11-16T20:29:32.011794+00:00",
       "scope": "whole board",
       "matched": 0,
       "consecutive_errors": 0,
-      "last_success": "2026-11-16T09:42:50.693202+00:00",
+      "last_success": "2026-11-16T20:29:32.011794+00:00",
       "alerted": false
     },
     "Warner Bros Discovery": {
@@ -9109,10 +9111,10 @@
       "pages": 0,
       "detail": "HTTP 429",
       "source_url": "https://warnerbros.wd5.myworkdayjobs.com/wday/cxs/warnerbros/global/jobs",
-      "checked_at": "2026-11-16T09:42:48.803116+00:00",
+      "checked_at": "2026-11-16T20:29:29.307911+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 1,
+      "consecutive_errors": 2,
       "last_success": "2026-11-16T02:06:29.221137+00:00",
       "alerted": false
     },
@@ -9123,53 +9125,53 @@
       "pages": 0,
       "detail": "HTTP 429",
       "source_url": "https://browserstack.wd3.myworkdayjobs.com/wday/cxs/browserstack/External/jobs",
-      "checked_at": "2026-11-16T09:42:50.175031+00:00",
+      "checked_at": "2026-11-16T20:29:31.355932+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 1,
+      "consecutive_errors": 2,
       "last_success": "2026-11-16T02:06:31.829463+00:00",
       "alerted": false
     },
     "Anthropic": {
       "company": "Anthropic",
       "status": "ok",
-      "total": 661,
+      "total": 660,
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:50.762443+00:00",
+      "checked_at": "2026-11-16T20:29:32.012782+00:00",
       "scope": "whole board",
       "matched": 0,
       "consecutive_errors": 0,
-      "last_success": "2026-11-16T09:42:50.762443+00:00",
+      "last_success": "2026-11-16T20:29:32.012782+00:00",
       "alerted": false
     },
     "Perplexity": {
       "company": "Perplexity",
       "status": "ok",
-      "total": 141,
+      "total": 144,
       "pages": 1,
       "detail": "",
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/perplexity?includeCompensation=true",
-      "checked_at": "2026-11-16T09:42:50.822467+00:00",
+      "checked_at": "2026-11-16T20:29:32.124214+00:00",
       "scope": "whole board",
       "matched": 0,
       "consecutive_errors": 0,
-      "last_success": "2026-11-16T09:42:50.822467+00:00",
+      "last_success": "2026-11-16T20:29:32.124214+00:00",
       "alerted": false
     },
     "Ramp": {
       "company": "Ramp",
       "status": "ok",
-      "total": 179,
+      "total": 178,
       "pages": 1,
       "detail": "",
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/ramp?includeCompensation=true",
-      "checked_at": "2026-11-16T09:42:50.795068+00:00",
+      "checked_at": "2026-11-16T20:29:32.085556+00:00",
       "scope": "whole board",
       "matched": 0,
       "consecutive_errors": 0,
-      "last_success": "2026-11-16T09:42:50.795068+00:00",
+      "last_success": "2026-11-16T20:29:32.085556+00:00",
       "alerted": false
     },
     "Linear": {
@@ -9179,25 +9181,25 @@
       "pages": 1,
       "detail": "",
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/linear?includeCompensation=true",
-      "checked_at": "2026-11-16T09:42:51.907603+00:00",
+      "checked_at": "2026-11-16T20:29:32.519097+00:00",
       "scope": "whole board",
       "matched": 0,
       "consecutive_errors": 0,
-      "last_success": "2026-11-16T09:42:51.907603+00:00",
+      "last_success": "2026-11-16T20:29:32.519097+00:00",
       "alerted": false
     },
     "Vercel": {
       "company": "Vercel",
       "status": "ok",
-      "total": 86,
+      "total": 87,
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/vercel/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:52.178144+00:00",
+      "checked_at": "2026-11-16T20:29:32.521128+00:00",
       "scope": "whole board",
       "matched": 0,
       "consecutive_errors": 0,
-      "last_success": "2026-11-16T09:42:52.178144+00:00",
+      "last_success": "2026-11-16T20:29:32.521128+00:00",
       "alerted": false
     },
     "Graviton Research Capital": {
@@ -9207,11 +9209,11 @@
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/gravitonresearchcapital/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:52.272935+00:00",
+      "checked_at": "2026-11-16T20:29:32.689208+00:00",
       "scope": "whole board",
       "matched": 5,
       "consecutive_errors": 0,
-      "last_success": "2026-11-16T09:42:52.272935+00:00",
+      "last_success": "2026-11-16T20:29:32.689208+00:00",
       "alerted": false
     },
     "Glean": {
@@ -9221,24 +9223,24 @@
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/gleanwork/jobs?content=true",
-      "checked_at": "2026-11-16T09:42:52.205931+00:00",
+      "checked_at": "2026-11-16T20:29:32.648030+00:00",
       "scope": "whole board",
       "matched": 4,
       "consecutive_errors": 0,
-      "last_success": "2026-11-16T09:42:52.205931+00:00",
+      "last_success": "2026-11-16T20:29:32.648030+00:00",
       "alerted": false
     },
     "OpenAI": {
       "company": "OpenAI",
-      "status": "ok",
-      "total": 839,
+      "status": "partial",
+      "total": 833,
       "pages": 1,
-      "detail": "",
+      "detail": "1 malformed postings",
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai?includeCompensation=true",
-      "checked_at": "2026-11-16T09:42:50.793479+00:00",
+      "checked_at": "2026-11-16T20:29:32.013527+00:00",
       "scope": "whole board",
       "matched": 1,
-      "consecutive_errors": 0,
+      "consecutive_errors": 1,
       "last_success": "2026-11-16T09:42:50.793479+00:00",
       "alerted": false
     },
@@ -9249,10 +9251,10 @@
       "pages": 0,
       "detail": "HTTP 429",
       "source_url": "https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs",
-      "checked_at": "2026-11-16T09:42:50.429499+00:00",
+      "checked_at": "2026-11-16T20:29:31.800745+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 2,
+      "consecutive_errors": 3,
       "last_success": "2026-11-15T21:48:53.782621+00:00",
       "alerted": false
     },
@@ -9263,10 +9265,10 @@
       "pages": 0,
       "detail": "HTTP 429",
       "source_url": "https://micron.wd1.myworkdayjobs.com/wday/cxs/micron/External/jobs",
-      "checked_at": "2026-11-16T09:42:41.926351+00:00",
+      "checked_at": "2026-11-16T20:29:22.566270+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 267,
+      "consecutive_errors": 268,
       "last_success": null,
       "alerted": false
     },
@@ -9277,24 +9279,24 @@
       "pages": 1,
       "detail": "No structured postings extracted; not proof of zero openings",
       "source_url": "https://careers.google.com/jobs/results/?location=India&q=",
-      "checked_at": "2026-11-15T01:57:22.149170+00:00",
+      "checked_at": "2026-11-16T20:31:08.860051+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 45,
+      "consecutive_errors": 46,
       "last_success": null,
       "alerted": false
     },
     "Amazon / AWS": {
       "company": "Amazon / AWS",
       "status": "partial",
-      "total": 30,
+      "total": 36,
       "pages": 12,
-      "detail": "",
+      "detail": "; detail limit 30/36",
       "source_url": "https://www.amazon.jobs/en/search?base_query={role}&loc_query=India",
-      "checked_at": "2026-11-15T01:57:24.190291+00:00",
+      "checked_at": "2026-11-16T20:31:08.860362+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 45,
+      "consecutive_errors": 46,
       "last_success": null,
       "alerted": false
     },
@@ -9305,10 +9307,10 @@
       "pages": 0,
       "detail": "Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://jobs.microsoft.com/en/us/search?q=engineer&lc=India\nCall log:\n  - navigating to \"https://jobs.microsoft.com/en/us/search?q=engineer&lc=India\", waiting until \"domcontentloaded\"\n",
       "source_url": "https://jobs.microsoft.com/en/us/search?q={role}&lc=India",
-      "checked_at": "2026-11-15T01:57:24.306345+00:00",
+      "checked_at": "2026-11-16T20:31:08.860567+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 45,
+      "consecutive_errors": 46,
       "last_success": null,
       "alerted": false
     },
@@ -9319,24 +9321,24 @@
       "pages": 1,
       "detail": "No structured postings extracted; not proof of zero openings",
       "source_url": "https://www.metacareers.com/jobs?offices[0]=India&q={role}",
-      "checked_at": "2026-11-15T01:57:24.407323+00:00",
+      "checked_at": "2026-11-16T20:31:08.950127+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 45,
+      "consecutive_errors": 46,
       "last_success": null,
       "alerted": false
     },
     "Apple India": {
       "company": "Apple India",
-      "status": "unverified",
+      "status": "failed",
       "total": 0,
-      "pages": 1,
-      "detail": "No structured postings extracted; not proof of zero openings",
+      "pages": 0,
+      "detail": "TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://jobs.apple.com/en-us/search?location=india-IND&search=engineer\", waiting until \"domcontentloaded\"\n",
       "source_url": "https://jobs.apple.com/en-us/search?location=india-IND&search={role}",
-      "checked_at": "2026-11-15T01:57:58.072999+00:00",
+      "checked_at": "2026-11-16T20:31:10.750032+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 45,
+      "consecutive_errors": 46,
       "last_success": null,
       "alerted": false
     },
@@ -9347,10 +9349,10 @@
       "pages": 1,
       "detail": "No structured postings extracted; not proof of zero openings",
       "source_url": "https://careers.linkedin.com/jobs?keywords={role}&location=India",
-      "checked_at": "2026-11-15T01:57:58.073359+00:00",
+      "checked_at": "2026-11-16T20:31:11.027435+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 45,
+      "consecutive_errors": 46,
       "last_success": null,
       "alerted": false
     },
@@ -9361,10 +9363,10 @@
       "pages": 1,
       "detail": "No structured postings extracted; not proof of zero openings",
       "source_url": "https://careers.mediatek.com/eREC/JobSearch/Index?JobKeywords={role}&CountryID=IN",
-      "checked_at": "2026-11-15T01:57:58.073565+00:00",
+      "checked_at": "2026-11-16T20:31:43.054364+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 45,
+      "consecutive_errors": 46,
       "last_success": null,
       "alerted": false
     },
@@ -9375,24 +9377,24 @@
       "pages": 1,
       "detail": "No structured postings extracted; not proof of zero openings",
       "source_url": "https://jobs.bytedance.com/en/position?keywords={role}&location=India",
-      "checked_at": "2026-11-15T01:57:59.493535+00:00",
+      "checked_at": "2026-11-16T20:31:43.054703+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 45,
+      "consecutive_errors": 46,
       "last_success": null,
       "alerted": false
     },
     "Zalando India": {
       "company": "Zalando India",
       "status": "partial",
-      "total": 2,
+      "total": 3,
       "pages": 1,
       "detail": "Generic extraction; site-specific pagination/coverage not verified",
       "source_url": "https://jobs.zalando.com/en/jobs?locations=India&search={role}",
-      "checked_at": "2026-11-15T01:58:00.335285+00:00",
+      "checked_at": "2026-11-16T20:31:43.054864+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 45,
+      "consecutive_errors": 46,
       "last_success": null,
       "alerted": false
     },
@@ -9403,10 +9405,10 @@
       "pages": 1,
       "detail": "No structured postings extracted; not proof of zero openings",
       "source_url": "https://lgads.tv/careers/",
-      "checked_at": "2026-11-15T01:58:00.464413+00:00",
+      "checked_at": "2026-11-16T20:31:45.465819+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 45,
+      "consecutive_errors": 46,
       "last_success": null,
       "alerted": false
     },
@@ -9417,10 +9419,10 @@
       "pages": 1,
       "detail": "No structured postings extracted; not proof of zero openings",
       "source_url": "https://careers.amd.com/careers-home/jobs?location=India&keywords={role}",
-      "checked_at": "2026-11-15T01:58:04.703132+00:00",
+      "checked_at": "2026-11-16T20:31:45.946034+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 45,
+      "consecutive_errors": 46,
       "last_success": null,
       "alerted": false
     },
@@ -9431,10 +9433,10 @@
       "pages": 1,
       "detail": "No structured postings extracted; not proof of zero openings",
       "source_url": "https://careers.arm.com/en/search-results?keywords={role}&location=India",
-      "checked_at": "2026-11-15T01:58:04.704273+00:00",
+      "checked_at": "2026-11-16T20:31:47.242279+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 45,
+      "consecutive_errors": 46,
       "last_success": null,
       "alerted": false
     },
@@ -9445,10 +9447,10 @@
       "pages": 0,
       "detail": "Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://careers.marvell.com/search-results?keywords=engineer&location=India\nCall log:\n  - navigating to \"https://careers.marvell.com/search-results?keywords=engineer&location=India\", waiting until \"domcontentloaded\"\n",
       "source_url": "https://careers.marvell.com/search-results?keywords={role}&location=India",
-      "checked_at": "2026-11-15T01:58:04.705270+00:00",
+      "checked_at": "2026-11-16T20:31:57.686445+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 45,
+      "consecutive_errors": 46,
       "last_success": null,
       "alerted": false
     },
@@ -9459,10 +9461,10 @@
       "pages": 1,
       "detail": "No structured postings extracted; not proof of zero openings",
       "source_url": "https://www.nxp.com/careers-home/jobs?location=India&keywords={role}",
-      "checked_at": "2026-11-15T01:58:04.863840+00:00",
+      "checked_at": "2026-11-16T20:31:57.686785+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 45,
+      "consecutive_errors": 46,
       "last_success": null,
       "alerted": false
     },
@@ -9473,10 +9475,10 @@
       "pages": 1,
       "detail": "No structured postings extracted; not proof of zero openings",
       "source_url": "https://www.onsemi.com/careers/job-search?keywords={role}&location=India",
-      "checked_at": "2026-11-15T01:58:06.174218+00:00",
+      "checked_at": "2026-11-16T20:31:57.686953+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 45,
+      "consecutive_errors": 46,
       "last_success": null,
       "alerted": false
     },
@@ -9487,10 +9489,10 @@
       "pages": 1,
       "detail": "No structured postings extracted; not proof of zero openings",
       "source_url": "https://www.skyworksinc.com/en/Careers",
-      "checked_at": "2026-11-15T01:58:06.586890+00:00",
+      "checked_at": "2026-11-16T20:31:57.765273+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 45,
+      "consecutive_errors": 46,
       "last_success": null,
       "alerted": false
     },
@@ -9501,10 +9503,10 @@
       "pages": 1,
       "detail": "No structured postings extracted; not proof of zero openings",
       "source_url": "https://jobs.westerndigital.com/search-jobs?k={role}&l=India",
-      "checked_at": "2026-11-15T09:25:59.230859+00:00",
+      "checked_at": "2026-11-16T20:31:59.301436+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 45,
+      "consecutive_errors": 46,
       "last_success": null,
       "alerted": false
     },
@@ -9515,10 +9517,10 @@
       "pages": 0,
       "detail": "Access challenge; no bypass attempted",
       "source_url": "https://careers.microchip.com/en/search-results?keywords={role}&location=India",
-      "checked_at": "2026-11-15T09:25:59.231536+00:00",
+      "checked_at": "2026-11-16T20:31:59.992063+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 45,
+      "consecutive_errors": 46,
       "last_success": null,
       "alerted": false
     },
@@ -12021,10 +12023,10 @@
       "pages": 0,
       "detail": "Access challenge; no bypass attempted",
       "source_url": "https://careers.bankofamerica.com/",
-      "checked_at": "2026-11-15T01:56:04.007053+00:00",
+      "checked_at": "2026-11-16T20:29:38.612259+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 44,
+      "consecutive_errors": 45,
       "last_success": null,
       "alerted": false
     },
@@ -12035,10 +12037,10 @@
       "pages": 1,
       "detail": "No structured postings extracted; not proof of zero openings",
       "source_url": "https://jobs.boeing.com/",
-      "checked_at": "2026-11-15T01:56:05.687905+00:00",
+      "checked_at": "2026-11-16T20:29:38.613016+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 44,
+      "consecutive_errors": 45,
       "last_success": null,
       "alerted": false
     },
@@ -12049,10 +12051,10 @@
       "pages": 1,
       "detail": "No structured postings extracted; not proof of zero openings",
       "source_url": "https://careers.boozallen.com/",
-      "checked_at": "2026-11-15T01:56:05.754983+00:00",
+      "checked_at": "2026-11-16T20:29:38.613344+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 44,
+      "consecutive_errors": 45,
       "last_success": null,
       "alerted": false
     },
@@ -12063,10 +12065,10 @@
       "pages": 1,
       "detail": "No structured postings extracted; not proof of zero openings",
       "source_url": "https://careers.arrow.com/",
-      "checked_at": "2026-11-15T01:56:06.676201+00:00",
+      "checked_at": "2026-11-16T20:29:40.027197+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 44,
+      "consecutive_errors": 45,
       "last_success": null,
       "alerted": false
     },
@@ -12077,10 +12079,10 @@
       "pages": 1,
       "detail": "No structured postings extracted; not proof of zero openings",
       "source_url": "https://apply.slb.com/careers/profile",
-      "checked_at": "2026-11-15T01:56:09.552086+00:00",
+      "checked_at": "2026-11-16T20:29:40.754016+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 44,
+      "consecutive_errors": 45,
       "last_success": null,
       "alerted": false
     },
@@ -12091,10 +12093,10 @@
       "pages": 1,
       "detail": "No structured postings extracted; not proof of zero openings",
       "source_url": "https://jobs.kochcareers.com/en/search/jobs/in/country/india",
-      "checked_at": "2026-11-15T01:56:09.552557+00:00",
+      "checked_at": "2026-11-16T20:29:42.652536+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 44,
+      "consecutive_errors": 45,
       "last_success": null,
       "alerted": false
     },
@@ -12105,10 +12107,10 @@
       "pages": 0,
       "detail": "Access challenge; no bypass attempted",
       "source_url": "https://www.autodesk.com/careers/search-jobs?location=India",
-      "checked_at": "2026-11-15T01:56:09.552886+00:00",
+      "checked_at": "2026-11-16T20:29:48.771450+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 44,
+      "consecutive_errors": 45,
       "last_success": null,
       "alerted": false
     },
@@ -12119,10 +12121,10 @@
       "pages": 12,
       "detail": "; detail limit 30/39",
       "source_url": "https://www.truefirms.co/jobs",
-      "checked_at": "2026-11-15T01:56:10.922247+00:00",
+      "checked_at": "2026-11-16T20:29:48.771758+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 44,
+      "consecutive_errors": 45,
       "last_success": null,
       "alerted": false
     },
@@ -12133,10 +12135,10 @@
       "pages": 1,
       "detail": "TimeoutError: Locator.click: Timeout 12000ms exceeded.\nCall log:\n  - waiting for locator(\"a[rel=\\\"next\\\"], button[aria-label=\\\"Next\\\"], button[aria-label=\\\"Next page\\\"], a[aria-label=\\\"Next page\\\"]\").first\n    - locator resolved to <button tabindex=\"0\" type=\"button\" role=\"button\" aria-label=\"Next\" class=\"MuiButtonBase-root MuiIconButton-root MuiIco",
       "source_url": "https://www.emerson.com/en/corporate/careers",
-      "checked_at": "2026-11-15T01:56:11.840400+00:00",
+      "checked_at": "2026-11-16T20:29:48.771956+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 44,
+      "consecutive_errors": 45,
       "last_success": null,
       "alerted": false
     },
@@ -12147,10 +12149,10 @@
       "pages": 1,
       "detail": "No structured postings extracted; not proof of zero openings",
       "source_url": "https://algotest.in/careers",
-      "checked_at": "2026-11-15T01:56:11.914143+00:00",
+      "checked_at": "2026-11-16T20:29:50.123516+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 44,
+      "consecutive_errors": 45,
       "last_success": null,
       "alerted": false
     },
@@ -12161,10 +12163,10 @@
       "pages": 0,
       "detail": "Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.trellix.com/about/careers/\nCall log:\n  - navigating to \"https://www.trellix.com/about/careers/\", waiting until \"domcontentloaded\"\n",
       "source_url": "https://www.trellix.com/about/careers/",
-      "checked_at": "2026-11-15T01:57:13.885302+00:00",
+      "checked_at": "2026-11-16T20:29:54.521535+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 44,
+      "consecutive_errors": 45,
       "last_success": null,
       "alerted": false
     },
@@ -12175,10 +12177,10 @@
       "pages": 1,
       "detail": "No structured postings extracted; not proof of zero openings",
       "source_url": "https://talent.lowes.com/us/en/lowes-india",
-      "checked_at": "2026-11-15T01:57:13.885574+00:00",
+      "checked_at": "2026-11-16T20:29:54.610866+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 44,
+      "consecutive_errors": 45,
       "last_success": null,
       "alerted": false
     },
@@ -12189,10 +12191,10 @@
       "pages": 1,
       "detail": "No structured postings extracted; not proof of zero openings",
       "source_url": "https://wingify.com/careers/",
-      "checked_at": "2026-11-15T01:57:13.885809+00:00",
+      "checked_at": "2026-11-16T20:30:58.004978+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 44,
+      "consecutive_errors": 45,
       "last_success": null,
       "alerted": false
     },
@@ -12203,10 +12205,10 @@
       "pages": 1,
       "detail": "Generic extraction; site-specific pagination/coverage not verified",
       "source_url": "https://jobs.nike.com/?location=India",
-      "checked_at": "2026-11-15T01:57:14.025389+00:00",
+      "checked_at": "2026-11-16T20:30:58.005288+00:00",
       "scope": "whole board",
       "matched": 1,
-      "consecutive_errors": 44,
+      "consecutive_errors": 45,
       "last_success": null,
       "alerted": false
     },
@@ -12217,10 +12219,10 @@
       "pages": 0,
       "detail": "Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://careers.honeywell.com/us/en/search-results?location=India\nCall log:\n  - navigating to \"https://careers.honeywell.com/us/en/search-results?location=India\", waiting until \"domcontentloaded\"\n",
       "source_url": "https://careers.honeywell.com/us/en/search-results?location=India",
-      "checked_at": "2026-11-15T01:57:16.020997+00:00",
+      "checked_at": "2026-11-16T20:30:58.005471+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 44,
+      "consecutive_errors": 45,
       "last_success": null,
       "alerted": false
     },
@@ -12231,10 +12233,10 @@
       "pages": 1,
       "detail": "Generic extraction; site-specific pagination/coverage not verified",
       "source_url": "https://wellfound.com/company/redrobofficial/jobs",
-      "checked_at": "2026-11-15T01:57:16.121499+00:00",
+      "checked_at": "2026-11-16T20:31:00.651989+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 44,
+      "consecutive_errors": 45,
       "last_success": null,
       "alerted": false
     },
@@ -12245,10 +12247,10 @@
       "pages": 1,
       "detail": "No structured postings extracted; not proof of zero openings",
       "source_url": "https://redis.io/careers/",
-      "checked_at": "2026-11-15T01:57:22.148543+00:00",
+      "checked_at": "2026-11-16T20:31:00.811910+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 44,
+      "consecutive_errors": 45,
       "last_success": null,
       "alerted": false
     },
@@ -12259,13 +12261,13 @@
       "pages": 1,
       "detail": "No structured postings extracted; not proof of zero openings",
       "source_url": "https://www.redhat.com/en/jobs",
-      "checked_at": "2026-11-15T01:57:22.148976+00:00",
+      "checked_at": "2026-11-16T20:31:02.726221+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 44,
+      "consecutive_errors": 45,
       "last_success": null,
       "alerted": false
     }
   },
-  "browser_cursor": 196
+  "browser_cursor": 18
 }
