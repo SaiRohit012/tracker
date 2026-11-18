@@ -13,18 +13,18 @@
       "source_id": "7985187",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-18T13:58:22.689582+00:00",
+      "fetched_at": "2026-11-18T21:56:31.032230+00:00",
       "legacy_ids": [
         "gh_coinbase_7985187"
       ],
       "experience_hint": "2+ years of professional experience",
       "seniority": "unspecified",
       "first_seen": "2026-09-20T00:09:38.150785+00:00",
-      "last_seen": "2026-11-18T13:58:23.239846+00:00",
+      "last_seen": "2026-11-18T21:56:31.414202+00:00",
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-18T14:00:17.520703+00:00"
+      "link_checked_at": "2026-11-18T21:59:02.664756+00:00"
     },
     "56228747c13d232288b6c5e01db71c92": {
       "id": "56228747c13d232288b6c5e01db71c92",
@@ -38,14 +38,14 @@
       "source_id": "8165441",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-18T13:58:23.026235+00:00",
+      "fetched_at": "2026-11-18T21:56:31.248193+00:00",
       "legacy_ids": [
         "gh_coinbase_8165441"
       ],
       "experience_hint": "3+ years of experience",
       "seniority": "unspecified",
       "first_seen": "2026-09-20T00:09:38.150803+00:00",
-      "last_seen": "2026-11-18T13:58:23.239857+00:00",
+      "last_seen": "2026-11-18T21:56:31.414213+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -421,18 +421,18 @@
       "source_id": "7956918",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-18T13:58:23.736301+00:00",
+      "fetched_at": "2026-11-18T21:56:32.151509+00:00",
       "legacy_ids": [
         "gh_rubrik_7956918"
       ],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-09-20T00:09:44.131711+00:00",
-      "last_seen": "2026-11-18T13:58:23.796239+00:00",
+      "last_seen": "2026-11-18T21:56:32.218393+00:00",
       "active": true,
       "delivered_at": null,
       "link_status": "unverified",
-      "link_checked_at": "2026-11-18T14:00:17.645750+00:00"
+      "link_checked_at": "2026-11-18T21:59:03.130728+00:00"
     },
     "d8fdd8db0c47ebb67f218cd80d0abc09": {
       "id": "d8fdd8db0c47ebb67f218cd80d0abc09",
@@ -446,18 +446,18 @@
       "source_id": "fffdcfb1-fd6e-4401-b059-500838a6db0e",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-18T13:58:24.829040+00:00",
+      "fetched_at": "2026-11-18T21:56:33.492378+00:00",
       "legacy_ids": [
         "lv_paytm_fffdcfb1-fd6e-4401-b059-500838a6db0e"
       ],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-09-20T00:09:46.804591+00:00",
-      "last_seen": "2026-11-18T13:58:25.083180+00:00",
+      "last_seen": "2026-11-18T21:56:33.628415+00:00",
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-18T14:00:17.678830+00:00"
+      "link_checked_at": "2026-11-18T21:59:03.158111+00:00"
     },
     "05c8373bb5167e4c8561e47fa9889031": {
       "id": "05c8373bb5167e4c8561e47fa9889031",
@@ -647,7 +647,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "unverified",
-      "link_checked_at": "2026-11-18T14:00:17.882314+00:00"
+      "link_checked_at": "2026-11-18T21:59:03.222140+00:00"
     },
     "6d87f6af31798ddefbc076799b164978": {
       "id": "6d87f6af31798ddefbc076799b164978",
@@ -844,7 +844,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "unverified",
-      "link_checked_at": "2026-11-18T14:00:17.919220+00:00"
+      "link_checked_at": "2026-11-18T21:59:03.352536+00:00"
     },
     "7eb55c67be030aea3bc02959f0fbea02": {
       "id": "7eb55c67be030aea3bc02959f0fbea02",
@@ -888,7 +888,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "unverified",
-      "link_checked_at": "2026-11-18T14:00:18.104138+00:00"
+      "link_checked_at": "2026-11-18T21:59:03.373468+00:00"
     },
     "51182ef0c854b73f88af02c93c516695": {
       "id": "51182ef0c854b73f88af02c93c516695",
@@ -992,14 +992,14 @@
       "source_id": "489fe662-5d28-4305-953e-91ee21e8538c",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-18T13:58:54.479644+00:00",
+      "fetched_at": "2026-11-18T21:56:37.031261+00:00",
       "legacy_ids": [
         "lv_meesho_489fe662-5d28-4305-953e-91ee21e8538c"
       ],
       "experience_hint": "4-7 years of experience",
       "seniority": "unspecified",
       "first_seen": "2026-09-20T00:09:52.746603+00:00",
-      "last_seen": "2026-11-18T13:58:54.507011+00:00",
+      "last_seen": "2026-11-18T21:56:37.094675+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -1110,14 +1110,14 @@
       "source_id": "8073988",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-18T13:58:33.760706+00:00",
+      "fetched_at": "2026-11-18T21:56:37.719224+00:00",
       "legacy_ids": [
         "gh_inmobi_8073988"
       ],
       "experience_hint": "3–5 years of software development experience",
       "seniority": "unspecified",
       "first_seen": "2026-09-20T00:09:53.280555+00:00",
-      "last_seen": "2026-11-18T13:58:34.045421+00:00",
+      "last_seen": "2026-11-18T21:56:37.866892+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -1133,14 +1133,14 @@
       "source_id": "7393433",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-18T13:58:33.765032+00:00",
+      "fetched_at": "2026-11-18T21:56:37.722688+00:00",
       "legacy_ids": [
         "gh_inmobi_7393433"
       ],
       "experience_hint": "7-11 years of experience",
       "seniority": "unspecified",
       "first_seen": "2026-09-20T00:09:53.280577+00:00",
-      "last_seen": "2026-11-18T13:58:34.045428+00:00",
+      "last_seen": "2026-11-18T21:56:37.866902+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -1512,18 +1512,18 @@
       "source_id": "8741978002",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-18T13:58:34.531085+00:00",
+      "fetched_at": "2026-11-18T21:56:38.607193+00:00",
       "legacy_ids": [
         "gh_sigmoid_8741978002"
       ],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-09-20T00:09:54.089216+00:00",
-      "last_seen": "2026-11-18T13:58:34.556950+00:00",
+      "last_seen": "2026-11-18T21:56:38.971666+00:00",
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-18T14:00:18.365027+00:00"
+      "link_checked_at": "2026-11-18T21:59:03.436109+00:00"
     },
     "b74c87d485a6e20be5f1323a79ba9d86": {
       "id": "b74c87d485a6e20be5f1323a79ba9d86",
@@ -1537,18 +1537,18 @@
       "source_id": "4808098002",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-18T13:58:34.547898+00:00",
+      "fetched_at": "2026-11-18T21:56:38.645549+00:00",
       "legacy_ids": [
         "gh_sigmoid_4808098002"
       ],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-09-20T00:09:54.089225+00:00",
-      "last_seen": "2026-11-18T13:58:34.556963+00:00",
+      "last_seen": "2026-11-18T21:56:38.971676+00:00",
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-18T14:00:18.510794+00:00"
+      "link_checked_at": "2026-11-18T21:59:03.656631+00:00"
     },
     "3cbbc91c8fd50cc1568b441aea5d22bb": {
       "id": "3cbbc91c8fd50cc1568b441aea5d22bb",
@@ -1583,18 +1583,18 @@
       "source_id": "8456543002",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-18T13:58:37.129283+00:00",
+      "fetched_at": "2026-11-18T21:56:40.982881+00:00",
       "legacy_ids": [
         "gh_gravitonresearchcapital_8456543002"
       ],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-09-20T00:09:57.130161+00:00",
-      "last_seen": "2026-11-18T13:58:37.157584+00:00",
+      "last_seen": "2026-11-18T21:56:41.012463+00:00",
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-18T14:00:18.697405+00:00"
+      "link_checked_at": "2026-11-18T21:59:03.804813+00:00"
     },
     "1a6fff0ff2f0afef214508f15795e1fe": {
       "id": "1a6fff0ff2f0afef214508f15795e1fe",
@@ -1608,18 +1608,18 @@
       "source_id": "4004918002",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-18T13:58:37.134022+00:00",
+      "fetched_at": "2026-11-18T21:56:40.996781+00:00",
       "legacy_ids": [
         "gh_gravitonresearchcapital_4004918002"
       ],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-09-20T00:09:57.130177+00:00",
-      "last_seen": "2026-11-18T13:58:37.157593+00:00",
+      "last_seen": "2026-11-18T21:56:41.012471+00:00",
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-18T14:00:18.848429+00:00"
+      "link_checked_at": "2026-11-18T21:59:03.988409+00:00"
     },
     "755bf80071dca2e57ba8bd7a9d681bb0": {
       "id": "755bf80071dca2e57ba8bd7a9d681bb0",
@@ -1658,14 +1658,14 @@
       "source_id": "5099344002",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-18T13:58:37.143308+00:00",
+      "fetched_at": "2026-11-18T21:56:40.999392+00:00",
       "legacy_ids": [
         "gh_gravitonresearchcapital_5099344002"
       ],
       "experience_hint": "3 to 4 years of relevant experience",
       "seniority": "unspecified",
       "first_seen": "2026-09-20T00:09:57.130195+00:00",
-      "last_seen": "2026-11-18T13:58:37.157601+00:00",
+      "last_seen": "2026-11-18T21:56:41.012477+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -1706,18 +1706,18 @@
       "source_id": "4004920002",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-18T13:58:37.143943+00:00",
+      "fetched_at": "2026-11-18T21:56:41.005121+00:00",
       "legacy_ids": [
         "gh_gravitonresearchcapital_4004920002"
       ],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-09-20T00:09:57.130213+00:00",
-      "last_seen": "2026-11-18T13:58:37.157607+00:00",
+      "last_seen": "2026-11-18T21:56:41.012482+00:00",
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-18T14:00:18.993889+00:00"
+      "link_checked_at": "2026-11-18T21:59:04.144485+00:00"
     },
     "1d575b3789a51895a5f69727f7e7d155": {
       "id": "1d575b3789a51895a5f69727f7e7d155",
@@ -1731,18 +1731,18 @@
       "source_id": "8147013002",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-18T13:58:37.149849+00:00",
+      "fetched_at": "2026-11-18T21:56:41.005699+00:00",
       "legacy_ids": [
         "gh_gravitonresearchcapital_8147013002"
       ],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-09-20T00:09:57.130221+00:00",
-      "last_seen": "2026-11-18T13:58:37.157613+00:00",
+      "last_seen": "2026-11-18T21:56:41.012488+00:00",
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-18T14:00:19.117138+00:00"
+      "link_checked_at": "2026-11-18T21:59:04.314056+00:00"
     },
     "93a9b9bc5032ace4fe5583552b2fd67f": {
       "id": "93a9b9bc5032ace4fe5583552b2fd67f",
@@ -1848,14 +1848,14 @@
       "source_id": "4006731005",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-18T13:58:37.301636+00:00",
+      "fetched_at": "2026-11-18T21:56:41.336019+00:00",
       "legacy_ids": [
         "gh_gleanwork_4006731005"
       ],
       "experience_hint": "6+ years of experience",
       "seniority": "unspecified",
       "first_seen": "2026-09-20T00:09:57.545693+00:00",
-      "last_seen": "2026-11-18T13:58:37.378689+00:00",
+      "last_seen": "2026-11-18T21:56:41.392252+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -1894,14 +1894,14 @@
       "source_id": "4012745005",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-18T13:58:37.320526+00:00",
+      "fetched_at": "2026-11-18T21:56:41.349280+00:00",
       "legacy_ids": [
         "gh_gleanwork_4012745005"
       ],
       "experience_hint": "6+ years of experience",
       "seniority": "unspecified",
       "first_seen": "2026-09-20T00:09:57.545711+00:00",
-      "last_seen": "2026-11-18T13:58:37.378696+00:00",
+      "last_seen": "2026-11-18T21:56:41.392258+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -2165,7 +2165,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "unverified",
-      "link_checked_at": "2026-11-18T14:00:19.259687+00:00"
+      "link_checked_at": "2026-11-18T21:59:04.430359+00:00"
     },
     "945cc7099817c53ed0220383ef0b8127": {
       "id": "945cc7099817c53ed0220383ef0b8127",
@@ -2209,7 +2209,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "unverified",
-      "link_checked_at": "2026-11-18T14:00:19.417087+00:00"
+      "link_checked_at": "2026-11-18T21:59:04.788795+00:00"
     },
     "b21abae1a6772186ced2bd545f089708": {
       "id": "b21abae1a6772186ced2bd545f089708",
@@ -2232,7 +2232,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "unverified",
-      "link_checked_at": "2026-11-18T14:00:19.467456+00:00"
+      "link_checked_at": "2026-11-18T21:59:04.945395+00:00"
     },
     "4a1293b7fe980ba2b84e9392e7d2f529": {
       "id": "4a1293b7fe980ba2b84e9392e7d2f529",
@@ -2255,7 +2255,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "unverified",
-      "link_checked_at": "2026-11-18T14:00:19.614888+00:00"
+      "link_checked_at": "2026-11-18T21:59:04.962243+00:00"
     },
     "fddfbf52f8baedc50a421c55552cbefc": {
       "id": "fddfbf52f8baedc50a421c55552cbefc",
@@ -2343,7 +2343,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-18T14:00:16.599866+00:00"
+      "link_checked_at": "2026-11-18T21:59:01.713236+00:00"
     },
     "beb5c20a36adf7fc55d66d1b251fa357": {
       "id": "beb5c20a36adf7fc55d66d1b251fa357",
@@ -2366,7 +2366,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-18T14:00:15.902207+00:00"
+      "link_checked_at": "2026-11-18T21:59:01.073853+00:00"
     },
     "32e9b4233ad23d29b2782da167d9e74c": {
       "id": "32e9b4233ad23d29b2782da167d9e74c",
@@ -2433,7 +2433,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-18T14:00:16.883863+00:00"
+      "link_checked_at": "2026-11-18T21:59:02.173428+00:00"
     },
     "31acf6c3173a3d18477876929059b962": {
       "id": "31acf6c3173a3d18477876929059b962",
@@ -2456,7 +2456,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-18T14:00:17.049289+00:00"
+      "link_checked_at": "2026-11-18T21:59:02.563750+00:00"
     },
     "492b91f25309c81a395db79b9d90dea6": {
       "id": "492b91f25309c81a395db79b9d90dea6",
@@ -2479,7 +2479,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-18T14:00:17.273364+00:00"
+      "link_checked_at": "2026-11-18T21:59:02.659646+00:00"
     },
     "38edc0ed5a6590ca48ca540288c57fd8": {
       "id": "38edc0ed5a6590ca48ca540288c57fd8",
@@ -2548,7 +2548,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-18T14:00:16.138648+00:00"
+      "link_checked_at": "2026-11-18T21:59:01.542132+00:00"
     },
     "6bb34b0028d330942f87c3c768730705": {
       "id": "6bb34b0028d330942f87c3c768730705",
@@ -2571,7 +2571,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-18T14:00:16.765979+00:00"
+      "link_checked_at": "2026-11-18T21:59:01.936145+00:00"
     },
     "4c9cead035dc7580803120fac6bb072c": {
       "id": "4c9cead035dc7580803120fac6bb072c",
@@ -2606,16 +2606,16 @@
       "source_id": "R-86716",
       "compensation": {},
       "published_at": "2026-08-04T10:42:02.221684+00:00",
-      "fetched_at": "2026-11-16T20:31:00.803363+00:00",
+      "fetched_at": "2026-11-18T21:58:01.035578+00:00",
       "legacy_ids": [],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-09-20T20:51:47.986322+00:00",
-      "last_seen": "2026-11-16T20:31:08.468726+00:00",
+      "last_seen": "2026-11-18T21:58:07.920769+00:00",
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-18T14:00:16.650627+00:00"
+      "link_checked_at": "2026-11-18T21:59:01.926723+00:00"
     },
     "9cb37b87202fd6ea72463160f6d05034": {
       "id": "9cb37b87202fd6ea72463160f6d05034",
@@ -2857,18 +2857,18 @@
       "source_id": "4731054005",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-18T13:58:21.781443+00:00",
+      "fetched_at": "2026-11-18T21:56:30.640092+00:00",
       "legacy_ids": [
         "gh_razorpaysoftwareprivatelimited_4731054005"
       ],
       "experience_hint": "1+ years of relevant experience",
       "seniority": "unspecified",
       "first_seen": "2026-09-23T11:35:59.861397+00:00",
-      "last_seen": "2026-11-18T13:58:21.825700+00:00",
+      "last_seen": "2026-11-18T21:56:30.744680+00:00",
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-18T14:00:20.799181+00:00"
+      "link_checked_at": "2026-11-18T21:59:06.000286+00:00"
     },
     "35e128f930b3094dcf33bc6e4d843872": {
       "id": "35e128f930b3094dcf33bc6e4d843872",
@@ -2963,23 +2963,23 @@
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8213730",
       "location": "Remote - India",
       "eligibility": "india",
-      "description": "<div class=\"content-intro\"><p><strong>Who we are&nbsp;</strong></p> <p>At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to<a class=\"c-link\" href=\"https://customers.twilio.com/\" target=\"_blank\" data-stringify-link=\"https://customers.twilio.com/\" data-sk=\"tooltip_parent\">&nbsp;hundreds of thousands of businesses&nbsp;</a>and empower millions of developers worldwide to craft personalized customer experiences.</p> <p>Our dedication to <a class=\"c-link\" href=\"https://www.twilio.com/en-us/blog/open-work\" target=\"_blank\" data-stringify-link=\"https://www.twilio.com/en-us/blog/open-work\" data-sk=\"tooltip_parent\">remote-first work</a>, and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.<br><span style=\"color: rgb(255, 255, 255);\">.</span></p> <p><strong>Hiring and how we work</strong></p> <p>We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!&nbsp;</p> <p>Also, while we are a remote-first company, you may be asked to report in person on an ad-hoc basis for team gatherings, functional off-sites or customer meetings.<br><span style=\"color: rgb(255, 255, 255);\">.</span></p></div><p><strong>See yourself at Twilio</strong></p> <p>Join the team as our next Personalized Support Engineer&nbsp;</p> <p><strong>About the job</strong></p> <p>The Personalized Support Engineer (PSE) is a member of the Global Personalized support team supporting our top tier customers.&nbsp; They are responsible for handling a variety of Twilio products while also working and collaborating with the Technical Account Managers (TAMs.)&nbsp; The Global PSE team advocates for our TAMs’ customers as if they are their own while providing 24x7x365 coverage, managing specializations and guarding the queue.</p> <p>This position requires working in a shift, EMEA - 1300-2200 IST. We work 5 days a week, and could include one or both weekend days. (Tue-Sat, Sun-Thur, Mon-Fri etc)</p> <p><strong>Responsibilities</strong></p> <p>In this role, you’ll:</p> <ul> <li>BE AN OWNER: Use your strong technical and diplomatic skills to address customer issues and provide customer feedback to Twilio’s Product and Engineering teams.</li> <li>WEAR THE CUSTOMER SHOES: Work with our customers' and partners' developers, architects, and support personnel to resolve problems with potentially very costly and far-reaching consequences.</li> <li>EMPOWER OTHERS: Collaborate with your teammates, the Twilio Product and Engineering teams including filing JIRAs to report reproducible bugs.</li> <li>RUTHLESSLY PRIORITIZE: Be ready to assist our customers when they need us. This position may require working an irregular shift, including the weekend/holidays (Shifts are subject to change based on evolving team and customer needs).</li> </ul> <p><strong>Qualifications&nbsp;</strong></p> <p>Twilio values diverse experiences from all kinds of industries, and we encourage everyone who meets the required qualifications to apply. If your career is just starting or hasn't followed a traditional path, don't let that stop you from considering Twilio. We are always looking for people who will bring something new to the table!</p> <p><strong>*Required:</strong></p> <ul> <li>Fluent in English language (both oral and written)</li> <li>2+ years’ experience in a client-facing technical role, preferably in supporting REST API and ability to understand and troubleshoot issues with cloud solutions.</li> <li>Experience working with top tier customers.</li> <li>Supporting customers with service level agreements (SLAs) of 3 hours or less, utilizing a ticket system such as Zendesk.</li> <li>Excellence in task prioritization and evaluation of situational urgency.</li> <li>Advanced time management skills&nbsp; and proficiency at developing workflows to increase troubleshooting efficiency while still following standard processes and procedures.</li> <li>Ability to stand in the customer’s shoes and demonstrated dedication to the customer experience.</li> <li>Enthusiasm for interacting and collaborating with other departments within Twilio in your search for the solutions our customers need.</li> </ul> <p><strong>Desired:</strong></p> <ul> <li>Previous exposure or knowledge of Twilio products&nbsp;</li> <li>Experience working with JIRA, Confluence, Airtable and other project tools.</li> <li>Skilled in troubleshooting network connectivity issues</li> <li>Prior telecom (Carrier, SIP, PBX) including reviewing PCAPs/using Wireshark or messaging platform experience</li> </ul> <p><strong>Location</strong></p> <p>This role will be remotely based in India(Karanatka, Telangana, Delhi, Tamil Nadu, Maharashtra)</p> <p><strong>Travel&nbsp;</strong></p> <p>We prioritize connection and opportunities to build relationships with our customers and each other. For this role, you may be required to travel occasionally to participate in project or team in-person meetings.</p> <p><strong>What We Offer</strong></p> <p>Working at Twilio offers many benefits, including competitive pay, generous time off, ample parental and wellness leave, healthcare, a retirement savings program, and much more. Offerings vary by location.</p><div class=\"content-conclusion\"><p><strong>Twilio thinks big. Do you?</strong></p> <p>We like to solve problems, take initiative, pitch in when needed, and are always up for trying new things. That's why we seek out colleagues who embody our values — something we call <a href=\"https://www.twilio.com/company/values\">Twilio Magic</a>. Additionally, we empower employees to build <a href=\"https://twilio.org/support-and-resources/impact-fund\">positive change in their communities</a> by supporting their volunteering and donation efforts.</p> <p>So, if you're ready to unleash your full potential, do your best work, and be the best version of yourself, apply now! If this role isn't what you're looking for, <a href=\"https://www.twilio.com/company/jobs#open-positions\">please consider other open positions.</a></p> <p><strong><span style=\"color: rgb(255, 255, 255);\">.</span></strong></p> <p><strong>Stay alert to recruitment fraud</strong></p> <p>We care about your safety. Scammers sometimes impersonate Twilio recruiters through fake job postings, emails, websites, or messages. Please ensure you are engaging with an official @<a href=\"http://twilio.com\">twilio.com</a> email address. We will never ask for payment, gift cards, cryptocurrency, or banking information during the recruiting process. We do not make job offers without a formal interview process or conduct interviews exclusively through text-based messaging apps.<br><br><span style=\"color: rgb(255, 255, 255);\">.</span><strong> </strong></p> <p><strong>Twilio is proud to be an equal opportunity employer.</strong> We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Qualified applicants with arrest or conviction records will be considered for employment in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Additionally, Twilio participates in the E-Verify program in certain locations, as required by law.</p></div>",
+      "description": "<div class=\"content-intro\"><p><strong>Who we are&nbsp;</strong></p> <p>At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to<a class=\"c-link\" href=\"https://customers.twilio.com/\" target=\"_blank\" data-stringify-link=\"https://customers.twilio.com/\" data-sk=\"tooltip_parent\">&nbsp;hundreds of thousands of businesses&nbsp;</a>and empower millions of developers worldwide to craft personalized customer experiences.</p> <p>Our dedication to <a class=\"c-link\" href=\"https://www.twilio.com/en-us/blog/open-work\" target=\"_blank\" data-stringify-link=\"https://www.twilio.com/en-us/blog/open-work\" data-sk=\"tooltip_parent\">remote-first work</a>, and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.<br><span style=\"color: rgb(255, 255, 255);\">.</span></p> <p><strong>Hiring and how we work</strong></p> <p>We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!&nbsp;</p> <p>Also, while we are a remote-first company, you may be asked to report in person on an ad-hoc basis for team gatherings, functional off-sites or customer meetings.<br><span style=\"color: rgb(255, 255, 255);\">.</span><strong> </strong></p></div><p><strong>See yourself at Twilio</strong></p> <p>Join the team as our next Personalized Support Engineer&nbsp;</p> <p><strong>About the job</strong></p> <p>The Personalized Support Engineer (PSE) is a member of the Global Personalized support team supporting our top tier customers.&nbsp; They are responsible for handling a variety of Twilio products while also working and collaborating with the Technical Account Managers (TAMs.)&nbsp; The Global PSE team advocates for our TAMs’ customers as if they are their own while providing 24x7x365 coverage, managing specializations and guarding the queue.</p> <p>This position requires working in a shift, EMEA - 1300-2200 IST. We work 5 days a week, and could include one or both weekend days. (Tue-Sat, Sun-Thur, Mon-Fri etc)</p> <p><strong>Responsibilities</strong></p> <p>In this role, you’ll:</p> <ul> <li>BE AN OWNER: Use your strong technical and diplomatic skills to address customer issues and provide customer feedback to Twilio’s Product and Engineering teams.</li> <li>WEAR THE CUSTOMER SHOES: Work with our customers' and partners' developers, architects, and support personnel to resolve problems with potentially very costly and far-reaching consequences.</li> <li>EMPOWER OTHERS: Collaborate with your teammates, the Twilio Product and Engineering teams including filing JIRAs to report reproducible bugs.</li> <li>RUTHLESSLY PRIORITIZE: Be ready to assist our customers when they need us. This position may require working an irregular shift, including the weekend/holidays (Shifts are subject to change based on evolving team and customer needs).</li> </ul> <p><strong>Qualifications&nbsp;</strong></p> <p>Twilio values diverse experiences from all kinds of industries, and we encourage everyone who meets the required qualifications to apply. If your career is just starting or hasn't followed a traditional path, don't let that stop you from considering Twilio. We are always looking for people who will bring something new to the table!</p> <p><strong>*Required:</strong></p> <ul> <li>Fluent in English language (both oral and written)</li> <li>2+ years’ experience in a client-facing technical role, preferably in supporting REST API and ability to understand and troubleshoot issues with cloud solutions.</li> <li>Experience working with top tier customers.</li> <li>Supporting customers with service level agreements (SLAs) of 3 hours or less, utilizing a ticket system such as Zendesk.</li> <li>Excellence in task prioritization and evaluation of situational urgency.</li> <li>Advanced time management skills&nbsp; and proficiency at developing workflows to increase troubleshooting efficiency while still following standard processes and procedures.</li> <li>Ability to stand in the customer’s shoes and demonstrated dedication to the customer experience.</li> <li>Enthusiasm for interacting and collaborating with other departments within Twilio in your search for the solutions our customers need.</li> </ul> <p><strong>Desired:</strong></p> <ul> <li>Previous exposure or knowledge of Twilio products&nbsp;</li> <li>Experience working with JIRA, Confluence, Airtable and other project tools.</li> <li>Skilled in troubleshooting network connectivity issues</li> <li>Prior telecom (Carrier, SIP, PBX) including reviewing PCAPs/using Wireshark or messaging platform experience</li> </ul> <p><strong>Location</strong></p> <p>This role will be remotely based in India(Karanatka, Telangana, Delhi, Tamil Nadu, Maharashtra)</p> <p><strong>Travel&nbsp;</strong></p> <p>We prioritize connection and opportunities to build relationships with our customers and each other. For this role, you may be required to travel occasionally to participate in project or team in-person meetings.</p> <p><strong>What We Offer</strong></p> <p>Working at Twilio offers many benefits, including competitive pay, generous time off, ample parental and wellness leave, healthcare, a retirement savings program, and much more. Offerings vary by location.</p><div class=\"content-conclusion\"><p><span style=\"color: rgb(255, 255, 255);\">.</span><strong> </strong></p> <p><strong>Twilio thinks big. Do you?</strong></p> <p>We like to solve problems, take initiative, pitch in when needed, and are always up for trying new things. That's why we seek out colleagues who embody our values — something we call <a href=\"https://www.twilio.com/company/values\">Twilio Magic</a>. Additionally, we empower employees to build <a href=\"https://twilio.org/support-and-resources/impact-fund\">positive change in their communities</a> by supporting their volunteering and donation efforts.</p> <p>So, if you're ready to unleash your full potential, do your best work, and be the best version of yourself, apply now! If this role isn't what you're looking for, <a href=\"https://www.twilio.com/company/jobs#open-positions\">please consider other open positions.</a><br><span style=\"color: rgb(255, 255, 255);\">.</span><strong> </strong></p> <p><strong>Stay alert to recruitment fraud</strong></p> <p>We care about your safety. Scammers sometimes impersonate Twilio recruiters through fake job postings, emails, websites, or messages. Please ensure you are engaging with an official @<a href=\"http://twilio.com\">twilio.com</a> email address. We will never ask for payment, gift cards, cryptocurrency, or banking information during the recruiting process. We do not make job offers without a formal interview process or conduct interviews exclusively through text-based messaging apps.<br><span style=\"color: rgb(255, 255, 255);\">.</span><strong> </strong></p> <p><strong>Twilio is proud to be an equal opportunity employer.</strong> We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Qualified applicants with arrest or conviction records will be considered for employment in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Additionally, Twilio participates in the E-Verify program in certain locations, as required by law.</p></div>",
       "source": "greenhouse",
       "source_id": "8213730",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-18T13:58:28.266467+00:00",
+      "fetched_at": "2026-11-18T21:56:34.759232+00:00",
       "legacy_ids": [
         "gh_twilio_8213730"
       ],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-09-23T16:58:14.410494+00:00",
-      "last_seen": "2026-11-18T13:58:28.644136+00:00",
+      "last_seen": "2026-11-18T21:56:35.014875+00:00",
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-18T14:00:20.932707+00:00"
+      "link_checked_at": "2026-11-18T21:59:06.164459+00:00"
     },
     "555ad328a951c358262946edade909a7": {
       "id": "555ad328a951c358262946edade909a7",
@@ -3298,18 +3298,18 @@
       "source_id": "8775507002",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-18T13:58:26.675559+00:00",
+      "fetched_at": "2026-11-18T21:56:33.956970+00:00",
       "legacy_ids": [
         "gh_gitlab_8775507002"
       ],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-09-26T01:34:13.964908+00:00",
-      "last_seen": "2026-11-18T13:58:27.139516+00:00",
+      "last_seen": "2026-11-18T21:56:34.289791+00:00",
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-18T14:00:20.946777+00:00"
+      "link_checked_at": "2026-11-18T21:59:06.335255+00:00"
     },
     "3aa3e2c7bbd4c20cecf3cb518ed8ab82": {
       "id": "3aa3e2c7bbd4c20cecf3cb518ed8ab82",
@@ -3470,7 +3470,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "unverified",
-      "link_checked_at": "2026-11-18T14:00:20.969693+00:00"
+      "link_checked_at": "2026-11-18T21:59:06.344377+00:00"
     },
     "638e4419bf4305a440eba4a4b5928b78": {
       "id": "638e4419bf4305a440eba4a4b5928b78",
@@ -3860,7 +3860,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-18T14:00:15.638984+00:00"
+      "link_checked_at": "2026-11-18T21:59:00.837653+00:00"
     },
     "8900591843dfca52a34fea76a0498a7d": {
       "id": "8900591843dfca52a34fea76a0498a7d",
@@ -4276,7 +4276,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "unverified",
-      "link_checked_at": "2026-11-18T14:00:21.079135+00:00"
+      "link_checked_at": "2026-11-18T21:59:06.497934+00:00"
     },
     "aa80876f5bdb10cd534b66de57abc576": {
       "id": "aa80876f5bdb10cd534b66de57abc576",
@@ -4579,7 +4579,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "unverified",
-      "link_checked_at": "2026-11-18T14:00:21.152220+00:00"
+      "link_checked_at": "2026-11-18T21:59:06.556650+00:00"
     },
     "d15bc49185bf820f5083ff6c70d486bc": {
       "id": "d15bc49185bf820f5083ff6c70d486bc",
@@ -4602,7 +4602,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "unverified",
-      "link_checked_at": "2026-11-18T14:00:21.189902+00:00"
+      "link_checked_at": "2026-11-18T21:59:06.574712+00:00"
     },
     "28f9e7b9a466d132dbdd2502229b997f": {
       "id": "28f9e7b9a466d132dbdd2502229b997f",
@@ -4625,7 +4625,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "unverified",
-      "link_checked_at": "2026-11-18T14:00:22.484007+00:00"
+      "link_checked_at": "2026-11-18T21:59:07.909544+00:00"
     },
     "519b7d42687c6d79b869c4a2c0fdb0b1": {
       "id": "519b7d42687c6d79b869c4a2c0fdb0b1",
@@ -4669,7 +4669,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "unverified",
-      "link_checked_at": "2026-11-18T14:00:22.593081+00:00"
+      "link_checked_at": "2026-11-18T21:59:08.076252+00:00"
     },
     "d625b65f0b3d5b35a2e43ef7287acddb": {
       "id": "d625b65f0b3d5b35a2e43ef7287acddb",
@@ -4757,7 +4757,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "unverified",
-      "link_checked_at": "2026-11-18T14:00:24.272679+00:00"
+      "link_checked_at": "2026-11-18T21:59:09.510060+00:00"
     },
     "e1a15011e70f1f0fdb29def066639e85": {
       "id": "e1a15011e70f1f0fdb29def066639e85",
@@ -4917,19 +4917,19 @@
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8258587",
       "location": "Remote - India",
       "eligibility": "india",
-      "description": "<div class=\"content-intro\"><p><strong>Who we are&nbsp;</strong></p> <p>At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to<a class=\"c-link\" href=\"https://customers.twilio.com/\" target=\"_blank\" data-stringify-link=\"https://customers.twilio.com/\" data-sk=\"tooltip_parent\">&nbsp;hundreds of thousands of businesses&nbsp;</a>and empower millions of developers worldwide to craft personalized customer experiences.</p> <p>Our dedication to <a class=\"c-link\" href=\"https://www.twilio.com/en-us/blog/open-work\" target=\"_blank\" data-stringify-link=\"https://www.twilio.com/en-us/blog/open-work\" data-sk=\"tooltip_parent\">remote-first work</a>, and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.<br><span style=\"color: rgb(255, 255, 255);\">.</span></p> <p><strong>Hiring and how we work</strong></p> <p>We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!&nbsp;</p> <p>Also, while we are a remote-first company, you may be asked to report in person on an ad-hoc basis for team gatherings, functional off-sites or customer meetings.<br><span style=\"color: rgb(255, 255, 255);\">.</span></p></div><p><strong>See yourself at Twilio</strong></p> <p>Join the team as our next Machine Learning Engineer III in Twilio’s Customer Memory Team..</p> <p><strong>About the job</strong></p> <p>In this role, you will build the foundational AI/ML capabilities that power intelligent engagement experiences for Twilio customers - letting any application, human or AI agent, or channel know who a customer is, what they have done, and how best to reach them.</p> <p>This role requires a builder and curious mindset, someone who can bridge the gap across theoretical research, production-grade experimentation and enterprise quality software. You will lead rapid research cycles to solve complex problems regarding contextual intelligence and large scale ML problems ensuring every interaction feels seamless and personalized.</p> <p><strong>Responsibilities</strong></p> <p>In this role, you’ll:</p> <ul> <li>Build out new functionality within a fast moving product seeing rapid adoption.&nbsp;</li> <li>Take a nebulous idea, design a rigorous experiment, and execute it within weeks.</li> <li>Conduct deep-dive research into state-of-the-art LLM orchestration, retrieval strategies, and data-driven personalization.</li> <li>Build ML systems that hold up at Twilio scale.&nbsp;</li> <li>Rapidly acquire new technical skills and knowledge in a fast-paced, high-delivery environment.</li> <li>Proactively leverage and integrate the latest AI development stacks to bypass boilerplate engineering and focus on core differentiation.</li> </ul> <p><strong>Qualifications&nbsp;</strong></p> <p>Twilio values diverse experiences from all kinds of industries, and we encourage everyone who meets the required qualifications to apply. If your career is just starting or hasn't followed a traditional path, don't let that stop you from considering Twilio. We are always looking for people who will bring something new to the table!</p> <p><strong>*Required:</strong></p> <ul> <li>5+ years applied ML/AI experience with a track record of owning technically ambitious systems end to end rather than contributing to someone else's design.</li> <li>Comfort operating in a 0-to-1 setting with ambiguous requirements and a strong bias for action.</li> <li>Proficiency in Python programming language.</li> <li>Experience building cloud-based services on AWS, GCP, or Azure, with high-volume data, streaming or real-time inference paths, and a range of data stores.</li> <li>Deep expertise in the design, architecture, and deployment of production-grade ML/AI systems, including LLM orchestration, embedding models, and vector stores.</li> <li>Strong fundamentals of statistical machine learning algorithms, transformer models, LLMs</li> <li>Ability to raise the technical bar of a team through mentorship, design review, and standards, without formal management authority.</li> <li>Experience in building cloud-based services using AWS, GCP, or Azure.</li> <li>Strong communication skills and highly effective collaborator who works well with teammates.&nbsp;</li> </ul> <p><strong>Desired:</strong></p> <ul> <li>Prior experience building autonomous agents that handle multi-turn conversations and maintain long-term context/consistency.</li> <li>Strong background in predictive modeling on user behavior, including experiment design and the causal or counterfactual methods needed when randomization is partial.</li> <li>Prior experience working in a globally distributed team.</li> </ul> <p><strong>Location</strong></p> <p>This role will be remote, and based in India - Karnataka, Tamil Nadu, Telangana State, Maharashtra and New Delhi.</p> <p><strong>Travel&nbsp;</strong></p> <p>We prioritize connection and opportunities to build relationships with our customers and each other. For this role, you may be required to travel occasionally to participate in project or team in-person meetings.</p> <p><strong>What We Offer</strong></p> <p>Working at Twilio offers many benefits, including competitive pay, generous time off, ample parental and wellness leave, healthcare, a retirement savings program, and much more. Offerings vary by location.</p><div class=\"content-conclusion\"><p><strong>Twilio thinks big. Do you?</strong></p> <p>We like to solve problems, take initiative, pitch in when needed, and are always up for trying new things. That's why we seek out colleagues who embody our values — something we call <a href=\"https://www.twilio.com/company/values\">Twilio Magic</a>. Additionally, we empower employees to build <a href=\"https://twilio.org/support-and-resources/impact-fund\">positive change in their communities</a> by supporting their volunteering and donation efforts.</p> <p>So, if you're ready to unleash your full potential, do your best work, and be the best version of yourself, apply now! If this role isn't what you're looking for, <a href=\"https://www.twilio.com/company/jobs#open-positions\">please consider other open positions.</a></p> <p><strong><span style=\"color: rgb(255, 255, 255);\">.</span></strong></p> <p><strong>Stay alert to recruitment fraud</strong></p> <p>We care about your safety. Scammers sometimes impersonate Twilio recruiters through fake job postings, emails, websites, or messages. Please ensure you are engaging with an official @<a href=\"http://twilio.com\">twilio.com</a> email address. We will never ask for payment, gift cards, cryptocurrency, or banking information during the recruiting process. We do not make job offers without a formal interview process or conduct interviews exclusively through text-based messaging apps.<br><br><span style=\"color: rgb(255, 255, 255);\">.</span><strong> </strong></p> <p><strong>Twilio is proud to be an equal opportunity employer.</strong> We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Qualified applicants with arrest or conviction records will be considered for employment in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Additionally, Twilio participates in the E-Verify program in certain locations, as required by law.</p></div>",
+      "description": "<div class=\"content-intro\"><p><strong>Who we are&nbsp;</strong></p> <p>At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to<a class=\"c-link\" href=\"https://customers.twilio.com/\" target=\"_blank\" data-stringify-link=\"https://customers.twilio.com/\" data-sk=\"tooltip_parent\">&nbsp;hundreds of thousands of businesses&nbsp;</a>and empower millions of developers worldwide to craft personalized customer experiences.</p> <p>Our dedication to <a class=\"c-link\" href=\"https://www.twilio.com/en-us/blog/open-work\" target=\"_blank\" data-stringify-link=\"https://www.twilio.com/en-us/blog/open-work\" data-sk=\"tooltip_parent\">remote-first work</a>, and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.<br><span style=\"color: rgb(255, 255, 255);\">.</span></p> <p><strong>Hiring and how we work</strong></p> <p>We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!&nbsp;</p> <p>Also, while we are a remote-first company, you may be asked to report in person on an ad-hoc basis for team gatherings, functional off-sites or customer meetings.<br><span style=\"color: rgb(255, 255, 255);\">.</span><strong> </strong></p></div><p><strong>See yourself at Twilio</strong></p> <p>Join the team as our next Machine Learning Engineer III in Twilio’s Customer Memory Team..</p> <p><strong>About the job</strong></p> <p>In this role, you will build the foundational AI/ML capabilities that power intelligent engagement experiences for Twilio customers - letting any application, human or AI agent, or channel know who a customer is, what they have done, and how best to reach them.</p> <p>This role requires a builder and curious mindset, someone who can bridge the gap across theoretical research, production-grade experimentation and enterprise quality software. You will lead rapid research cycles to solve complex problems regarding contextual intelligence and large scale ML problems ensuring every interaction feels seamless and personalized.</p> <p><strong>Responsibilities</strong></p> <p>In this role, you’ll:</p> <ul> <li>Build out new functionality within a fast moving product seeing rapid adoption.&nbsp;</li> <li>Take a nebulous idea, design a rigorous experiment, and execute it within weeks.</li> <li>Conduct deep-dive research into state-of-the-art LLM orchestration, retrieval strategies, and data-driven personalization.</li> <li>Build ML systems that hold up at Twilio scale.&nbsp;</li> <li>Rapidly acquire new technical skills and knowledge in a fast-paced, high-delivery environment.</li> <li>Proactively leverage and integrate the latest AI development stacks to bypass boilerplate engineering and focus on core differentiation.</li> </ul> <p><strong>Qualifications&nbsp;</strong></p> <p>Twilio values diverse experiences from all kinds of industries, and we encourage everyone who meets the required qualifications to apply. If your career is just starting or hasn't followed a traditional path, don't let that stop you from considering Twilio. We are always looking for people who will bring something new to the table!</p> <p><strong>*Required:</strong></p> <ul> <li>5+ years applied ML/AI experience with a track record of owning technically ambitious systems end to end rather than contributing to someone else's design.</li> <li>Comfort operating in a 0-to-1 setting with ambiguous requirements and a strong bias for action.</li> <li>Proficiency in Python programming language.</li> <li>Experience building cloud-based services on AWS, GCP, or Azure, with high-volume data, streaming or real-time inference paths, and a range of data stores.</li> <li>Deep expertise in the design, architecture, and deployment of production-grade ML/AI systems, including LLM orchestration, embedding models, and vector stores.</li> <li>Strong fundamentals of statistical machine learning algorithms, transformer models, LLMs</li> <li>Ability to raise the technical bar of a team through mentorship, design review, and standards, without formal management authority.</li> <li>Experience in building cloud-based services using AWS, GCP, or Azure.</li> <li>Strong communication skills and highly effective collaborator who works well with teammates.&nbsp;</li> </ul> <p><strong>Desired:</strong></p> <ul> <li>Prior experience building autonomous agents that handle multi-turn conversations and maintain long-term context/consistency.</li> <li>Strong background in predictive modeling on user behavior, including experiment design and the causal or counterfactual methods needed when randomization is partial.</li> <li>Prior experience working in a globally distributed team.</li> </ul> <p><strong>Location</strong></p> <p>This role will be remote, and based in India - Karnataka, Tamil Nadu, Telangana State, Maharashtra and New Delhi.</p> <p><strong>Travel&nbsp;</strong></p> <p>We prioritize connection and opportunities to build relationships with our customers and each other. For this role, you may be required to travel occasionally to participate in project or team in-person meetings.</p> <p><strong>What We Offer</strong></p> <p>Working at Twilio offers many benefits, including competitive pay, generous time off, ample parental and wellness leave, healthcare, a retirement savings program, and much more. Offerings vary by location.</p><div class=\"content-conclusion\"><p><span style=\"color: rgb(255, 255, 255);\">.</span><strong> </strong></p> <p><strong>Twilio thinks big. Do you?</strong></p> <p>We like to solve problems, take initiative, pitch in when needed, and are always up for trying new things. That's why we seek out colleagues who embody our values — something we call <a href=\"https://www.twilio.com/company/values\">Twilio Magic</a>. Additionally, we empower employees to build <a href=\"https://twilio.org/support-and-resources/impact-fund\">positive change in their communities</a> by supporting their volunteering and donation efforts.</p> <p>So, if you're ready to unleash your full potential, do your best work, and be the best version of yourself, apply now! If this role isn't what you're looking for, <a href=\"https://www.twilio.com/company/jobs#open-positions\">please consider other open positions.</a><br><span style=\"color: rgb(255, 255, 255);\">.</span><strong> </strong></p> <p><strong>Stay alert to recruitment fraud</strong></p> <p>We care about your safety. Scammers sometimes impersonate Twilio recruiters through fake job postings, emails, websites, or messages. Please ensure you are engaging with an official @<a href=\"http://twilio.com\">twilio.com</a> email address. We will never ask for payment, gift cards, cryptocurrency, or banking information during the recruiting process. We do not make job offers without a formal interview process or conduct interviews exclusively through text-based messaging apps.<br><span style=\"color: rgb(255, 255, 255);\">.</span><strong> </strong></p> <p><strong>Twilio is proud to be an equal opportunity employer.</strong> We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Qualified applicants with arrest or conviction records will be considered for employment in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Additionally, Twilio participates in the E-Verify program in certain locations, as required by law.</p></div>",
       "source": "greenhouse",
       "source_id": "8258587",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-18T13:58:28.223859+00:00",
+      "fetched_at": "2026-11-18T21:56:34.729638+00:00",
       "legacy_ids": [
         "gh_twilio_8258587"
       ],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-10-08T15:37:07.850980+00:00",
-      "last_seen": "2026-11-18T13:58:28.644124+00:00",
+      "last_seen": "2026-11-18T21:56:35.014866+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -5152,14 +5152,14 @@
       "source_id": "8264291",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-18T13:58:23.968181+00:00",
+      "fetched_at": "2026-11-18T21:56:31.720739+00:00",
       "legacy_ids": [
         "gh_netskope_8264291"
       ],
       "experience_hint": "3+ years of relevant experience",
       "seniority": "unspecified",
       "first_seen": "2026-10-09T09:04:06.311748+00:00",
-      "last_seen": "2026-11-18T13:58:24.402102+00:00",
+      "last_seen": "2026-11-18T21:56:31.801653+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -5322,14 +5322,14 @@
       "source_id": "9c642a77-5b07-40a2-a7f0-0c396b2b97c5",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-18T13:58:54.480701+00:00",
+      "fetched_at": "2026-11-18T21:56:37.032115+00:00",
       "legacy_ids": [
         "lv_meesho_9c642a77-5b07-40a2-a7f0-0c396b2b97c5"
       ],
       "experience_hint": "5–8 years of experience",
       "seniority": "unspecified",
       "first_seen": "2026-10-13T11:47:55.762333+00:00",
-      "last_seen": "2026-11-18T13:58:54.507024+00:00",
+      "last_seen": "2026-11-18T21:56:37.094684+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -5387,14 +5387,14 @@
       "source_id": "4739203005",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-18T13:58:36.980493+00:00",
+      "fetched_at": "2026-11-18T21:56:41.130338+00:00",
       "legacy_ids": [
         "gh_gleanwork_4739203005"
       ],
       "experience_hint": "3–5 years of experience",
       "seniority": "unspecified",
       "first_seen": "2026-10-13T11:48:01.983481+00:00",
-      "last_seen": "2026-11-18T13:58:37.378666+00:00",
+      "last_seen": "2026-11-18T21:56:41.392236+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -5419,7 +5419,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-18T14:00:16.100475+00:00"
+      "link_checked_at": "2026-11-18T21:59:01.433654+00:00"
     },
     "ab3c00064e064010a1606c1a766d5920": {
       "id": "ab3c00064e064010a1606c1a766d5920",
@@ -5433,14 +5433,14 @@
       "source_id": "8265123",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-18T13:58:28.143603+00:00",
+      "fetched_at": "2026-11-18T21:56:35.492506+00:00",
       "legacy_ids": [
         "gh_elastic_8265123"
       ],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-10-14T04:53:27.170121+00:00",
-      "last_seen": "2026-11-18T13:58:29.367804+00:00",
+      "last_seen": "2026-11-18T21:56:36.799501+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -5950,14 +5950,14 @@
       "source_id": "8012782003",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-18T13:58:34.640219+00:00",
+      "fetched_at": "2026-11-18T21:56:38.385433+00:00",
       "legacy_ids": [
         "gh_contentstack_8012782003"
       ],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-10-20T15:06:11.749532+00:00",
-      "last_seen": "2026-11-18T13:58:34.664417+00:00",
+      "last_seen": "2026-11-18T21:56:38.816562+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -6002,7 +6002,7 @@
       "seniority": "unspecified",
       "first_seen": "2026-10-21T13:48:13.348304+00:00",
       "last_seen": "2026-11-18T13:58:23.796247+00:00",
-      "active": true,
+      "active": false,
       "delivered_at": null
     },
     "f78c2df8c590209d16db0502cd011883": {
@@ -6059,14 +6059,14 @@
       "source_id": "8278293",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-18T13:58:32.110975+00:00",
+      "fetched_at": "2026-11-18T21:56:38.769731+00:00",
       "legacy_ids": [
         "gh_samsara_8278293"
       ],
       "experience_hint": "5 years of experience",
       "seniority": "unspecified",
       "first_seen": "2026-10-22T07:34:55.073849+00:00",
-      "last_seen": "2026-11-18T13:58:32.114968+00:00",
+      "last_seen": "2026-11-18T21:56:39.086220+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -6487,14 +6487,14 @@
       "source_id": "8916232002",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-18T13:58:26.998112+00:00",
+      "fetched_at": "2026-11-18T21:56:34.188800+00:00",
       "legacy_ids": [
         "gh_gitlab_8916232002"
       ],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-10-28T08:30:37.517608+00:00",
-      "last_seen": "2026-11-18T13:58:27.139535+00:00",
+      "last_seen": "2026-11-18T21:56:34.289816+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -6669,7 +6669,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-18T14:00:15.639971+00:00"
+      "link_checked_at": "2026-11-18T21:59:00.838437+00:00"
     },
     "cebfcb511dda75144957f5c14c09615c": {
       "id": "cebfcb511dda75144957f5c14c09615c",
@@ -6683,14 +6683,14 @@
       "source_id": "8032547003",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-18T13:58:34.659879+00:00",
+      "fetched_at": "2026-11-18T21:56:38.438436+00:00",
       "legacy_ids": [
         "gh_contentstack_8032547003"
       ],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-10-29T14:18:42.466659+00:00",
-      "last_seen": "2026-11-18T13:58:34.664430+00:00",
+      "last_seen": "2026-11-18T21:56:38.816570+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -6948,14 +6948,14 @@
       "source_id": "8878946002",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-18T13:58:29.757051+00:00",
+      "fetched_at": "2026-11-18T21:56:35.576129+00:00",
       "legacy_ids": [
         "gh_databricks_8878946002"
       ],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-11-02T11:04:35.141029+00:00",
-      "last_seen": "2026-11-18T13:58:31.336860+00:00",
+      "last_seen": "2026-11-18T21:56:37.341201+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -6994,14 +6994,14 @@
       "source_id": "6898755",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-18T13:58:33.682251+00:00",
+      "fetched_at": "2026-11-18T21:56:37.678142+00:00",
       "legacy_ids": [
         "gh_inmobi_6898755"
       ],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-11-02T20:47:23.233059+00:00",
-      "last_seen": "2026-11-18T13:58:34.045410+00:00",
+      "last_seen": "2026-11-18T21:56:37.866881+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -7017,14 +7017,14 @@
       "source_id": "5457986008",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-18T13:58:34.194310+00:00",
+      "fetched_at": "2026-11-18T21:56:37.846647+00:00",
       "legacy_ids": [
         "gh_observeai_5457986008"
       ],
       "experience_hint": "6 - 10 years of experience",
       "seniority": "unspecified",
       "first_seen": "2026-11-02T20:47:25.030909+00:00",
-      "last_seen": "2026-11-18T13:58:34.227322+00:00",
+      "last_seen": "2026-11-18T21:56:37.926574+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -7163,14 +7163,14 @@
       "source_id": "4746981005",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-18T13:58:37.247074+00:00",
+      "fetched_at": "2026-11-18T21:56:41.301467+00:00",
       "legacy_ids": [
         "gh_gleanwork_4746981005"
       ],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-11-04T15:26:24.615765+00:00",
-      "last_seen": "2026-11-18T13:58:37.378680+00:00",
+      "last_seen": "2026-11-18T21:56:41.392245+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -7186,14 +7186,14 @@
       "source_id": "8890971002",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-18T13:58:26.680388+00:00",
+      "fetched_at": "2026-11-18T21:56:33.960418+00:00",
       "legacy_ids": [
         "gh_gitlab_8890971002"
       ],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-11-04T21:53:10.221827+00:00",
-      "last_seen": "2026-11-18T13:58:27.139527+00:00",
+      "last_seen": "2026-11-18T21:56:34.289806+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -7225,19 +7225,19 @@
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8028473",
       "location": "Remote - India",
       "eligibility": "india",
-      "description": "<div class=\"content-intro\"><p><strong>Who we are&nbsp;</strong></p> <p>At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to<a class=\"c-link\" href=\"https://customers.twilio.com/\" target=\"_blank\" data-stringify-link=\"https://customers.twilio.com/\" data-sk=\"tooltip_parent\">&nbsp;hundreds of thousands of businesses&nbsp;</a>and empower millions of developers worldwide to craft personalized customer experiences.</p> <p>Our dedication to <a class=\"c-link\" href=\"https://www.twilio.com/en-us/blog/open-work\" target=\"_blank\" data-stringify-link=\"https://www.twilio.com/en-us/blog/open-work\" data-sk=\"tooltip_parent\">remote-first work</a>, and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.<br><span style=\"color: rgb(255, 255, 255);\">.</span></p> <p><strong>Hiring and how we work</strong></p> <p>We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!&nbsp;</p> <p>Also, while we are a remote-first company, you may be asked to report in person on an ad-hoc basis for team gatherings, functional off-sites or customer meetings.<br><span style=\"color: rgb(255, 255, 255);\">.</span></p></div><p><strong>See yourself at Twilio</strong></p> <p>Join the team as Twilio’s next Technical Support Engineer 2.</p> <p><strong>About the job</strong></p> <p>This position is needed to support our customers’ use of Twilio’s Programmable Messaging product. This role will function as the voice of Twilio to our customers and partners and operate as a subject matter expert for Twilio’s Programmable Messaging API. In addition, focus on providing friendly, professional customer service, while problem-solving and demonstrating a high competency in communicating complex technical issues to both technical and non-technical audiences via phone, email, and chat mediums. Advanced time management skills are able to work well under pressure, and are proficient at developing workflows to remain efficient at tasks while still following standard processes and procedures.&nbsp;</p> <p><strong>Responsibilities</strong></p> <p>In this role, you’ll:</p> <ul> <li>Work on support cases submitted by Wholesale providers.</li> <li>Resolve complex customer requests</li> <li>Assist customers with troubleshooting message deliverability issues and manage escalations with our Carrier partners.&nbsp;</li> <li>Contribute to existing documentation including to correct errors, the elaboration of details, updates to current standards.</li> <li>Speak with a customer on the phone in order to troubleshoot support issues or address questions.</li> <li>Collaborate with your teammates and the Twilio Product and Engineering teams via Slack.&nbsp;</li> <li>File Jira’s to report reproducible bugs and review our internal knowledge base to stay up to speed with industry shifts and standards.&nbsp;</li> <li>Work with your manager to surface customer problems to assist in process betterment.</li> </ul> <p><strong>Qualifications&nbsp;</strong></p> <p>Twilio values diverse experiences from all kinds of industries, and we encourage everyone who meets the required qualifications to apply. If your career is just starting or hasn't followed a traditional path, don't let that stop you from considering Twilio. We are always looking for people who will bring something new to the table!</p> <p><strong>*Required:</strong></p> <ul> <li>Bachelor’s degree or equivalent work experience</li> <li>3+ years of experience in a client-facing technical role, preferably in supporting REST API or enterprise software</li> <li>Position requires flexibility in work schedule weekend, swing, and night shifts</li> <li>Positive attitude and ability to communicate with a wide array of stakeholders</li> <li>A firm understanding of the technology stacks common to the Web and telco ecosystem.</li> <li>Functional knowledge of general-purpose programming languages.</li> <li>Strong problem-solving and technical troubleshooting skills</li> <li>Ability to professionally and diplomatically address customer concerns and provide concise feedback.</li> <li>Ability to de-escalate tense/tough customer situations in a live environment.&nbsp;</li> <li>Excellent reading comprehension, listening, and writing skills.</li> </ul> <p><strong>Desired:</strong></p> <ul> <li>Previous exposure or knowledge of Twilio products.</li> <li>Coding experience in any language. (reading and debugging)</li> <li>Previous experience with JIRA or a similar ticketing system.</li> </ul> <p><strong>Location</strong></p> <p>This role will be remote and based in India (Karnataka, Maharashtra, Tamil Nadu, Telangana, Delhi)</p> <p><strong>Travel&nbsp;</strong></p> <p>We prioritize connection and opportunities to build relationships with our customers and each other. For this role, you may be required to travel occasionally to participate in project or team in-person meetings.</p> <p><strong>What We Offer</strong></p> <p>Working at Twilio offers many benefits, including competitive pay, generous time off, ample parental and wellness leave, healthcare, a retirement savings program, and much more. Offerings vary by location.</p><div class=\"content-conclusion\"><p><strong>Twilio thinks big. Do you?</strong></p> <p>We like to solve problems, take initiative, pitch in when needed, and are always up for trying new things. That's why we seek out colleagues who embody our values — something we call <a href=\"https://www.twilio.com/company/values\">Twilio Magic</a>. Additionally, we empower employees to build <a href=\"https://twilio.org/support-and-resources/impact-fund\">positive change in their communities</a> by supporting their volunteering and donation efforts.</p> <p>So, if you're ready to unleash your full potential, do your best work, and be the best version of yourself, apply now! If this role isn't what you're looking for, <a href=\"https://www.twilio.com/company/jobs#open-positions\">please consider other open positions.</a></p> <p><strong><span style=\"color: rgb(255, 255, 255);\">.</span></strong></p> <p><strong>Stay alert to recruitment fraud</strong></p> <p>We care about your safety. Scammers sometimes impersonate Twilio recruiters through fake job postings, emails, websites, or messages. Please ensure you are engaging with an official @<a href=\"http://twilio.com\">twilio.com</a> email address. We will never ask for payment, gift cards, cryptocurrency, or banking information during the recruiting process. We do not make job offers without a formal interview process or conduct interviews exclusively through text-based messaging apps.<br><br><span style=\"color: rgb(255, 255, 255);\">.</span><strong> </strong></p> <p><strong>Twilio is proud to be an equal opportunity employer.</strong> We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Qualified applicants with arrest or conviction records will be considered for employment in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Additionally, Twilio participates in the E-Verify program in certain locations, as required by law.</p></div>",
+      "description": "<div class=\"content-intro\"><p><strong>Who we are&nbsp;</strong></p> <p>At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to<a class=\"c-link\" href=\"https://customers.twilio.com/\" target=\"_blank\" data-stringify-link=\"https://customers.twilio.com/\" data-sk=\"tooltip_parent\">&nbsp;hundreds of thousands of businesses&nbsp;</a>and empower millions of developers worldwide to craft personalized customer experiences.</p> <p>Our dedication to <a class=\"c-link\" href=\"https://www.twilio.com/en-us/blog/open-work\" target=\"_blank\" data-stringify-link=\"https://www.twilio.com/en-us/blog/open-work\" data-sk=\"tooltip_parent\">remote-first work</a>, and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.<br><span style=\"color: rgb(255, 255, 255);\">.</span></p> <p><strong>Hiring and how we work</strong></p> <p>We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!&nbsp;</p> <p>Also, while we are a remote-first company, you may be asked to report in person on an ad-hoc basis for team gatherings, functional off-sites or customer meetings.<br><span style=\"color: rgb(255, 255, 255);\">.</span><strong> </strong></p></div><p><strong>See yourself at Twilio</strong></p> <p>Join the team as Twilio’s next Technical Support Engineer 2.</p> <p><strong>About the job</strong></p> <p>This position is needed to support our customers’ use of Twilio’s Programmable Messaging product. This role will function as the voice of Twilio to our customers and partners and operate as a subject matter expert for Twilio’s Programmable Messaging API. In addition, focus on providing friendly, professional customer service, while problem-solving and demonstrating a high competency in communicating complex technical issues to both technical and non-technical audiences via phone, email, and chat mediums. Advanced time management skills are able to work well under pressure, and are proficient at developing workflows to remain efficient at tasks while still following standard processes and procedures.&nbsp;</p> <p><strong>Responsibilities</strong></p> <p>In this role, you’ll:</p> <ul> <li>Work on support cases submitted by Wholesale providers.</li> <li>Resolve complex customer requests</li> <li>Assist customers with troubleshooting message deliverability issues and manage escalations with our Carrier partners.&nbsp;</li> <li>Contribute to existing documentation including to correct errors, the elaboration of details, updates to current standards.</li> <li>Speak with a customer on the phone in order to troubleshoot support issues or address questions.</li> <li>Collaborate with your teammates and the Twilio Product and Engineering teams via Slack.&nbsp;</li> <li>File Jira’s to report reproducible bugs and review our internal knowledge base to stay up to speed with industry shifts and standards.&nbsp;</li> <li>Work with your manager to surface customer problems to assist in process betterment.</li> </ul> <p><strong>Qualifications&nbsp;</strong></p> <p>Twilio values diverse experiences from all kinds of industries, and we encourage everyone who meets the required qualifications to apply. If your career is just starting or hasn't followed a traditional path, don't let that stop you from considering Twilio. We are always looking for people who will bring something new to the table!</p> <p><strong>*Required:</strong></p> <ul> <li>Bachelor’s degree or equivalent work experience</li> <li>3+ years of experience in a client-facing technical role, preferably in supporting REST API or enterprise software</li> <li>Position requires flexibility in work schedule weekend, swing, and night shifts</li> <li>Positive attitude and ability to communicate with a wide array of stakeholders</li> <li>A firm understanding of the technology stacks common to the Web and telco ecosystem.</li> <li>Functional knowledge of general-purpose programming languages.</li> <li>Strong problem-solving and technical troubleshooting skills</li> <li>Ability to professionally and diplomatically address customer concerns and provide concise feedback.</li> <li>Ability to de-escalate tense/tough customer situations in a live environment.&nbsp;</li> <li>Excellent reading comprehension, listening, and writing skills.</li> </ul> <p><strong>Desired:</strong></p> <ul> <li>Previous exposure or knowledge of Twilio products.</li> <li>Coding experience in any language. (reading and debugging)</li> <li>Previous experience with JIRA or a similar ticketing system.</li> </ul> <p><strong>Location</strong></p> <p>This role will be remote and based in India (Karnataka, Maharashtra, Tamil Nadu, Telangana, Delhi)</p> <p><strong>Travel&nbsp;</strong></p> <p>We prioritize connection and opportunities to build relationships with our customers and each other. For this role, you may be required to travel occasionally to participate in project or team in-person meetings.</p> <p><strong>What We Offer</strong></p> <p>Working at Twilio offers many benefits, including competitive pay, generous time off, ample parental and wellness leave, healthcare, a retirement savings program, and much more. Offerings vary by location.</p><div class=\"content-conclusion\"><p><span style=\"color: rgb(255, 255, 255);\">.</span><strong> </strong></p> <p><strong>Twilio thinks big. Do you?</strong></p> <p>We like to solve problems, take initiative, pitch in when needed, and are always up for trying new things. That's why we seek out colleagues who embody our values — something we call <a href=\"https://www.twilio.com/company/values\">Twilio Magic</a>. Additionally, we empower employees to build <a href=\"https://twilio.org/support-and-resources/impact-fund\">positive change in their communities</a> by supporting their volunteering and donation efforts.</p> <p>So, if you're ready to unleash your full potential, do your best work, and be the best version of yourself, apply now! If this role isn't what you're looking for, <a href=\"https://www.twilio.com/company/jobs#open-positions\">please consider other open positions.</a><br><span style=\"color: rgb(255, 255, 255);\">.</span><strong> </strong></p> <p><strong>Stay alert to recruitment fraud</strong></p> <p>We care about your safety. Scammers sometimes impersonate Twilio recruiters through fake job postings, emails, websites, or messages. Please ensure you are engaging with an official @<a href=\"http://twilio.com\">twilio.com</a> email address. We will never ask for payment, gift cards, cryptocurrency, or banking information during the recruiting process. We do not make job offers without a formal interview process or conduct interviews exclusively through text-based messaging apps.<br><span style=\"color: rgb(255, 255, 255);\">.</span><strong> </strong></p> <p><strong>Twilio is proud to be an equal opportunity employer.</strong> We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Qualified applicants with arrest or conviction records will be considered for employment in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Additionally, Twilio participates in the E-Verify program in certain locations, as required by law.</p></div>",
       "source": "greenhouse",
       "source_id": "8028473",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-18T13:58:28.630289+00:00",
+      "fetched_at": "2026-11-18T21:56:35.006971+00:00",
       "legacy_ids": [
         "gh_twilio_8028473"
       ],
       "experience_hint": "3+ years of experience",
       "seniority": "unspecified",
       "first_seen": "2026-11-05T18:55:59.307213+00:00",
-      "last_seen": "2026-11-18T13:58:28.644144+00:00",
+      "last_seen": "2026-11-18T21:56:35.014882+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -7287,18 +7287,18 @@
         }
       },
       "published_at": "2026-06-01T08:53:34.275+00:00",
-      "fetched_at": "2026-11-18T13:58:36.340179+00:00",
+      "fetched_at": "2026-11-18T21:56:41.800207+00:00",
       "legacy_ids": [
         "ab_openai_87989505-81e5-4513-bba0-5f00bb064216"
       ],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-11-06T06:55:09.727949+00:00",
-      "last_seen": "2026-11-18T13:58:36.931016+00:00",
+      "last_seen": "2026-11-18T21:56:42.462697+00:00",
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-18T14:00:16.868458+00:00"
+      "link_checked_at": "2026-11-18T21:59:02.126471+00:00"
     },
     "f5e0d8f2c9cce008a5e1cad7bd93e955": {
       "id": "f5e0d8f2c9cce008a5e1cad7bd93e955",
@@ -7469,14 +7469,14 @@
       "source_id": "8327940",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-18T13:58:23.730865+00:00",
+      "fetched_at": "2026-11-18T21:56:32.147556+00:00",
       "legacy_ids": [
         "gh_rubrik_8327940"
       ],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-11-12T11:06:50.059022+00:00",
-      "last_seen": "2026-11-18T13:58:23.796231+00:00",
+      "last_seen": "2026-11-18T21:56:32.218384+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -7557,14 +7557,14 @@
       "source_id": "8377184",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-18T13:58:23.747194+00:00",
+      "fetched_at": "2026-11-18T21:56:32.158305+00:00",
       "legacy_ids": [
         "gh_rubrik_8377184"
       ],
       "experience_hint": "5-8 years of experience",
       "seniority": "unspecified",
       "first_seen": "2026-11-12T18:55:33.311707+00:00",
-      "last_seen": "2026-11-18T13:58:23.796255+00:00",
+      "last_seen": "2026-11-18T21:56:32.218403+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -7637,7 +7637,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-18T14:00:15.638034+00:00"
+      "link_checked_at": "2026-11-18T21:59:00.837074+00:00"
     },
     "d83a83f2d7965b56d6f8bb9905d1c440": {
       "id": "d83a83f2d7965b56d6f8bb9905d1c440",
@@ -7674,14 +7674,14 @@
       "source_id": "8349847",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-18T13:58:23.727001+00:00",
+      "fetched_at": "2026-11-18T21:56:32.144823+00:00",
       "legacy_ids": [
         "gh_rubrik_8349847"
       ],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-11-17T03:52:59.004445+00:00",
-      "last_seen": "2026-11-18T13:58:23.796221+00:00",
+      "last_seen": "2026-11-18T21:56:32.218372+00:00",
       "active": true,
       "delivered_at": null
     },
@@ -7706,7 +7706,7 @@
       "active": true,
       "delivered_at": null,
       "link_status": "reachable",
-      "link_checked_at": "2026-11-18T14:00:15.636755+00:00"
+      "link_checked_at": "2026-11-18T21:59:00.836450+00:00"
     },
     "f80c16808c84ba76c06e98a9d9883818": {
       "id": "f80c16808c84ba76c06e98a9d9883818",
@@ -7741,14 +7741,14 @@
       "source_id": "8122751",
       "compensation": {},
       "published_at": null,
-      "fetched_at": "2026-11-18T13:58:27.458006+00:00",
+      "fetched_at": "2026-11-18T21:56:34.558035+00:00",
       "legacy_ids": [
         "gh_mongodb_8122751"
       ],
       "experience_hint": "Not extracted; review posting",
       "seniority": "unspecified",
       "first_seen": "2026-11-18T13:58:27.818929+00:00",
-      "last_seen": "2026-11-18T13:58:27.818936+00:00",
+      "last_seen": "2026-11-18T21:56:35.039638+00:00",
       "active": true,
       "delivered_at": null
     }
@@ -7761,10 +7761,10 @@
       "pages": 0,
       "detail": "No verified URL",
       "source_url": "",
-      "checked_at": "2026-11-18T13:58:20.791669+00:00",
+      "checked_at": "2026-11-18T21:56:29.416635+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -7775,10 +7775,10 @@
       "pages": 0,
       "detail": "No verified URL",
       "source_url": "",
-      "checked_at": "2026-11-18T13:58:20.824409+00:00",
+      "checked_at": "2026-11-18T21:56:29.453819+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -7789,10 +7789,10 @@
       "pages": 0,
       "detail": "No verified URL",
       "source_url": "",
-      "checked_at": "2026-11-18T13:58:20.852833+00:00",
+      "checked_at": "2026-11-18T21:56:29.483694+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -7803,10 +7803,10 @@
       "pages": 0,
       "detail": "No verified URL",
       "source_url": "",
-      "checked_at": "2026-11-18T13:58:20.881177+00:00",
+      "checked_at": "2026-11-18T21:56:29.505781+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -7817,10 +7817,10 @@
       "pages": 0,
       "detail": "No verified URL",
       "source_url": "",
-      "checked_at": "2026-11-18T13:58:20.907890+00:00",
+      "checked_at": "2026-11-18T21:56:29.527769+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -7831,10 +7831,10 @@
       "pages": 0,
       "detail": "No verified URL",
       "source_url": "",
-      "checked_at": "2026-11-18T13:58:20.934420+00:00",
+      "checked_at": "2026-11-18T21:56:29.551173+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -7845,10 +7845,10 @@
       "pages": 0,
       "detail": "No verified URL",
       "source_url": "",
-      "checked_at": "2026-11-18T13:58:20.962702+00:00",
+      "checked_at": "2026-11-18T21:56:29.573073+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -7859,10 +7859,10 @@
       "pages": 0,
       "detail": "No verified URL",
       "source_url": "",
-      "checked_at": "2026-11-18T13:58:20.992055+00:00",
+      "checked_at": "2026-11-18T21:56:29.595270+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -7873,10 +7873,10 @@
       "pages": 0,
       "detail": "No verified URL",
       "source_url": "",
-      "checked_at": "2026-11-18T13:58:21.020037+00:00",
+      "checked_at": "2026-11-18T21:56:29.617283+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -7887,10 +7887,10 @@
       "pages": 0,
       "detail": "No verified URL",
       "source_url": "",
-      "checked_at": "2026-11-18T13:58:21.046833+00:00",
+      "checked_at": "2026-11-18T21:56:29.639271+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -7901,10 +7901,10 @@
       "pages": 0,
       "detail": "No verified URL",
       "source_url": "",
-      "checked_at": "2026-11-18T13:58:21.074837+00:00",
+      "checked_at": "2026-11-18T21:56:29.662507+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -7915,10 +7915,10 @@
       "pages": 0,
       "detail": "No verified URL",
       "source_url": "",
-      "checked_at": "2026-11-18T13:58:21.102510+00:00",
+      "checked_at": "2026-11-18T21:56:29.686165+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -7929,10 +7929,10 @@
       "pages": 0,
       "detail": "No verified URL",
       "source_url": "",
-      "checked_at": "2026-11-18T13:58:21.131148+00:00",
+      "checked_at": "2026-11-18T21:56:29.709742+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -7943,10 +7943,10 @@
       "pages": 0,
       "detail": "HTTP 429",
       "source_url": "https://akamai.wd1.myworkdayjobs.com/wday/cxs/akamai/External/jobs",
-      "checked_at": "2026-11-18T13:58:21.164943+00:00",
+      "checked_at": "2026-11-18T21:56:29.737980+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -7957,10 +7957,10 @@
       "pages": 0,
       "detail": "HTTP 429",
       "source_url": "https://qualcomm.wd5.myworkdayjobs.com/wday/cxs/qualcomm/External/jobs",
-      "checked_at": "2026-11-18T13:58:21.159502+00:00",
+      "checked_at": "2026-11-18T21:56:29.734266+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -7971,10 +7971,10 @@
       "pages": 0,
       "detail": "HTTP 429",
       "source_url": "https://walmart.wd5.myworkdayjobs.com/wday/cxs/walmart/WalmartExternal/jobs",
-      "checked_at": "2026-11-18T13:58:21.159836+00:00",
+      "checked_at": "2026-11-18T21:56:29.734722+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -7985,10 +7985,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/wayfair/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:21.256367+00:00",
+      "checked_at": "2026-11-18T21:56:29.815667+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -7999,25 +7999,25 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/arcesium/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:21.263172+00:00",
+      "checked_at": "2026-11-18T21:56:29.817554+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
     "Airbnb India": {
       "company": "Airbnb India",
       "status": "ok",
-      "total": 199,
+      "total": 201,
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/airbnb/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:21.208000+00:00",
+      "checked_at": "2026-11-18T21:56:29.783765+00:00",
       "scope": "whole board",
       "matched": 0,
       "consecutive_errors": 0,
-      "last_success": "2026-11-18T13:58:21.208000+00:00",
+      "last_success": "2026-11-18T21:56:29.783765+00:00",
       "alerted": false
     },
     "BlackRock India": {
@@ -8027,10 +8027,10 @@
       "pages": 0,
       "detail": "HTTP 429",
       "source_url": "https://blackrock.wd1.myworkdayjobs.com/wday/cxs/blackrock/BlackRock_Experienced_Professionals/jobs",
-      "checked_at": "2026-11-18T13:58:21.278201+00:00",
+      "checked_at": "2026-11-18T21:56:29.849387+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -8041,10 +8041,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/zeta/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:21.369377+00:00",
+      "checked_at": "2026-11-18T21:56:29.969407+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -8055,10 +8055,10 @@
       "pages": 0,
       "detail": "HTTP 429",
       "source_url": "https://citi.wd5.myworkdayjobs.com/wday/cxs/citi/ICG/jobs",
-      "checked_at": "2026-11-18T13:58:21.372358+00:00",
+      "checked_at": "2026-11-18T21:56:29.997225+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -8069,25 +8069,25 @@
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/coupang/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:21.210999+00:00",
+      "checked_at": "2026-11-18T21:56:29.814191+00:00",
       "scope": "whole board",
       "matched": 0,
       "consecutive_errors": 0,
-      "last_success": "2026-11-18T13:58:21.210999+00:00",
+      "last_success": "2026-11-18T21:56:29.814191+00:00",
       "alerted": false
     },
     "Coinbase India": {
       "company": "Coinbase India",
       "status": "ok",
-      "total": 255,
+      "total": 256,
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/coinbase/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:21.374950+00:00",
+      "checked_at": "2026-11-18T21:56:30.026213+00:00",
       "scope": "whole board",
       "matched": 2,
       "consecutive_errors": 0,
-      "last_success": "2026-11-18T13:58:21.374950+00:00",
+      "last_success": "2026-11-18T21:56:30.026213+00:00",
       "alerted": false
     },
     "Visa India": {
@@ -8097,25 +8097,25 @@
       "pages": 0,
       "detail": "HTTP 429",
       "source_url": "https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs",
-      "checked_at": "2026-11-18T13:58:21.332095+00:00",
+      "checked_at": "2026-11-18T21:56:29.851945+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 7,
+      "consecutive_errors": 8,
       "last_success": "2026-11-16T02:06:17.332148+00:00",
       "alerted": false
     },
     "Razorpay": {
       "company": "Razorpay",
       "status": "ok",
-      "total": 27,
+      "total": 28,
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/razorpaysoftwareprivatelimited/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:21.544905+00:00",
+      "checked_at": "2026-11-18T21:56:30.156978+00:00",
       "scope": "whole board",
       "matched": 1,
       "consecutive_errors": 0,
-      "last_success": "2026-11-18T13:58:21.544905+00:00",
+      "last_success": "2026-11-18T21:56:30.156978+00:00",
       "alerted": false
     },
     "Intuit India": {
@@ -8125,10 +8125,10 @@
       "pages": 0,
       "detail": "HTTP 429",
       "source_url": "https://intuit.wd1.myworkdayjobs.com/wday/cxs/intuit/Intuit_Careers/jobs",
-      "checked_at": "2026-11-18T13:58:21.601924+00:00",
+      "checked_at": "2026-11-18T21:56:30.180032+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -8139,10 +8139,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/rippling/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:21.713780+00:00",
+      "checked_at": "2026-11-18T21:56:30.405066+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -8153,10 +8153,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://api.lever.co/v0/postings/phonepe?mode=json",
-      "checked_at": "2026-11-18T13:58:21.824464+00:00",
+      "checked_at": "2026-11-18T21:56:30.605662+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -8167,11 +8167,11 @@
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/groww/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:21.844501+00:00",
+      "checked_at": "2026-11-18T21:56:30.676658+00:00",
       "scope": "whole board",
       "matched": 0,
       "consecutive_errors": 0,
-      "last_success": "2026-11-18T13:58:21.844501+00:00",
+      "last_success": "2026-11-18T21:56:30.676658+00:00",
       "alerted": false
     },
     "CoinSwitch": {
@@ -8181,10 +8181,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://api.lever.co/v0/postings/coinswitch?mode=json",
-      "checked_at": "2026-11-18T13:58:22.037150+00:00",
+      "checked_at": "2026-11-18T21:56:30.707574+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -8195,10 +8195,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://api.lever.co/v0/postings/yubi?mode=json",
-      "checked_at": "2026-11-18T13:58:22.125413+00:00",
+      "checked_at": "2026-11-18T21:56:30.715681+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -8209,10 +8209,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://api.lever.co/v0/postings/sliceit?mode=json",
-      "checked_at": "2026-11-18T13:58:22.230906+00:00",
+      "checked_at": "2026-11-18T21:56:30.772346+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -8223,10 +8223,10 @@
       "pages": 0,
       "detail": "HTTP 429",
       "source_url": "https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs",
-      "checked_at": "2026-11-18T13:58:21.158473+00:00",
+      "checked_at": "2026-11-18T21:56:29.733589+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 7,
+      "consecutive_errors": 8,
       "last_success": "2026-11-16T02:06:16.471846+00:00",
       "alerted": false
     },
@@ -8237,10 +8237,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/smallcase/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:22.430044+00:00",
+      "checked_at": "2026-11-18T21:56:30.838881+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -8251,10 +8251,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/jeeveshq/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:22.676671+00:00",
+      "checked_at": "2026-11-18T21:56:30.867701+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -8265,10 +8265,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/khatabook/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:22.683416+00:00",
+      "checked_at": "2026-11-18T21:56:30.913340+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -8279,10 +8279,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/progcap/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:22.869195+00:00",
+      "checked_at": "2026-11-18T21:56:31.078697+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -8293,10 +8293,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/simpl/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:22.886325+00:00",
+      "checked_at": "2026-11-18T21:56:31.155480+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -8307,10 +8307,10 @@
       "pages": 0,
       "detail": "HTTP 429",
       "source_url": "https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/External/jobs",
-      "checked_at": "2026-11-18T13:58:23.019546+00:00",
+      "checked_at": "2026-11-18T21:56:31.156584+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -8321,39 +8321,39 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://api.lever.co/v0/postings/blackhawknetwork?mode=json",
-      "checked_at": "2026-11-18T13:58:23.151500+00:00",
+      "checked_at": "2026-11-18T21:56:31.214909+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
     "Rubrik India": {
       "company": "Rubrik India",
       "status": "ok",
-      "total": 197,
+      "total": 199,
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/rubrik/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:23.201946+00:00",
+      "checked_at": "2026-11-18T21:56:31.344384+00:00",
       "scope": "whole board",
-      "matched": 5,
+      "matched": 4,
       "consecutive_errors": 0,
-      "last_success": "2026-11-18T13:58:23.201946+00:00",
+      "last_success": "2026-11-18T21:56:31.344384+00:00",
       "alerted": false
     },
     "Netskope India": {
       "company": "Netskope India",
       "status": "ok",
-      "total": 123,
+      "total": 129,
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/netskope/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:23.317360+00:00",
+      "checked_at": "2026-11-18T21:56:31.346640+00:00",
       "scope": "whole board",
       "matched": 1,
       "consecutive_errors": 0,
-      "last_success": "2026-11-18T13:58:23.317360+00:00",
+      "last_success": "2026-11-18T21:56:31.346640+00:00",
       "alerted": false
     },
     "Confluent India": {
@@ -8363,10 +8363,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/confluent/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:23.795384+00:00",
+      "checked_at": "2026-11-18T21:56:31.354033+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -8377,25 +8377,25 @@
       "pages": 2,
       "detail": "",
       "source_url": "https://api.lever.co/v0/postings/paytm?mode=json",
-      "checked_at": "2026-11-18T13:58:23.091186+00:00",
+      "checked_at": "2026-11-18T21:56:31.163286+00:00",
       "scope": "whole board",
       "matched": 1,
       "consecutive_errors": 0,
-      "last_success": "2026-11-18T13:58:23.091186+00:00",
+      "last_success": "2026-11-18T21:56:31.163286+00:00",
       "alerted": false
     },
     "Databricks India": {
       "company": "Databricks India",
       "status": "ok",
-      "total": 897,
+      "total": 899,
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:23.915626+00:00",
+      "checked_at": "2026-11-18T21:56:31.441246+00:00",
       "scope": "whole board",
       "matched": 1,
       "consecutive_errors": 0,
-      "last_success": "2026-11-18T13:58:23.915626+00:00",
+      "last_success": "2026-11-18T21:56:31.441246+00:00",
       "alerted": false
     },
     "Snowflake India": {
@@ -8405,10 +8405,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/snowflake/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:23.950384+00:00",
+      "checked_at": "2026-11-18T21:56:31.530870+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -8419,10 +8419,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/uptycs/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:24.201919+00:00",
+      "checked_at": "2026-11-18T21:56:31.801330+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -8433,10 +8433,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/fortanix/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:24.521258+00:00",
+      "checked_at": "2026-11-18T21:56:31.959466+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -8447,10 +8447,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/safesecurity/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:24.700462+00:00",
+      "checked_at": "2026-11-18T21:56:32.163555+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -8461,11 +8461,11 @@
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/gitlab/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:24.199590+00:00",
+      "checked_at": "2026-11-18T21:56:31.616807+00:00",
       "scope": "whole board",
       "matched": 3,
       "consecutive_errors": 0,
-      "last_success": "2026-11-18T13:58:24.199590+00:00",
+      "last_success": "2026-11-18T21:56:31.616807+00:00",
       "alerted": false
     },
     "Teradata India": {
@@ -8475,10 +8475,10 @@
       "pages": 0,
       "detail": "HTTP 429",
       "source_url": "https://teradata.wd1.myworkdayjobs.com/wday/cxs/teradata/Teradata_Careers/jobs",
-      "checked_at": "2026-11-18T13:58:24.860525+00:00",
+      "checked_at": "2026-11-18T21:56:32.194537+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -8489,10 +8489,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/docusign/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:25.222526+00:00",
+      "checked_at": "2026-11-18T21:56:32.431217+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -8503,25 +8503,25 @@
       "pages": 0,
       "detail": "HTTP 429",
       "source_url": "https://experian.wd3.myworkdayjobs.com/wday/cxs/experian/Experian_Careers/jobs",
-      "checked_at": "2026-11-18T13:58:25.071772+00:00",
+      "checked_at": "2026-11-18T21:56:32.311619+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
     "Elastic India": {
       "company": "Elastic India",
       "status": "ok",
-      "total": 374,
+      "total": 375,
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/elastic/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:25.329155+00:00",
+      "checked_at": "2026-11-18T21:56:32.559614+00:00",
       "scope": "whole board",
       "matched": 1,
       "consecutive_errors": 0,
-      "last_success": "2026-11-18T13:58:25.329155+00:00",
+      "last_success": "2026-11-18T21:56:32.559614+00:00",
       "alerted": false
     },
     "PayPal India": {
@@ -8531,10 +8531,10 @@
       "pages": 0,
       "detail": "HTTP 429",
       "source_url": "https://paypal.wd1.myworkdayjobs.com/wday/cxs/paypal/jobs/jobs",
-      "checked_at": "2026-11-18T13:58:21.502396+00:00",
+      "checked_at": "2026-11-18T21:56:30.096707+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 7,
+      "consecutive_errors": 8,
       "last_success": "2026-11-16T02:06:18.709097+00:00",
       "alerted": false
     },
@@ -8545,25 +8545,25 @@
       "pages": 0,
       "detail": "HTTP 429",
       "source_url": "https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs",
-      "checked_at": "2026-11-18T13:58:21.159011+00:00",
+      "checked_at": "2026-11-18T21:56:29.734019+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 7,
+      "consecutive_errors": 8,
       "last_success": "2026-11-16T02:06:16.472309+00:00",
       "alerted": false
     },
     "MongoDB India": {
       "company": "MongoDB India",
       "status": "ok",
-      "total": 396,
+      "total": 397,
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/mongodb/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:25.737877+00:00",
+      "checked_at": "2026-11-18T21:56:32.933031+00:00",
       "scope": "whole board",
       "matched": 1,
       "consecutive_errors": 0,
-      "last_success": "2026-11-18T13:58:25.737877+00:00",
+      "last_success": "2026-11-18T21:56:32.933031+00:00",
       "alerted": false
     },
     "Swiggy": {
@@ -8573,25 +8573,25 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://api.lever.co/v0/postings/swiggy?mode=json",
-      "checked_at": "2026-11-18T13:58:28.632608+00:00",
+      "checked_at": "2026-11-18T21:56:35.014246+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
     "Cloudflare India": {
       "company": "Cloudflare India",
       "status": "ok",
-      "total": 489,
+      "total": 497,
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/cloudflare/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:26.395726+00:00",
+      "checked_at": "2026-11-18T21:56:33.628077+00:00",
       "scope": "whole board",
       "matched": 0,
       "consecutive_errors": 0,
-      "last_success": "2026-11-18T13:58:26.395726+00:00",
+      "last_success": "2026-11-18T21:56:33.628077+00:00",
       "alerted": false
     },
     "Freshworks": {
@@ -8601,10 +8601,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/freshworks/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:28.806813+00:00",
+      "checked_at": "2026-11-18T21:56:35.014402+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -8615,25 +8615,25 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/atlassian/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:28.961071+00:00",
+      "checked_at": "2026-11-18T21:56:35.174373+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
     "Twilio India": {
       "company": "Twilio India",
       "status": "ok",
-      "total": 112,
+      "total": 110,
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/twilio/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:27.138856+00:00",
+      "checked_at": "2026-11-18T21:56:33.775728+00:00",
       "scope": "whole board",
       "matched": 3,
       "consecutive_errors": 0,
-      "last_success": "2026-11-18T13:58:27.138856+00:00",
+      "last_success": "2026-11-18T21:56:33.775728+00:00",
       "alerted": false
     },
     "CRED": {
@@ -8643,10 +8643,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://api.lever.co/v0/postings/dreamplug?mode=json",
-      "checked_at": "2026-11-18T13:58:29.366202+00:00",
+      "checked_at": "2026-11-18T21:56:35.452863+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -8657,10 +8657,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/curefit/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:31.331253+00:00",
+      "checked_at": "2026-11-18T21:56:35.838334+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -8671,10 +8671,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://api.lever.co/v0/postings/zepto?mode=json",
-      "checked_at": "2026-11-18T13:58:29.506034+00:00",
+      "checked_at": "2026-11-18T21:56:35.660509+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -8685,25 +8685,25 @@
       "pages": 1,
       "detail": "",
       "source_url": "https://api.lever.co/v0/postings/meesho?mode=json",
-      "checked_at": "2026-11-18T13:58:29.111137+00:00",
+      "checked_at": "2026-11-18T21:56:35.286552+00:00",
       "scope": "whole board",
       "matched": 2,
       "consecutive_errors": 0,
-      "last_success": "2026-11-18T13:58:29.111137+00:00",
+      "last_success": "2026-11-18T21:56:35.286552+00:00",
       "alerted": false
     },
     "Samsara India": {
       "company": "Samsara India",
       "status": "ok",
-      "total": 313,
+      "total": 307,
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/samsara/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:27.817825+00:00",
+      "checked_at": "2026-11-18T21:56:34.289055+00:00",
       "scope": "whole board",
       "matched": 1,
       "consecutive_errors": 0,
-      "last_success": "2026-11-18T13:58:27.817825+00:00",
+      "last_success": "2026-11-18T21:56:34.289055+00:00",
       "alerted": false
     },
     "Notion India": {
@@ -8713,11 +8713,11 @@
       "pages": 1,
       "detail": "",
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/notion?includeCompensation=true",
-      "checked_at": "2026-11-18T13:58:31.488499+00:00",
+      "checked_at": "2026-11-18T21:56:36.065296+00:00",
       "scope": "whole board",
       "matched": 0,
       "consecutive_errors": 0,
-      "last_success": "2026-11-18T13:58:31.488499+00:00",
+      "last_success": "2026-11-18T21:56:36.065296+00:00",
       "alerted": false
     },
     "ShareChat": {
@@ -8727,10 +8727,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/sharechat/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:33.483082+00:00",
+      "checked_at": "2026-11-18T21:56:37.088914+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -8741,10 +8741,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/juspay/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:33.834049+00:00",
+      "checked_at": "2026-11-18T21:56:37.340952+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -8755,10 +8755,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/urbancompany/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:33.617086+00:00",
+      "checked_at": "2026-11-18T21:56:37.219413+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -8769,25 +8769,25 @@
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/inmobi/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:32.368226+00:00",
+      "checked_at": "2026-11-18T21:56:36.972100+00:00",
       "scope": "whole board",
       "matched": 3,
       "consecutive_errors": 0,
-      "last_success": "2026-11-18T13:58:32.368226+00:00",
+      "last_success": "2026-11-18T21:56:36.972100+00:00",
       "alerted": false
     },
     "Atlan": {
       "company": "Atlan",
       "status": "ok",
-      "total": 8,
+      "total": 7,
       "pages": 1,
       "detail": "",
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/atlan?includeCompensation=true",
-      "checked_at": "2026-11-18T13:58:33.845792+00:00",
+      "checked_at": "2026-11-18T21:56:37.363089+00:00",
       "scope": "whole board",
       "matched": 0,
       "consecutive_errors": 0,
-      "last_success": "2026-11-18T13:58:33.845792+00:00",
+      "last_success": "2026-11-18T21:56:37.363089+00:00",
       "alerted": false
     },
     "Instabase": {
@@ -8797,10 +8797,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/instabase/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:33.945250+00:00",
+      "checked_at": "2026-11-18T21:56:37.444342+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -8811,11 +8811,11 @@
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/observeai/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:34.043677+00:00",
+      "checked_at": "2026-11-18T21:56:37.622009+00:00",
       "scope": "whole board",
       "matched": 1,
       "consecutive_errors": 0,
-      "last_success": "2026-11-18T13:58:34.043677+00:00",
+      "last_success": "2026-11-18T21:56:37.622009+00:00",
       "alerted": false
     },
     "Yellow.ai": {
@@ -8825,10 +8825,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://api.lever.co/v0/postings/yellowmessenger?mode=json",
-      "checked_at": "2026-11-18T13:58:33.953078+00:00",
+      "checked_at": "2026-11-18T21:56:37.532319+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -8839,10 +8839,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/harness/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:34.110155+00:00",
+      "checked_at": "2026-11-18T21:56:37.730946+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -8853,11 +8853,11 @@
       "pages": 1,
       "detail": "",
       "source_url": "https://api.lever.co/v0/postings/hevo?mode=json",
-      "checked_at": "2026-11-18T13:58:34.014590+00:00",
+      "checked_at": "2026-11-18T21:56:37.543496+00:00",
       "scope": "whole board",
       "matched": 0,
       "consecutive_errors": 0,
-      "last_success": "2026-11-18T13:58:34.014590+00:00",
+      "last_success": "2026-11-18T21:56:37.543496+00:00",
       "alerted": false
     },
     "Plivo": {
@@ -8867,10 +8867,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/plivo/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:34.112176+00:00",
+      "checked_at": "2026-11-18T21:56:37.764829+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -8881,11 +8881,11 @@
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/simpplr/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:34.225657+00:00",
+      "checked_at": "2026-11-18T21:56:37.866356+00:00",
       "scope": "whole board",
       "matched": 0,
       "consecutive_errors": 0,
-      "last_success": "2026-11-18T13:58:34.225657+00:00",
+      "last_success": "2026-11-18T21:56:37.866356+00:00",
       "alerted": false
     },
     "Multiplier": {
@@ -8895,10 +8895,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/multiplier/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:34.223927+00:00",
+      "checked_at": "2026-11-18T21:56:37.846706+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -8909,10 +8909,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/pixis/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:34.291003+00:00",
+      "checked_at": "2026-11-18T21:56:37.868347+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -8923,10 +8923,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://api.lever.co/v0/postings/lambdatest?mode=json",
-      "checked_at": "2026-11-18T13:58:34.194390+00:00",
+      "checked_at": "2026-11-18T21:56:37.824367+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -8937,10 +8937,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/moveworks/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:34.363672+00:00",
+      "checked_at": "2026-11-18T21:56:37.938344+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -8951,10 +8951,10 @@
       "pages": 0,
       "detail": "HTTP 429",
       "source_url": "https://db.wd3.myworkdayjobs.com/wday/cxs/db/DBWebsite/jobs",
-      "checked_at": "2026-11-18T13:58:21.412107+00:00",
+      "checked_at": "2026-11-18T21:56:30.063195+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 7,
+      "consecutive_errors": 8,
       "last_success": "2026-11-16T02:06:18.631069+00:00",
       "alerted": false
     },
@@ -8965,10 +8965,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/dataweave/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:34.467314+00:00",
+      "checked_at": "2026-11-18T21:56:38.073245+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -8979,11 +8979,11 @@
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/sigmoid/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:34.397733+00:00",
+      "checked_at": "2026-11-18T21:56:38.001576+00:00",
       "scope": "whole board",
       "matched": 2,
       "consecutive_errors": 0,
-      "last_success": "2026-11-18T13:58:34.397733+00:00",
+      "last_success": "2026-11-18T21:56:38.001576+00:00",
       "alerted": false
     },
     "Contentstack": {
@@ -8993,11 +8993,11 @@
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/contentstack/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:34.556095+00:00",
+      "checked_at": "2026-11-18T21:56:38.090001+00:00",
       "scope": "whole board",
       "matched": 2,
       "consecutive_errors": 0,
-      "last_success": "2026-11-18T13:58:34.556095+00:00",
+      "last_success": "2026-11-18T21:56:38.090001+00:00",
       "alerted": false
     },
     "Builder.ai": {
@@ -9007,10 +9007,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/builderai/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:34.598601+00:00",
+      "checked_at": "2026-11-18T21:56:38.264902+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -9021,10 +9021,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/saaslabs/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:34.663751+00:00",
+      "checked_at": "2026-11-18T21:56:38.441362+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -9035,25 +9035,25 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/catchpoint/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:34.688891+00:00",
+      "checked_at": "2026-11-18T21:56:38.458871+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
     "Tenstorrent": {
       "company": "Tenstorrent",
       "status": "ok",
-      "total": 133,
+      "total": 131,
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/tenstorrent/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:34.436535+00:00",
+      "checked_at": "2026-11-18T21:56:38.002921+00:00",
       "scope": "whole board",
       "matched": 0,
       "consecutive_errors": 0,
-      "last_success": "2026-11-18T13:58:34.436535+00:00",
+      "last_success": "2026-11-18T21:56:38.002921+00:00",
       "alerted": false
     },
     "Postman": {
@@ -9063,10 +9063,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/postman/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:34.768382+00:00",
+      "checked_at": "2026-11-18T21:56:38.561401+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -9077,10 +9077,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/chargebee/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:34.916150+00:00",
+      "checked_at": "2026-11-18T21:56:38.697188+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -9091,10 +9091,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/darwinbox/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:34.940154+00:00",
+      "checked_at": "2026-11-18T21:56:38.724629+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -9105,10 +9105,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/whatfix/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:35.026967+00:00",
+      "checked_at": "2026-11-18T21:56:38.777466+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -9119,10 +9119,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/alphonso/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:35.088554+00:00",
+      "checked_at": "2026-11-18T21:56:38.904548+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -9133,10 +9133,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/sprinklr/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:35.132949+00:00",
+      "checked_at": "2026-11-18T21:56:38.947306+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -9147,10 +9147,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/moengage/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:35.163814+00:00",
+      "checked_at": "2026-11-18T21:56:39.009945+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -9161,10 +9161,10 @@
       "pages": 0,
       "detail": "HTTP 404",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/clevertap/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:35.177357+00:00",
+      "checked_at": "2026-11-18T21:56:39.034424+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -9175,25 +9175,25 @@
       "pages": 0,
       "detail": "HTTP 429",
       "source_url": "https://cognizant.wd1.myworkdayjobs.com/wday/cxs/cognizant/Cognizant_Careers/jobs",
-      "checked_at": "2026-11-18T13:58:35.220869+00:00",
+      "checked_at": "2026-11-18T21:56:39.037298+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
     "DRW": {
       "company": "DRW",
       "status": "ok",
-      "total": 156,
+      "total": 151,
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/drweng/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:35.264624+00:00",
+      "checked_at": "2026-11-18T21:56:39.085590+00:00",
       "scope": "whole board",
       "matched": 0,
       "consecutive_errors": 0,
-      "last_success": "2026-11-18T13:58:35.264624+00:00",
+      "last_success": "2026-11-18T21:56:39.085590+00:00",
       "alerted": false
     },
     "Warner Bros Discovery": {
@@ -9203,10 +9203,10 @@
       "pages": 0,
       "detail": "HTTP 429",
       "source_url": "https://warnerbros.wd5.myworkdayjobs.com/wday/cxs/warnerbros/global/jobs",
-      "checked_at": "2026-11-18T13:58:32.114238+00:00",
+      "checked_at": "2026-11-18T21:56:36.798858+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 7,
+      "consecutive_errors": 8,
       "last_success": "2026-11-16T02:06:29.221137+00:00",
       "alerted": false
     },
@@ -9217,25 +9217,25 @@
       "pages": 0,
       "detail": "HTTP 429",
       "source_url": "https://browserstack.wd3.myworkdayjobs.com/wday/cxs/browserstack/External/jobs",
-      "checked_at": "2026-11-18T13:58:34.866501+00:00",
+      "checked_at": "2026-11-18T21:56:38.656786+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 7,
+      "consecutive_errors": 8,
       "last_success": "2026-11-16T02:06:31.829463+00:00",
       "alerted": false
     },
     "Anthropic": {
       "company": "Anthropic",
       "status": "ok",
-      "total": 658,
+      "total": 647,
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:35.290283+00:00",
+      "checked_at": "2026-11-18T21:56:39.115975+00:00",
       "scope": "whole board",
       "matched": 0,
       "consecutive_errors": 0,
-      "last_success": "2026-11-18T13:58:35.290283+00:00",
+      "last_success": "2026-11-18T21:56:39.115975+00:00",
       "alerted": false
     },
     "Perplexity": {
@@ -9245,53 +9245,53 @@
       "pages": 1,
       "detail": "",
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/perplexity?includeCompensation=true",
-      "checked_at": "2026-11-18T13:58:35.683525+00:00",
+      "checked_at": "2026-11-18T21:56:39.265471+00:00",
       "scope": "whole board",
       "matched": 0,
       "consecutive_errors": 0,
-      "last_success": "2026-11-18T13:58:35.683525+00:00",
+      "last_success": "2026-11-18T21:56:39.265471+00:00",
       "alerted": false
     },
     "Ramp": {
       "company": "Ramp",
       "status": "ok",
-      "total": 181,
+      "total": 182,
       "pages": 1,
       "detail": "",
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/ramp?includeCompensation=true",
-      "checked_at": "2026-11-18T13:58:35.543546+00:00",
+      "checked_at": "2026-11-18T21:56:39.153667+00:00",
       "scope": "whole board",
       "matched": 0,
       "consecutive_errors": 0,
-      "last_success": "2026-11-18T13:58:35.543546+00:00",
+      "last_success": "2026-11-18T21:56:39.153667+00:00",
       "alerted": false
     },
     "Linear": {
       "company": "Linear",
       "status": "ok",
-      "total": 33,
+      "total": 32,
       "pages": 1,
       "detail": "",
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/linear?includeCompensation=true",
-      "checked_at": "2026-11-18T13:58:35.901681+00:00",
+      "checked_at": "2026-11-18T21:56:39.731489+00:00",
       "scope": "whole board",
       "matched": 0,
       "consecutive_errors": 0,
-      "last_success": "2026-11-18T13:58:35.901681+00:00",
+      "last_success": "2026-11-18T21:56:39.731489+00:00",
       "alerted": false
     },
     "Vercel": {
       "company": "Vercel",
       "status": "ok",
-      "total": 87,
+      "total": 86,
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/vercel/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:36.006218+00:00",
+      "checked_at": "2026-11-18T21:56:40.130156+00:00",
       "scope": "whole board",
       "matched": 0,
       "consecutive_errors": 0,
-      "last_success": "2026-11-18T13:58:36.006218+00:00",
+      "last_success": "2026-11-18T21:56:40.130156+00:00",
       "alerted": false
     },
     "Graviton Research Capital": {
@@ -9301,25 +9301,25 @@
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/gravitonresearchcapital/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:36.889534+00:00",
+      "checked_at": "2026-11-18T21:56:40.765804+00:00",
       "scope": "whole board",
       "matched": 5,
       "consecutive_errors": 0,
-      "last_success": "2026-11-18T13:58:36.889534+00:00",
+      "last_success": "2026-11-18T21:56:40.765804+00:00",
       "alerted": false
     },
     "Glean": {
       "company": "Glean",
       "status": "ok",
-      "total": 120,
+      "total": 124,
       "pages": 1,
       "detail": "",
       "source_url": "https://boards-api.greenhouse.io/v1/boards/gleanwork/jobs?content=true",
-      "checked_at": "2026-11-18T13:58:36.063915+00:00",
+      "checked_at": "2026-11-18T21:56:40.698618+00:00",
       "scope": "whole board",
       "matched": 4,
       "consecutive_errors": 0,
-      "last_success": "2026-11-18T13:58:36.063915+00:00",
+      "last_success": "2026-11-18T21:56:40.698618+00:00",
       "alerted": false
     },
     "OpenAI": {
@@ -9329,10 +9329,10 @@
       "pages": 1,
       "detail": "1 malformed postings",
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai?includeCompensation=true",
-      "checked_at": "2026-11-18T13:58:35.297510+00:00",
+      "checked_at": "2026-11-18T21:56:39.140238+00:00",
       "scope": "whole board",
       "matched": 1,
-      "consecutive_errors": 6,
+      "consecutive_errors": 7,
       "last_success": "2026-11-16T09:42:50.793479+00:00",
       "alerted": false
     },
@@ -9343,10 +9343,10 @@
       "pages": 0,
       "detail": "HTTP 429",
       "source_url": "https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs",
-      "checked_at": "2026-11-18T13:58:35.057967+00:00",
+      "checked_at": "2026-11-18T21:56:38.860087+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 8,
+      "consecutive_errors": 9,
       "last_success": "2026-11-15T21:48:53.782621+00:00",
       "alerted": false
     },
@@ -9357,10 +9357,10 @@
       "pages": 0,
       "detail": "HTTP 429",
       "source_url": "https://micron.wd1.myworkdayjobs.com/wday/cxs/micron/External/jobs",
-      "checked_at": "2026-11-18T13:58:21.163453+00:00",
+      "checked_at": "2026-11-18T21:56:29.736493+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 273,
+      "consecutive_errors": 274,
       "last_success": null,
       "alerted": false
     },
@@ -9371,24 +9371,24 @@
       "pages": 1,
       "detail": "No structured postings extracted; not proof of zero openings",
       "source_url": "https://careers.google.com/jobs/results/?location=India&q=",
-      "checked_at": "2026-11-16T20:31:08.860051+00:00",
+      "checked_at": "2026-11-18T21:58:10.436404+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 46,
+      "consecutive_errors": 47,
       "last_success": null,
       "alerted": false
     },
     "Amazon / AWS": {
       "company": "Amazon / AWS",
       "status": "partial",
-      "total": 36,
+      "total": 32,
       "pages": 12,
-      "detail": "; detail limit 30/36",
+      "detail": "; detail limit 30/32",
       "source_url": "https://www.amazon.jobs/en/search?base_query={role}&loc_query=India",
-      "checked_at": "2026-11-16T20:31:08.860362+00:00",
+      "checked_at": "2026-11-18T21:58:10.622869+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 46,
+      "consecutive_errors": 47,
       "last_success": null,
       "alerted": false
     },
@@ -9399,10 +9399,10 @@
       "pages": 0,
       "detail": "Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://jobs.microsoft.com/en/us/search?q=engineer&lc=India\nCall log:\n  - navigating to \"https://jobs.microsoft.com/en/us/search?q=engineer&lc=India\", waiting until \"domcontentloaded\"\n",
       "source_url": "https://jobs.microsoft.com/en/us/search?q={role}&lc=India",
-      "checked_at": "2026-11-16T20:31:08.860567+00:00",
+      "checked_at": "2026-11-18T21:58:44.162849+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 46,
+      "consecutive_errors": 47,
       "last_success": null,
       "alerted": false
     },
@@ -9413,24 +9413,24 @@
       "pages": 1,
       "detail": "No structured postings extracted; not proof of zero openings",
       "source_url": "https://www.metacareers.com/jobs?offices[0]=India&q={role}",
-      "checked_at": "2026-11-16T20:31:08.950127+00:00",
+      "checked_at": "2026-11-18T21:58:44.163207+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 46,
+      "consecutive_errors": 47,
       "last_success": null,
       "alerted": false
     },
     "Apple India": {
       "company": "Apple India",
-      "status": "failed",
+      "status": "unverified",
       "total": 0,
-      "pages": 0,
-      "detail": "TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://jobs.apple.com/en-us/search?location=india-IND&search=engineer\", waiting until \"domcontentloaded\"\n",
+      "pages": 1,
+      "detail": "No structured postings extracted; not proof of zero openings",
       "source_url": "https://jobs.apple.com/en-us/search?location=india-IND&search={role}",
-      "checked_at": "2026-11-16T20:31:10.750032+00:00",
+      "checked_at": "2026-11-18T21:58:44.163411+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 46,
+      "consecutive_errors": 47,
       "last_success": null,
       "alerted": false
     },
@@ -9441,10 +9441,10 @@
       "pages": 1,
       "detail": "No structured postings extracted; not proof of zero openings",
       "source_url": "https://careers.linkedin.com/jobs?keywords={role}&location=India",
-      "checked_at": "2026-11-16T20:31:11.027435+00:00",
+      "checked_at": "2026-11-18T21:58:44.248434+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 46,
+      "consecutive_errors": 47,
       "last_success": null,
       "alerted": false
     },
@@ -9455,10 +9455,10 @@
       "pages": 1,
       "detail": "No structured postings extracted; not proof of zero openings",
       "source_url": "https://careers.mediatek.com/eREC/JobSearch/Index?JobKeywords={role}&CountryID=IN",
-      "checked_at": "2026-11-16T20:31:43.054364+00:00",
+      "checked_at": "2026-11-18T21:58:45.634771+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 46,
+      "consecutive_errors": 47,
       "last_success": null,
       "alerted": false
     },
@@ -9469,24 +9469,24 @@
       "pages": 1,
       "detail": "No structured postings extracted; not proof of zero openings",
       "source_url": "https://jobs.bytedance.com/en/position?keywords={role}&location=India",
-      "checked_at": "2026-11-16T20:31:43.054703+00:00",
+      "checked_at": "2026-11-18T21:58:46.688172+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 46,
+      "consecutive_errors": 47,
       "last_success": null,
       "alerted": false
     },
     "Zalando India": {
       "company": "Zalando India",
       "status": "partial",
-      "total": 3,
+      "total": 1,
       "pages": 1,
       "detail": "Generic extraction; site-specific pagination/coverage not verified",
       "source_url": "https://jobs.zalando.com/en/jobs?locations=India&search={role}",
-      "checked_at": "2026-11-16T20:31:43.054864+00:00",
+      "checked_at": "2026-11-18T21:58:51.866076+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 46,
+      "consecutive_errors": 47,
       "last_success": null,
       "alerted": false
     },
@@ -9497,10 +9497,10 @@
       "pages": 1,
       "detail": "No structured postings extracted; not proof of zero openings",
       "source_url": "https://lgads.tv/careers/",
-      "checked_at": "2026-11-16T20:31:45.465819+00:00",
+      "checked_at": "2026-11-18T21:58:51.866387+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 46,
+      "consecutive_errors": 47,
       "last_success": null,
       "alerted": false
     },
@@ -9511,10 +9511,10 @@
       "pages": 1,
       "detail": "No structured postings extracted; not proof of zero openings",
       "source_url": "https://careers.amd.com/careers-home/jobs?location=India&keywords={role}",
-      "checked_at": "2026-11-16T20:31:45.946034+00:00",
+      "checked_at": "2026-11-18T21:58:51.866603+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 46,
+      "consecutive_errors": 47,
       "last_success": null,
       "alerted": false
     },
@@ -9525,10 +9525,10 @@
       "pages": 1,
       "detail": "No structured postings extracted; not proof of zero openings",
       "source_url": "https://careers.arm.com/en/search-results?keywords={role}&location=India",
-      "checked_at": "2026-11-16T20:31:47.242279+00:00",
+      "checked_at": "2026-11-18T21:58:53.485076+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 46,
+      "consecutive_errors": 47,
       "last_success": null,
       "alerted": false
     },
@@ -9539,10 +9539,10 @@
       "pages": 0,
       "detail": "Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://careers.marvell.com/search-results?keywords=engineer&location=India\nCall log:\n  - navigating to \"https://careers.marvell.com/search-results?keywords=engineer&location=India\", waiting until \"domcontentloaded\"\n",
       "source_url": "https://careers.marvell.com/search-results?keywords={role}&location=India",
-      "checked_at": "2026-11-16T20:31:57.686445+00:00",
+      "checked_at": "2026-11-18T21:58:53.656688+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 46,
+      "consecutive_errors": 47,
       "last_success": null,
       "alerted": false
     },
@@ -9553,10 +9553,10 @@
       "pages": 1,
       "detail": "No structured postings extracted; not proof of zero openings",
       "source_url": "https://www.nxp.com/careers-home/jobs?location=India&keywords={role}",
-      "checked_at": "2026-11-16T20:31:57.686785+00:00",
+      "checked_at": "2026-11-18T21:58:53.814910+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 46,
+      "consecutive_errors": 47,
       "last_success": null,
       "alerted": false
     },
@@ -9567,10 +9567,10 @@
       "pages": 1,
       "detail": "No structured postings extracted; not proof of zero openings",
       "source_url": "https://www.onsemi.com/careers/job-search?keywords={role}&location=India",
-      "checked_at": "2026-11-16T20:31:57.686953+00:00",
+      "checked_at": "2026-11-18T21:58:56.456556+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 46,
+      "consecutive_errors": 47,
       "last_success": null,
       "alerted": false
     },
@@ -9581,10 +9581,10 @@
       "pages": 1,
       "detail": "No structured postings extracted; not proof of zero openings",
       "source_url": "https://www.skyworksinc.com/en/Careers",
-      "checked_at": "2026-11-16T20:31:57.765273+00:00",
+      "checked_at": "2026-11-18T21:58:56.458960+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 46,
+      "consecutive_errors": 47,
       "last_success": null,
       "alerted": false
     },
@@ -9595,10 +9595,10 @@
       "pages": 1,
       "detail": "No structured postings extracted; not proof of zero openings",
       "source_url": "https://jobs.westerndigital.com/search-jobs?k={role}&l=India",
-      "checked_at": "2026-11-16T20:31:59.301436+00:00",
+      "checked_at": "2026-11-18T21:58:56.459273+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 46,
+      "consecutive_errors": 47,
       "last_success": null,
       "alerted": false
     },
@@ -9609,10 +9609,10 @@
       "pages": 0,
       "detail": "Access challenge; no bypass attempted",
       "source_url": "https://careers.microchip.com/en/search-results?keywords={role}&location=India",
-      "checked_at": "2026-11-16T20:31:59.992063+00:00",
+      "checked_at": "2026-11-18T21:58:58.002451+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 46,
+      "consecutive_errors": 47,
       "last_success": null,
       "alerted": false
     },
@@ -9623,10 +9623,10 @@
       "pages": 1,
       "detail": "No structured postings extracted; not proof of zero openings",
       "source_url": "https://www.infineon.com/cms/en/careers/search-and-apply/?query={role}&location=India",
-      "checked_at": "2026-11-17T03:53:20.395485+00:00",
+      "checked_at": "2026-11-18T21:58:58.564755+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 46,
+      "consecutive_errors": 47,
       "last_success": null,
       "alerted": false
     },
@@ -9637,10 +9637,10 @@
       "pages": 1,
       "detail": "No structured postings extracted; not proof of zero openings",
       "source_url": "https://www.asteralabs.com/careers/",
-      "checked_at": "2026-11-17T03:53:20.396019+00:00",
+      "checked_at": "2026-11-18T21:58:59.100546+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 46,
+      "consecutive_errors": 47,
       "last_success": null,
       "alerted": false
     },
@@ -12143,10 +12143,10 @@
       "pages": 1,
       "detail": "No structured postings extracted; not proof of zero openings",
       "source_url": "https://careers.boozallen.com/",
-      "checked_at": "2026-11-16T20:29:38.613344+00:00",
+      "checked_at": "2026-11-18T21:56:43.619767+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 45,
+      "consecutive_errors": 46,
       "last_success": null,
       "alerted": false
     },
@@ -12157,10 +12157,10 @@
       "pages": 1,
       "detail": "No structured postings extracted; not proof of zero openings",
       "source_url": "https://careers.arrow.com/",
-      "checked_at": "2026-11-16T20:29:40.027197+00:00",
+      "checked_at": "2026-11-18T21:56:43.621254+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 45,
+      "consecutive_errors": 46,
       "last_success": null,
       "alerted": false
     },
@@ -12171,10 +12171,10 @@
       "pages": 1,
       "detail": "No structured postings extracted; not proof of zero openings",
       "source_url": "https://apply.slb.com/careers/profile",
-      "checked_at": "2026-11-16T20:29:40.754016+00:00",
+      "checked_at": "2026-11-18T21:56:43.621495+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 45,
+      "consecutive_errors": 46,
       "last_success": null,
       "alerted": false
     },
@@ -12185,10 +12185,10 @@
       "pages": 1,
       "detail": "No structured postings extracted; not proof of zero openings",
       "source_url": "https://jobs.kochcareers.com/en/search/jobs/in/country/india",
-      "checked_at": "2026-11-16T20:29:42.652536+00:00",
+      "checked_at": "2026-11-18T21:56:45.925011+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 45,
+      "consecutive_errors": 46,
       "last_success": null,
       "alerted": false
     },
@@ -12199,10 +12199,10 @@
       "pages": 0,
       "detail": "Access challenge; no bypass attempted",
       "source_url": "https://www.autodesk.com/careers/search-jobs?location=India",
-      "checked_at": "2026-11-16T20:29:48.771450+00:00",
+      "checked_at": "2026-11-18T21:56:46.466794+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 45,
+      "consecutive_errors": 46,
       "last_success": null,
       "alerted": false
     },
@@ -12213,10 +12213,10 @@
       "pages": 12,
       "detail": "; detail limit 30/39",
       "source_url": "https://www.truefirms.co/jobs",
-      "checked_at": "2026-11-16T20:29:48.771758+00:00",
+      "checked_at": "2026-11-18T21:56:47.560812+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 45,
+      "consecutive_errors": 46,
       "last_success": null,
       "alerted": false
     },
@@ -12227,10 +12227,10 @@
       "pages": 1,
       "detail": "TimeoutError: Locator.click: Timeout 12000ms exceeded.\nCall log:\n  - waiting for locator(\"a[rel=\\\"next\\\"], button[aria-label=\\\"Next\\\"], button[aria-label=\\\"Next page\\\"], a[aria-label=\\\"Next page\\\"]\").first\n    - locator resolved to <button tabindex=\"0\" type=\"button\" role=\"button\" aria-label=\"Next\" class=\"MuiButtonBase-root MuiIconButton-root MuiIco",
       "source_url": "https://www.emerson.com/en/corporate/careers",
-      "checked_at": "2026-11-16T20:29:48.771956+00:00",
+      "checked_at": "2026-11-18T21:57:53.448786+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 45,
+      "consecutive_errors": 46,
       "last_success": null,
       "alerted": false
     },
@@ -12241,10 +12241,10 @@
       "pages": 1,
       "detail": "No structured postings extracted; not proof of zero openings",
       "source_url": "https://algotest.in/careers",
-      "checked_at": "2026-11-16T20:29:50.123516+00:00",
+      "checked_at": "2026-11-18T21:57:53.449532+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 45,
+      "consecutive_errors": 46,
       "last_success": null,
       "alerted": false
     },
@@ -12255,10 +12255,10 @@
       "pages": 0,
       "detail": "Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.trellix.com/about/careers/\nCall log:\n  - navigating to \"https://www.trellix.com/about/careers/\", waiting until \"domcontentloaded\"\n",
       "source_url": "https://www.trellix.com/about/careers/",
-      "checked_at": "2026-11-16T20:29:54.521535+00:00",
+      "checked_at": "2026-11-18T21:57:53.449730+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 45,
+      "consecutive_errors": 46,
       "last_success": null,
       "alerted": false
     },
@@ -12269,10 +12269,10 @@
       "pages": 1,
       "detail": "No structured postings extracted; not proof of zero openings",
       "source_url": "https://talent.lowes.com/us/en/lowes-india",
-      "checked_at": "2026-11-16T20:29:54.610866+00:00",
+      "checked_at": "2026-11-18T21:57:53.792645+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 45,
+      "consecutive_errors": 46,
       "last_success": null,
       "alerted": false
     },
@@ -12283,10 +12283,10 @@
       "pages": 1,
       "detail": "No structured postings extracted; not proof of zero openings",
       "source_url": "https://wingify.com/careers/",
-      "checked_at": "2026-11-16T20:30:58.004978+00:00",
+      "checked_at": "2026-11-18T21:57:57.102762+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 45,
+      "consecutive_errors": 46,
       "last_success": null,
       "alerted": false
     },
@@ -12297,10 +12297,10 @@
       "pages": 1,
       "detail": "Generic extraction; site-specific pagination/coverage not verified",
       "source_url": "https://jobs.nike.com/?location=India",
-      "checked_at": "2026-11-16T20:30:58.005288+00:00",
+      "checked_at": "2026-11-18T21:57:58.305337+00:00",
       "scope": "whole board",
       "matched": 1,
-      "consecutive_errors": 45,
+      "consecutive_errors": 46,
       "last_success": null,
       "alerted": false
     },
@@ -12311,10 +12311,10 @@
       "pages": 0,
       "detail": "Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://careers.honeywell.com/us/en/search-results?location=India\nCall log:\n  - navigating to \"https://careers.honeywell.com/us/en/search-results?location=India\", waiting until \"domcontentloaded\"\n",
       "source_url": "https://careers.honeywell.com/us/en/search-results?location=India",
-      "checked_at": "2026-11-16T20:30:58.005471+00:00",
+      "checked_at": "2026-11-18T21:58:08.242072+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 45,
+      "consecutive_errors": 46,
       "last_success": null,
       "alerted": false
     },
@@ -12325,10 +12325,10 @@
       "pages": 1,
       "detail": "Generic extraction; site-specific pagination/coverage not verified",
       "source_url": "https://wellfound.com/company/redrobofficial/jobs",
-      "checked_at": "2026-11-16T20:31:00.651989+00:00",
+      "checked_at": "2026-11-18T21:58:08.242418+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 45,
+      "consecutive_errors": 46,
       "last_success": null,
       "alerted": false
     },
@@ -12339,10 +12339,10 @@
       "pages": 1,
       "detail": "No structured postings extracted; not proof of zero openings",
       "source_url": "https://redis.io/careers/",
-      "checked_at": "2026-11-16T20:31:00.811910+00:00",
+      "checked_at": "2026-11-18T21:58:08.242613+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 45,
+      "consecutive_errors": 46,
       "last_success": null,
       "alerted": false
     },
@@ -12353,13 +12353,13 @@
       "pages": 1,
       "detail": "No structured postings extracted; not proof of zero openings",
       "source_url": "https://www.redhat.com/en/jobs",
-      "checked_at": "2026-11-16T20:31:02.726221+00:00",
+      "checked_at": "2026-11-18T21:58:08.409930+00:00",
       "scope": "whole board",
       "matched": 0,
-      "consecutive_errors": 45,
+      "consecutive_errors": 46,
       "last_success": null,
       "alerted": false
     }
   },
-  "browser_cursor": 198
+  "browser_cursor": 20
 }
